@@ -2,9 +2,21 @@
 const { createCanvas, loadImage, GlobalFonts } = require('@napi-rs/canvas')
 const fs = require('fs')
 
+// 字体：优先用可免费商用的思源全家桶 / 得意黑；系统字体只作兜底。
+// ⚠️ 苹方、微软雅黑、方正、汉仪等需商业授权，不要用于对外物料 —— 见 references/typography.md
+for (const dir of [`${process.env.HOME}/Library/Fonts`, '/Library/Fonts',
+                   '/usr/share/fonts', `${process.env.HOME}/.local/share/fonts`]) {
+  try { GlobalFonts.loadFontsFromDir(dir) } catch (e) {}
+}
 ;['/System/Library/Fonts/Hiragino Sans GB.ttc',
   '/System/Library/Fonts/Supplemental/Songti.ttc'].forEach(p => { try { GlobalFonts.registerFromPath(p) } catch (e) {} })
-const SANS = '"Hiragino Sans GB"'
+
+const has = n => GlobalFonts.families.some(f => f.family === n)
+const pick = (cands, fb) => cands.find(has) || fb
+const SANS  = `"${pick(['Source Han Sans SC','Noto Sans CJK SC','Alibaba PuHuiTi 3.0',
+                        'HarmonyOS Sans SC','OPPOSans'], 'Hiragino Sans GB')}"`
+const SERIF = `"${pick(['Source Han Serif SC','Noto Serif CJK SC','KingHwa_OldSong'], 'Songti SC')}"`
+if (process.env.DUREX_FONT_DEBUG) console.error('fonts →', { SANS, SERIF })
 
 // 从真海报抠出的参数
 const INK   = '#2B2724'          // 正文
