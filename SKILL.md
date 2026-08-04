@@ -97,6 +97,11 @@ A｜〈公式名〉
 
 ### Step 3 · 出文案
 
+**动笔前先扫一遍 `references/diction.md`，定稿后再用它的自检表过一遍。**
+公式（`copy-formulas.md`）决定文案成不成立，措辞（`diction.md`）决定它像不像人写的。
+结构对了但用词是 AI 腔——句子拖长、形容词堆砌、标点没语气、末尾还总结一句自己多妙——一眼就假。
+其中最难戒的是**解释自己**：写完那句就停，不要补一句「这就是……的力量」。
+
 **默认只出短文案。**
 
 | | 短文案（默认） | 长文案（用户要才出） |
@@ -219,6 +224,7 @@ A｜〈公式名〉
 
 - `references/corpus.md` —— 语料库：借势/节日/节气/诗歌/产品文案（34 个来源、260 张原始海报）
 - `references/copy-formulas.md` —— 8 个公式的详细拆解与套用模板
+- `references/diction.md` —— 措辞与语感：句长/标点/人称/AI 味对照表（**每次出文案必过**）
 - `references/visual-system.md` —— 视觉系统完整规范
 - `references/typography.md` —— 字体选型集：八类字体、免费商用替代、授权红线
 - `references/ratios.md` —— 五种画幅的构图与文案量规范
