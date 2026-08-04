@@ -60,7 +60,7 @@ Step 4  出图 —— AI 出静物主体图层 + 代码排版
 
 ```bash
 git clone https://github.com/crawfordxx/xiaoma-durex-copywriter.git \
-  ~/.claude/skills/durex-style-copy
+  ~/.claude/skills/xiaoma-durex-copywriter
 ```
 
 Claude Code 下次启动即可用。触发词：「写个文案」「借势热点」「节日海报」「想句 slogan」「课程怎么推」「像杜蕾斯那样写」。
