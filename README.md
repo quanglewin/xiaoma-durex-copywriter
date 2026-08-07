@@ -5,8 +5,8 @@
 不是教你写黄段子。**污只是那个品类的表层材料**，真正可迁移的是一套制造「我懂了」瞬间的机制——把材料换成 AI 课程、职场、理财、健身，机制照样成立。
 
 <p align="center">
-  <img src="examples/output/keys_3x4.jpg" width="300">
-  <img src="examples/output/tearoff_3x4.jpg" width="300">
+  <img src="examples/output/lays_onechip_3x4.jpg" width="300">
+  <img src="examples/output/lays_daynight_3x4.jpg" width="300">
 </p>
 
 ---
@@ -170,16 +170,20 @@ AI 生图模型渲染中文仍会**错字、缺笔画、字形崩坏**，且不�
 
 ## 示例
 
-`examples/output/` 是用本 Skill 实做的一套「AI 课程」海报，五种比例：
+`examples/output/` 是用本 Skill 给乐事薯片实做的两张海报，同一个品牌、两套完全不同的骨架：
 
-主文案 **「会提问的人，不需要更好的模型。」**
-副标 **「试一百把钥匙，不如问对一次。」**
+| <img src="examples/output/lays_onechip_3x4.jpg" width="240"> | <img src="examples/output/lays_daynight_3x4.jpg" width="240"> |
+|---|---|
+| **「就吃一片。」**<br>眉题「今天第 4 次这么说」 | **「白天数卡路里，晚上数薯片。」**<br>眉题 A.M. 09:30 / P.M. 11:40 |
+| 词义劫持 · 产品主体阵列 | 对仗 · 上下分栏双场景 |
 
-道具选钥匙——一大串杂乱的 vs 一把对的，同构那句副标，而且钥匙 = 打开。
+左边：文案只是你对自己说的一句话，底下四包从虚到实排开，说了四次、开了四包。眉题的「4」和画面里的四包对上，一跳可达，不用推理。
 
-| 3:4 | 1:1 | 16:9 |
-|---|---|---|
-| <img src="examples/output/keys_3x4.jpg" width="200"> | <img src="examples/output/keys_1x1.jpg" width="200"> | <img src="examples/output/keys_16x9.jpg" width="260"> |
+右边：唯一的对仗结构，画面从中间切开——上半冷白是白天，下半暗黄是夜里，薯片压过分界线掉下去，白天那半的努力就是这么没的。
+
+两张都遵守同一批硬规矩：文案 ≤ 12 字、关键词放大 1.7 倍染品牌红、留白 ≥ 50%、Logo 恒定底部居中且不被主体压。配色一律走**借势撞色**（直接用乐事自己的黄 + 红），不从六套配色里挑——给具体品牌做时这是第一顺位。
+
+素材全部是真图：包装是乐事官网的官方 packshot，Logo 取自 Wikimedia Commons，字体用思源黑体（SIL OFL，可商用）。**不要自己捏假包装。**
 
 `examples/durex-reference/` 是 24 张杜蕾斯原始海报的低分辨率样本，供对照学习排版规律用（见下方版权声明）。
 
