@@ -114,6 +114,14 @@ A working pun is only the passing grade. To get **actively shared**, the line ha
 
 Topics have a shelf life. Two hours late and nobody is looking.
 
+### ⭐ How that speed is actually achieved: write the outcomes in advance
+
+Durex Vietnam's content team, for major matches involving the national side, **prepares two posts before kickoff — one for a win, one for a loss** — and publishes whichever one the result calls for (see `corpus-vn.md`).
+
+Shipping in 1–9 minutes is not thinking faster than everyone else. It is **having finished thinking before the event happened.** For any *scheduled* event — a match, an awards show, a product launch, an election, an earnings call — the outcomes are a short list. Write them all, sit on them, publish the one that lands.
+
+This only applies to scheduled events. Genuine surprises (a rainstorm, an accident, a bank glitch) still have to be caught live, which is what the rest of this section is about.
+
 **If it doesn't come, let it go. Don't strain for it.** A forced connection hurts the brand more than silence — which is also why judging the fit is step one: judging fast is what frees up time for the ones you can actually do.
 
 ---

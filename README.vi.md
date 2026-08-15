@@ -205,6 +205,7 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 ├── SKILL.md                      # File chính: cơ chế, quy trình, tra nhanh công thức, lằn ranh
 ├── references/
 │   ├── corpus.md                 # Kho ngữ liệu (34 nguồn / 260 poster)
+│   ├── corpus-vn.md              # Kho Durex Việt Nam + cảnh báo gán nhầm nguồn
 │   ├── copy-formulas.md          # 8 công thức chi tiết + mẫu chuyển ngành
 │   ├── visual-system.md          # Quy chuẩn hệ thống thị giác đầy đủ
 │   ├── typography.md             # Chọn font + lằn ranh bản quyền
@@ -220,6 +221,8 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
     ├── output/                   # Thành phẩm làm bằng skill này
     └── durex-reference/          # Mẫu độ phân giải thấp của bản gốc
 ```
+
+> Mỗi file trong `references/` đều có bản tiếng Việt song song `*.vi.md`. Skill khi chạy nạp bộ tiếng Anh; bộ `.vi.md` là tài liệu để đọc.
 
 ---
 

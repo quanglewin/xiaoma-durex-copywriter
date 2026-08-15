@@ -263,6 +263,7 @@ See `references/other-uses.md`. Quick list: social media headlines and covers / 
 ## Reference Files
 
 - `references/corpus.md` — Corpus: newsjacking / holidays / seasonal markers / verse / product copy (34 sources, 260 original posters)
+- `references/corpus-vn.md` — Durex Vietnam corpus: the method running in a second language, plus **which viral "Durex" posts were never Durex** and how the team pre-writes outcomes to hit a minutes-long window
 - `references/finding-the-hook.md` — **Finding the connection: five hook types + landing on "you" (mandatory first pass before writing)**
 - `references/copy-formulas.md` — Detailed breakdown and templates for all 8 formulas
 - `references/diction.md` — Wording and voice: sentence length / punctuation / person / AI-voice comparison table (**mandatory pass every time you write**)

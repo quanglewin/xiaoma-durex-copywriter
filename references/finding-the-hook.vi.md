@@ -114,6 +114,14 @@ Chơi chữ đứng được mới chỉ là điểm sàn. Muốn được **ch�
 
 Trend có hạn dùng. Trễ hai tiếng là không còn ai nhìn.
 
+### ⭐ Tốc độ đó thực ra đạt được thế nào: viết sẵn các kịch bản
+
+Đội content của Durex Việt Nam, với những trận đấu lớn của tuyển quốc gia, **chuẩn bị sẵn hai bài trước giờ bóng lăn — một cho kịch bản thắng, một cho kịch bản thua** — rồi đăng bài khớp với kết quả (xem `corpus-vn.vi.md`).
+
+Ra bài trong 1–9 phút không phải là nghĩ nhanh hơn thiên hạ. Đó là **đã nghĩ xong từ trước khi sự kiện xảy ra.** Với mọi sự kiện *có lịch trước* — trận đấu, lễ trao giải, buổi ra mắt sản phẩm, bầu cử, họp báo tài chính — kết quả chỉ có vài khả năng. Viết hết đi, ngồi ôm đó, tới lúc thì đăng bài trúng.
+
+Điều này chỉ áp cho sự kiện có lịch. Bất ngờ thật sự (mưa bão, tai nạn, sự cố ngân hàng) vẫn phải bắt sống, và đó là nội dung của phần còn lại trong mục này.
+
 **Không nghĩ ra thì buông, đừng gồng.** Bài gượng ép hại thương hiệu hơn là im lặng — đó cũng là lý do bước một phải xét độ khớp: xét nhanh thì mới dư thời gian cho những trend thực sự làm được.
 
 ---
