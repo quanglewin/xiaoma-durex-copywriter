@@ -1,5 +1,7 @@
 # xiaoma-durex-copywriter
 
+**English** · [Tiếng Việt](README.vi.md)
+
 > A Claude Code / Claude.ai Skill. Produces copy and posters using the **"double-layered meaning + negative space"** method from Durex's golden era on Chinese social media (2011–2017, run by the agency Environment Interactive).
 
 What transfers out of this method is a mechanism for manufacturing the "oh, I get it" moment. Dirty was only the surface material of Durex's category — swap the material for an AI course, careers, personal finance, or fitness, and the mechanism still holds.
