@@ -1,164 +1,164 @@
-# 字体选型集
+# Type Selection
 
-从 260 张原始海报归纳。分三部分：**选型策略 → 八类字体与免费替代 → 授权红线**。
+Derived from 260 original posters. Three parts: **selection strategy → eight categories and their free alternatives → licensing red lines**.
 
-> ⚠️ **先读授权那一节。** 中文字体侵权是国内营销物料最高频的法律风险——方正、汉仪的批量维权案非常多，一张海报用错字体，索赔常在数千到数万元。**「电脑里有」不等于「能商用」。**
+> ⚠️ **Read the licensing section first.** Chinese font infringement is the single most common legal risk in Chinese marketing collateral — Founder (方正) and Hanyi (汉仪) run large-scale enforcement, and the wrong font on one poster commonly draws claims in the thousands to tens of thousands of yuan. **"It's on my computer" does not mean "I can use it commercially."**
 
 ---
 
-## 一、选型策略：字体本身就是借势的一部分
+## 1. Strategy: The Typeface Is Itself Part of the Newsjack
 
-这是杜蕾斯字体用法里最容易被忽略、也最值钱的一条。
+This is the most overlooked and most valuable rule in how Durex uses type.
 
-**借势时，字体跟着借势对象走，而不是跟着品牌走。**
+**When riding a topic, the typeface follows the thing you're riding, not your brand.**
 
-| 借势对象 | 海报用的字体语言 |
+| What's being ridden | The type language on the poster |
 |---|---|
-| iPhone X 发布 | 苹方 / SF Pro 细体，纯黑底，完全复刻 Apple 发布会视觉 |
-| 电影海报（蜘蛛侠 / 猩球崛起） | 做旧粗衬线 + 手写 script 副标，复刻好莱坞海报字体层级 |
-| CS:GO 联名 | 直接嵌进游戏 UI，用游戏自己的界面字体 |
-| Win98 弹窗 | 宋体点阵 + 系统窗口，复刻 98 年中文版 |
-| 文革宣传画 | 老宋 / 仿宋竖排 + 粗黑标语 |
-| 老黄历 / 节气 | 楷书 + 老宋，朱红边框 |
-| 复古地图（I SURROUND YOU） | 做旧无衬线大写 + 铜版画质感 |
+| The iPhone X launch | PingFang / SF Pro Light, pure black ground, an exact replica of Apple keynote visuals |
+| Movie posters (Spider-Man / Planet of the Apes) | Distressed heavy serif + handwritten script subhead, replicating the Hollywood poster type hierarchy |
+| The CS:GO collab | Embedded straight into the game UI, using the game's own interface font |
+| A Win98 dialog box | Bitmap Song + a system window, replicating the 1998 Chinese edition |
+| Cultural-Revolution propaganda | Old Song / Fangsong set vertically + heavy sans slogans |
+| The old almanac / seasonal markers | Kai + old Song, vermilion border |
+| A vintage map (I SURROUND YOU) | Distressed sans caps + copperplate-engraving texture |
 
-**为什么有效**：读者对这些视觉语言有肌肉记忆。字体一出来，还没读文案就已经认出"这是在说 iPhone"。这本身就完成了双层语义的**表层**，文案只需负责里层。
+**Why it works**: readers have muscle memory for these visual languages. The typeface appears and, before reading a word, they recognize "this is about the iPhone." That alone completes the **surface layer** of the double meaning, leaving the copy responsible only for the inner layer.
 
-**所以选型第一问不是「哪个字体好看」，而是「我这次在仿谁」。** 仿谁就用谁的字体语言。没有借势对象时，才回到下面的自有字体系统。
-
----
-
-## 二、八类字体与免费商用替代
-
-杜蕾斯自有调性时的字体系统。每类给出**原版观感**和**可免费商用的替代**。
-
-### 1. 现代黑体（正文主力，出现率最高）
-
-海报正文、年度报告体、日常文案。**细到中等字重**，字距略松，绝不用粗体。
-
-| 推荐 | 授权 | 备注 |
-|---|---|---|
-| **思源黑体 Source Han Sans** | SIL OFL ✅ | 7 个字重，首选。Noto Sans CJK SC 是同一套字 |
-| 阿里巴巴普惠体 3.0 | 免费商用 ✅ | 字形更现代，屏显锐利，含多字重 |
-| HarmonyOS Sans SC | 免费商用 ✅ | 中宫略大，适合小字号 |
-| OPPO Sans | 免费商用 ✅ | 字形圆润一点 |
-| ~~苹方 PingFang SC~~ | ⚠️ 见红线 | 效果最像原版，但商用有风险 |
-
-### 2. 粗黑体（大标题、产品名、"优秀短篇小说"那类）
-
-作为**纯字体主体**时用。字重要够狠，笔画方硬。
-
-| 推荐 | 授权 | 备注 |
-|---|---|---|
-| **得意黑 Smiley Sans** | SIL OFL ✅ | 倾斜紧凑、力量感强，非常适合借势标题，近年国产免费字体里最好用的一个 |
-| 思源黑体 Heavy | SIL OFL ✅ | 稳妥选择 |
-| 站酷高端黑 | 免费商用 ✅ | 更硬朗 |
-| 未来荧黑 Glow Sans | SIL OFL ✅ | 窄体，适合长标题压一行 |
-
-### 3. 宋体（文艺、诗歌体、克制路线）
-
-诗歌体那 25 首、「见之不显，隐薄于空」那类。**细宋 + 超大字距 + 居中**。
-
-| 推荐 | 授权 | 备注 |
-|---|---|---|
-| **思源宋体 Source Han Serif** | SIL OFL ✅ | 首选 |
-| 京华老宋体 | 免费商用 ✅ | 老宋味，适合日历 / 民国风 / 文革风 |
-| 遇见明朝 | SIL OFL ✅ | 明朝体，秀气 |
-
-### 4. 楷书 / 书法（中国风、节气、"完满毕业 愿意为妳"）
-
-| 推荐 | 授权 | 备注 |
-|---|---|---|
-| **霞鹜文楷 LXGW WenKai** | SIL OFL ✅ | 楷体，兼具可读性与手写感，节气系列首选 |
-| 马善政毛笔楷书 | 免费商用 ✅ | 真毛笔感，适合大字标题 |
-| 演示悠然小楷 / 秋鸿楷 | 免费商用 ✅ | 更飘逸 |
-| 江西拙楷 | 免费商用 ✅ | 拙朴 |
-
-### 5. 手写体（感恩节互致信件那类）
-
-要的是"真的有人拿笔写"的感觉，**不能太工整**。
-
-| 推荐 | 授权 | 备注 |
-|---|---|---|
-| 站酷快乐体 | 免费商用 ✅ | 圆润随性 |
-| 演示悠然小楷 | 免费商用 ✅ | 偏文气 |
-| 手写体最佳解是**真的手写后扫描** | — | 杜蕾斯那几张就是真手写，字体做不出那个不匀 |
-
-### 6. 英文无衬线（「Red now」「WET IS OVER」「LET'S 杜」）
-
-| 场景 | 推荐 | 授权 |
-|---|---|---|
-| 通用正文 | Inter / Roboto | OFL / Apache ✅ |
-| 大标题几何感 | Montserrat / Poppins | OFL ✅ |
-| 窄体压一行（WET IS OVER 那种） | Oswald / Barlow Condensed / Bebas Neue | OFL ✅ |
-| 复古大写 | Archivo Black | OFL ✅ |
-
-### 7. 英文衬线 / Script（「We are forever, too」婚礼感、电影海报副标）
-
-| 场景 | 推荐 | 授权 |
-|---|---|---|
-| 优雅衬线 | Playfair Display / Cormorant Garamond | OFL ✅ |
-| 手写 Script | Great Vibes / Parisienne | OFL ✅ |
-| 电影海报做旧 | Cinzel + 后期加噪点/喷漆质感 | OFL ✅ |
-
-### 8. 数字 / 等宽（年度报告的「520 小时」「69 次」、界面仿制、代码海报）
-
-数字是杜蕾斯双关的重灾区，**值得单独选一款字**。
-
-| 推荐 | 授权 | 备注 |
-|---|---|---|
-| **Archivo / Barlow** | OFL ✅ | DIN 的免费近似，数字方正有力 |
-| Space Mono / JetBrains Mono | OFL ✅ | 等宽，界面仿制、代码海报（Ada Lovelace 那张）用 |
-| Oswald | OFL ✅ | 窄高数字，适合大数字主体 |
+**So the first question is never "which typeface looks good" but "who am I imitating this time."** Imitate someone, use their type language. Only when there is nothing to ride do you fall back to the house system below.
 
 ---
 
-## 三、授权红线（务必看）
+## 2. Eight Categories and Their Free Commercial Alternatives
 
-### ❌ 高风险：不要用于商业物料
+The type system for when Durex is in its own voice. Each category gives **how the original reads** and a **freely commercially usable substitute**.
 
-| 字体 | 问题 |
+### 1. Modern sans (body workhorse, the most frequent)
+
+Poster body copy, the year-in-review format, everyday lines. **Light to medium weights**, slightly loose tracking, never bold.
+
+| Recommended | License | Notes |
+|---|---|---|
+| **Source Han Sans (思源黑体)** | SIL OFL ✅ | 7 weights, first choice. Noto Sans CJK SC is the same typeface |
+| Alibaba PuHuiTi 3.0 | Free for commercial use ✅ | More modern forms, sharp on screen, multiple weights |
+| HarmonyOS Sans SC | Free for commercial use ✅ | Slightly larger counters, good at small sizes |
+| OPPO Sans | Free for commercial use ✅ | Slightly rounder forms |
+| ~~PingFang SC (苹方)~~ | ⚠️ See red lines | Closest to the original, but risky commercially |
+
+### 2. Heavy sans (large headlines, product names, the "prize-winning short story" register)
+
+For use as a **type-only subject**. The weight has to be brutal, the strokes squared off.
+
+| Recommended | License | Notes |
+|---|---|---|
+| **Smiley Sans (得意黑)** | SIL OFL ✅ | Oblique and tight, high impact, excellent for newsjack headlines — the most usable free Chinese typeface of recent years |
+| Source Han Sans Heavy | SIL OFL ✅ | The safe choice |
+| ZCOOL GaoDuanHei (站酷高端黑) | Free for commercial use ✅ | Harder-edged |
+| Glow Sans (未来荧黑) | SIL OFL ✅ | Condensed; good for squeezing a long headline onto one line |
+
+### 3. Serif / Song (literary, verse, the restrained route)
+
+The 25 poems, lines like 「见之不显，隐薄于空」. **Light Song + very wide tracking + centered.**
+
+| Recommended | License | Notes |
+|---|---|---|
+| **Source Han Serif (思源宋体)** | SIL OFL ✅ | First choice |
+| Jinghua Old Song (京华老宋体) | Free for commercial use ✅ | Old-Song flavor; good for calendars / Republican-era / Cultural-Revolution styling |
+| Yumin (遇见明朝) | SIL OFL ✅ | Ming style, delicate |
+
+### 4. Kai / calligraphy (Chinese classical, seasonal markers, 「完满毕业 愿意为妳」)
+
+| Recommended | License | Notes |
+|---|---|---|
+| **LXGW WenKai (霞鹜文楷)** | SIL OFL ✅ | Kai style, readable and handwritten at once; first choice for the seasonal series |
+| Ma Shan Zheng brush kai (马善政毛笔楷书) | Free for commercial use ✅ | Genuine brush feel, good for large headlines |
+| Yanshi Youran Xiaokai / Qiuhong Kai | Free for commercial use ✅ | More flowing |
+| Jiangxi Zhuokai (江西拙楷) | Free for commercial use ✅ | Plain and unpolished |
+
+### 5. Handwriting (the Thanksgiving letters)
+
+You want the feeling that **someone actually picked up a pen**, so it **must not be too even**.
+
+| Recommended | License | Notes |
+|---|---|---|
+| ZCOOL KuaiLe (站酷快乐体) | Free for commercial use ✅ | Round and casual |
+| Yanshi Youran Xiaokai | Free for commercial use ✅ | More literary |
+| The best answer is **actually writing it and scanning it** | — | Those Durex pieces were genuinely handwritten; no font reproduces that unevenness |
+
+### 6. Latin sans (「Red now」「WET IS OVER」「LET'S 杜」)
+
+| Use | Recommended | License |
+|---|---|---|
+| General body | Inter / Roboto | OFL / Apache ✅ |
+| Geometric headlines | Montserrat / Poppins | OFL ✅ |
+| Condensed, one-line fits (the WET IS OVER look) | Oswald / Barlow Condensed / Bebas Neue | OFL ✅ |
+| Vintage caps | Archivo Black | OFL ✅ |
+
+### 7. Latin serif / script (the "We are forever, too" wedding feel, movie-poster subheads)
+
+| Use | Recommended | License |
+|---|---|---|
+| Elegant serif | Playfair Display / Cormorant Garamond | OFL ✅ |
+| Handwritten script | Great Vibes / Parisienne | OFL ✅ |
+| Distressed movie poster | Cinzel + added grain / spray texture in post | OFL ✅ |
+
+### 8. Numerals / mono (year-in-review's 「520 小时」「69 次」, UI mimicry, code posters)
+
+Numbers are where Durex's puns concentrate, so **they deserve a typeface chosen on their own**.
+
+| Recommended | License | Notes |
+|---|---|---|
+| **Archivo / Barlow** | OFL ✅ | Free approximations of DIN; squared, forceful numerals |
+| Space Mono / JetBrains Mono | OFL ✅ | Monospace, for UI mimicry and code posters (the Ada Lovelace one) |
+| Oswald | OFL ✅ | Narrow, tall numerals; good when a big number is the subject |
+
+---
+
+## 3. Licensing Red Lines (required reading)
+
+### ❌ High risk: do not use in commercial collateral
+
+| Typeface | The problem |
 |---|---|
-| **微软雅黑** | 字形授权属方正（兰亭黑衍生）。**国内商用侵权索赔案例最多的一款**，装了 Windows ≠ 有商用权 |
-| **苹方 PingFang SC** | Apple 系统字体，授权仅覆盖 Apple 系统内的渲染与显示。导出成商业海报、印刷品属灰区，正规甲方会驳回 |
-| **方正系列**（兰亭黑、粗黑、字迹、宋刻本秀楷…） | 需逐款购买商业授权。方正有专门的维权团队 |
-| **汉仪系列**（旗黑、尚巍手书、菱心…） | 同上。杜蕾斯原版海报里的书法体多半是汉仪或方正的付费字，**不要照抄字体，只抄字体的"类别"** |
-| 华康 / 文鼎 / 蒙纳 | 均需授权 |
-| 宋体、黑体、楷体、仿宋（Windows 自带） | 中易（SimSun/SimHei），随系统授权，独立商用有争议 |
+| **Microsoft YaHei (微软雅黑)** | The glyph license belongs to Founder (derived from Lantinghei). **The single most litigated font in China**; having Windows installed ≠ having commercial rights |
+| **PingFang SC (苹方)** | An Apple system font; the license covers rendering and display within Apple systems. Exporting it into commercial posters or print is a gray area, and serious clients will reject it |
+| **The Founder families** (Lantinghei, Cuhei, Ziji, Songkeben Xiukai…) | Each requires a purchased commercial license. Founder runs a dedicated enforcement team |
+| **The Hanyi families** (Qihei, Shangwei Shoushu, Lingxin…) | Same. The calligraphy in the original Durex posters is mostly paid Hanyi or Founder type — **don't copy the typeface, copy only its category** |
+| Hakka / Arphic / Monotype HK | All require licenses |
+| SimSun, SimHei, KaiTi, FangSong (bundled with Windows) | Zhongyi (SimSun/SimHei), licensed with the OS; standalone commercial use is disputed |
 
-### ✅ 安全清单（可直接商用，含印刷）
+### ✅ Safe list (directly usable commercially, including print)
 
-思源黑体 / 思源宋体 / Noto CJK · 得意黑 Smiley Sans · 霞鹜文楷 · 未来荧黑 · 阿里巴巴普惠体 · HarmonyOS Sans · OPPO Sans · 站酷全系 · 京华老宋体 · 江西拙楷 · 马善政毛笔楷书 · 演示系列 · Google Fonts 里的 OFL/Apache 字体
+Source Han Sans / Source Han Serif / Noto CJK · Smiley Sans (得意黑) · LXGW WenKai (霞鹜文楷) · Glow Sans (未来荧黑) · Alibaba PuHuiTi · HarmonyOS Sans · OPPO Sans · the full ZCOOL range · Jinghua Old Song · Jiangxi Zhuokai · Ma Shan Zheng brush kai · the Yanshi series · any OFL/Apache font on Google Fonts
 
-### 四条实操建议
+### Four practical rules
 
-1. **拿不准就用思源全家桶**（思源黑体 + 思源宋体），SIL OFL 授权，可商用可修改可再分发，字重齐全，覆盖 90% 场景。
-2. **每次交付时把用了什么字体写进说明**，方便甲方核授权。这是专业度的体现，也是给自己免责。
-3. **免费字体也要看清授权类型**：「个人免费商用需授权」和「完全免费商用」是两回事（仓耳今楷属前者）。以字体官网的最新声明为准，不要信第三方字体站的标注。
-4. **字体下载卡住，先分清卡在哪一层**：`brew install --cask` 默认会先跑 `brew update` 走 git 协议拉全量 tap 历史，这和实际下载字体文件是两回事——这一层卡住不代表网络不行。先测一下有没有可用的 GitHub 直连：`curl -sL -o /dev/null -w '%{http_code}' --max-time 8 https://github.com`
-   - 能连通（有代理/直连都算）→ 去对应仓库 Releases 页直接 `curl -sL -C - -o 目标路径 资产直链` 下载单个字体文件，通常比等 `brew update` 快得多
-   - 连不通 → 别在 GitHub 上硬等，换成当前环境已经在用的国内源（比如 brew 本身配的镜像），或临时找一个当下有效的 GitHub 镜像/CDN——镜像站时效性差，用前先自己验证一次，不要照抄网上过时的域名
+1. **When in doubt use the Source Han family** (Source Han Sans + Source Han Serif). SIL OFL — commercial use, modification, and redistribution all permitted; full weight range; covers 90% of cases.
+2. **State the fonts you used in every delivery**, so the client can verify licensing. It signals professionalism and covers you.
+3. **Check the license type even on free fonts**: "free for personal use, license required for commercial" and "free for commercial use" are different things (Cangerjinkai is the former). Go by the latest statement on the foundry's own site, not the labels on third-party font sites.
+4. **When a font download stalls, work out which layer is stalling first**: `brew install --cask` runs `brew update` first by default, pulling full tap history over the git protocol — that is a separate thing from downloading the font file, and it stalling does not mean the network is down. Test whether GitHub is reachable at all: `curl -sL -o /dev/null -w '%{http_code}' --max-time 8 https://github.com`
+   - Reachable (via proxy or directly) → go to the repo's Releases page and `curl -sL -C - -o <target path> <asset URL>` for the single font file; usually far faster than waiting on `brew update`
+   - Not reachable → don't sit there waiting on GitHub. Switch to a domestic mirror already configured in your environment (e.g. whatever mirror brew itself is using), or find a GitHub mirror/CDN that works right now — mirror sites go stale, so verify one yourself before using it rather than copying an outdated domain off the web
 
 ---
 
-## 四、本 Skill 自带脚本的字体设置
+## 4. Font Setup in This Skill's Own Scripts
 
-`assets/compose_canvas.js` 默认按下列顺序回退：
+`assets/compose_canvas.js` falls back in this order by default:
 
 ```
-思源黑体 → 阿里巴巴普惠体 → HarmonyOS Sans → Hiragino Sans GB（系统兜底）
-思源宋体 → 京华老宋体 → Songti SC（系统兜底）
+Source Han Sans → Alibaba PuHuiTi → HarmonyOS Sans → Hiragino Sans GB (system fallback)
+Source Han Serif → Jinghua Old Song → Songti SC (system fallback)
 ```
 
-**系统兜底字体只是为了让脚本在没装字体的机器上不崩。** 真正要交付的商业物料，请先装好思源全家桶：
+**The system fallbacks exist only so the script doesn't crash on a machine with no fonts installed.** For collateral you actually intend to deliver, install the Source Han family first:
 
 ```bash
 # macOS
 brew install --cask font-source-han-sans font-source-han-serif
-# 或从 GitHub 下载
+# or download from GitHub
 # https://github.com/adobe-fonts/source-han-sans/releases
 # https://github.com/adobe-fonts/source-han-serif/releases
-# 得意黑：https://github.com/atelier-anchor/smiley-sans/releases
+# Smiley Sans: https://github.com/atelier-anchor/smiley-sans/releases
 ```
 
-装好后脚本会自动优先使用，不需要改代码。
+Once installed the script picks them up automatically; no code changes needed.

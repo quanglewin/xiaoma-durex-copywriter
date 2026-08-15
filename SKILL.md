@@ -1,279 +1,276 @@
 ---
 name: xiaoma-durex-copywriter
-description: 用杜蕾斯黄金期（2011-2017 环时互动）那套「双层语义 + 留白」的方法产出文案与海报。先识别用户意图并给 3-5 个方案供选，再出短文案（长文案可选）+ 五种比例配图。适用于借势热点、节日节气、产品卖点、课程/知识付费推广、自媒体标题与封面、品牌人格化运营。当用户说「写个文案」「借势热点」「节日海报」「想句 slogan」「课程怎么推」「公众号/小红书封面」「像杜蕾斯那样写」「一语双关」时使用。
+description: Produce copy and posters using the "double-layered meaning + negative space" method from Durex's golden era (2011-2017, run by Hylink/Environment Interactive). First read the user's intent and offer 3-5 directions to choose from, then deliver short copy (long copy optional) plus artwork in five aspect ratios. Works for newsjacking, holidays and seasonal markers, product benefits, course and paid-knowledge promotion, social media headlines and cover images, and brand persona operations. Use when the user says "write me some copy", "ride this trending topic", "holiday poster", "I need a slogan", "how do I promote my course", "cover image for my newsletter/social post", "write it like Durex", or "make it a double entendre".
 ---
 
-# 杜蕾斯式文案与视觉
+# Durex-Style Copy and Visuals
 
-杜蕾斯的厉害之处**不是「污」**——污只是它那个品类的表层材料。真正可迁移的是一套**制造「我懂了」瞬间**的机制。材料换成 AI、职场、理财、健身，机制照样成立。
+What made Durex great **was not that it was dirty** — dirty was just the surface material of its category. What actually transfers is a mechanism for manufacturing the **"oh, I get it" moment**. Swap the material for AI, careers, personal finance, or fitness, and the mechanism still holds.
 
-**本 Skill 产出两样东西：文案 + 图片。** 但在产出之前，必须先跟用户把方向对齐。
-
----
-
-## 核心机制：双层语义
-
-一句合格的杜蕾斯式文案，必须**同时成立于两个语境**：
-
-- **表层**：热点/节日/日常场景本身，字面读得通
-- **里层**：品牌/产品/你要卖的东西
-
-作者只写表层，**里层由读者自己跳过去**。那一下跳跃产生的快感，就是传播动力。
-
-### ⚠️ 里层必须一跳可达
-
-读者从表层到里层**只能跳一次**，中间不许有中转站。这是双层语义最容易做废的地方——
-形式上有表层有里层，但要绕三道弯才到，读者根本不会绕，图就死了。
-
-> **反例**（三跳，废）：体重秤 →（想到长胖）→（想到吃糖会长胖）→ 0 糖气泡水
-> **正例**（一跳）：文案「变大」+ 画面里的避孕套 → 直接到位
-
-**自检：把联想链画出来，箭头超过一个就是失败，重写。**
-
-一跳的最常见做法：**让产品自己待在画面里当第二层**。
-文案说 A，产品在旁边，读者不用推理，两个东西并置就懂了。
-这也是为什么杜蕾斯最出名的那批海报都放产品。
-
-> 「光大是不行的」——表层：光大银行乌龙。里层：不行。
-> 「最快的男人并不是最好的，坚持到底才是真正强大的男人」——表层：刘翔。里层：持久。
-
-**铁律：点破即死。** 只要在文案里解释了里层，这条就废了。
+**This skill produces two things: copy and images.** But before producing anything, you must align on direction with the user.
 
 ---
 
-## 工作流（严格按序，不要跳步直接出稿）
+## Core Mechanism: Double-Layered Meaning
 
-### Step 0 · 补全槽位——**用默认值，不要用提问**
+A working Durex-style line must **hold up in two contexts at once**:
 
-四个槽位：
+- **Surface layer**: the trending topic / holiday / everyday scene itself — it reads literally
+- **Inner layer**: the brand / product / whatever you are selling
 
-| 槽位 | 内容 | 缺失时怎么办 |
+The writer only writes the surface layer. **The reader jumps to the inner layer themselves.** The kick from that jump is what drives sharing.
+
+### ⚠️ The Inner Layer Must Be One Hop Away
+
+The reader gets **exactly one hop** from surface to inner layer. No transfer stations. This is where double-layered meaning most often dies — formally there is a surface and an inner layer, but it takes three turns to get there, the reader will not make them, and the poster is dead on arrival.
+
+> **Bad** (three hops, dead): bathroom scale →(think of gaining weight)→(think of sugar causing weight gain)→ zero-sugar sparkling water
+> **Good** (one hop): the line "bigger" + a condom in the frame → lands immediately
+
+**Self-check: draw the chain of associations. More than one arrow means it failed. Rewrite.**
+
+The most common way to guarantee one hop: **let the product sit in the frame and be the second layer itself.** The copy says A, the product is right there, the reader does not have to reason — the two things side by side are enough. This is why the most famous Durex posters all show the product.
+
+> 「光大是不行的」("Everbright alone won't do it") — Surface: the China Everbright Bank trading glitch. Inner: not big enough.
+> 「最快的男人并不是最好的，坚持到底才是真正强大的男人」("The fastest man isn't the best; the man who lasts to the end is the truly strong one") — Surface: hurdler Liu Xiang. Inner: staying power.
+
+**Iron law: explain it and it dies.** The moment the copy spells out the inner layer, the line is worthless.
+
+---
+
+## Workflow (follow in order — do not skip ahead to a draft)
+
+### Step 0 · Fill the slots — **use defaults, not questions**
+
+Four slots:
+
+| Slot | Content | What to do when it's missing |
 |---|---|---|
-| **卖什么** | 产品 / 服务 / 课程 / 观点 | **唯一值得反问的槽位**（见下） |
-| **对谁说** | 目标人群及其共同语境 | 按该品类最典型人群推定，交付时写明假设 |
-| **什么由头** | 热点 / 节日 / 节气 / 日常 | 不借势，改走产品洞察路线 |
-| **投哪里** | 渠道 → 决定画幅 | 默认 3:4，并在 Step 2 里连同选方案一起确认 |
-| 调性 | 机灵 / 克制 / 中国风 / 反差 | 直接给不同调性的方案，让用户用选择代替回答 |
+| **What you're selling** | Product / service / course / point of view | **The only slot worth asking about** (see below) |
+| **Who you're talking to** | Target audience and their shared context | Assume the most typical audience for that category; state the assumption on delivery |
+| **What the occasion is** | Trending topic / holiday / seasonal marker / everyday | If there's no topic to ride, switch to a product-insight route |
+| **Where it's going** | Channel → determines aspect ratio | Default 3:4, confirmed in Step 2 together with the direction |
+| Tone | Clever / restrained / Chinese-classical / contrarian | Offer directions in different tones — let the user choose instead of answer |
 
-**默认是直接交付，不是提问。** 只有一种情况才在动手前反问：
+**The default is to deliver, not to ask.** There is exactly one situation that justifies a question before you start:
 
-> **「卖什么」完全无法推断**——你连里层要落到什么东西上都不知道。
-> 这时硬写只能产出一句谁都能用的祝福语，浪费双方一轮。
+> **"What you're selling" cannot be inferred at all** — you don't even know what the inner layer should land on.
+> Forcing a draft here can only produce a generic greeting-card line, wasting a round for both sides.
 
-除此之外**一律先给方案**。缺的槽位写成一行明示假设即可：
+Otherwise **always lead with the work.** Write the missing slots up as one line of explicit assumptions:
 
-> 「我按『发朋友圈、面向老会员』来做，不对直接说，我改。」
+> "I'm working from 'posting to your own social feed, aimed at existing members.' Say the word if that's wrong and I'll redo it."
 
-**为什么这样设计**：模型天然倾向于多问，而每一轮提问都在消耗用户的耐心和信任。用户找你是要东西的，不是来做问卷的。**一个带着明示假设的具体方案，比三个精准的问题更有用**——因为用户看到具体的东西才知道自己想要什么，而看到问题只会觉得你在推卸判断。方案本身就是最好的提问方式。
+**Why it's designed this way**: models naturally tend to ask more, and every round of questions spends the user's patience and trust. The user came to you for output, not to fill in a survey. **One concrete direction with stated assumptions is more useful than three precise questions** — because a user only knows what they want once they see something concrete, whereas questions just read as you dodging the judgment call. The proposal is itself the best way to ask.
 
-**不要发明新槽位。** 上表之外的东西（活动目标、预算、竞品、品牌色…）一律不问，需要就假设，或者在交付后作为「你可以补充的信息」附在末尾。
+**Do not invent new slots.** Anything outside the table above (campaign goals, budget, competitors, brand colors…) is never asked about. Assume if you need it, or append it after delivery as "things you could tell me."
 
-**顺手做一次常识核对**（这一步很容易被流程感挤掉）：用户给的日期、事件、数字如果和你知道的事实对不上（比如「下周中秋」但今年中秋在两个月后），**在交付时用一句话提一下**，不要因此中断流程。事实错了，文案做得再好也白做。
+**Do a quick sanity check while you're at it** (this step is easily crowded out by process): if the dates, events, or numbers the user gave contradict what you know (e.g. "Mid-Autumn Festival is next week" when it's two months away), **mention it in one line on delivery** — don't halt the workflow over it. If the facts are wrong, no amount of good copy saves it.
 
-### Step 1 · 给 3–5 个方案，让用户选
+### Step 1 · Give 3–5 directions and let the user choose
 
-**动笔写方案卡前，先过 `references/style-matching.md` 做一次品类匹配。**
-用户给的是品类（"我卖气泡水"）和几个形容词（"要高级点"），而配色表是按情绪分的——
-中间那层映射不做，就只能套默认模板，于是卖什么出来的都是同一张左文右图。
-给具体品牌做的，一律先挪用该品牌自己的视觉色（借势撞色），别从六套里挑。
+**Before writing direction cards, run through `references/style-matching.md` for a category match.**
+The user gives you a category ("I sell sparkling water") and a few adjectives ("make it upmarket"), while the color schemes are organized by mood. Skip the mapping layer in between and you can only fall back on the default template — which is why everything comes out as the same copy-left/image-right layout no matter what's being sold.
+When working for a specific brand, always borrow that brand's own visual colors first (color-jacking); don't pick from the six schemes.
 
-**这一步不能省。** 一次只给一个方案 = 在替用户做决定。
+**This step is not optional.** Giving one direction = making the decision for the user.
 
-方案之间必须**真正不同**——不同公式、不同主体类型、不同配色。**不要给同一个想法的三个变体。**
+The directions must be **genuinely different** — different formula, different subject type, different palette. **Do not give three variants of the same idea.**
 
-方案卡格式：
+Direction card format:
 
 ```
-A｜〈公式名〉
-短文案：XXXXXXXX
-视觉　：主体类型（产品/道具/纯字体）+ 具体道具 + 配色方案名
-调性　：一句话说清这版给人什么感觉
+A｜〈formula name〉
+Short copy: XXXXXXXX
+Visual   : subject type (product / prop / type-only) + specific prop + palette name
+Tone     : one line on how this version feels
 ```
 
-**如果用户明确要了长文案**（「写一段长一点的」「发朋友圈的正文」「口播稿」）：
-**挑你最看好的那一版，当场把长文案全文写出来**，其余方案只给短文案 + 一句长文案形态描述（诗歌体 / 造句体 / 物件轮流开口 / 清单体…）。
+**If the user explicitly asked for long copy** ("write me something longer", "the body text for my post", "a script to read aloud"):
+**pick the version you believe in most and write its long copy out in full, right there.** The other directions get only short copy plus a one-line description of the long-copy form (verse / fill-in-the-blank / objects taking turns speaking / list…).
 
-为什么这样切：用户要的东西不能只给个说明书，**否则这一轮对他等于零交付**；但把 5 版长文案全写出来，4 版注定作废，是纯浪费。给一版全文，用户既拿到了要的东西，又看得出你写长文案是什么水准，选型时心里有底。**记得说明这是哪一版的正文**，别让他以为是通用的。
+Why split it that way: the user can't be handed a spec sheet instead of the thing they asked for — **otherwise the round delivers nothing to them**. But writing all five long versions means four are guaranteed waste. One full version means the user both gets what they asked for and can see the level you write at, so they can pick with confidence. **Say which version the body copy belongs to** so they don't take it as generic.
 
-### Step 2 · 一次提问，把「选方案」和「选比例」合并
+### Step 2 · Ask once, merging "which direction" with "which ratio"
 
-**整个流程只有这一次提问。** 用 AskUserQuestion 同时问两件事，都允许多选：
+**This is the only question in the entire workflow.** Use AskUserQuestion to ask both at once, both multi-select:
 
-1. **选哪个方案**（可混搭，比如「A 的文案配 C 的视觉」）
-2. **出哪个比例**
+1. **Which direction** (mix and match allowed — e.g. "A's copy with C's visual")
+2. **Which ratio(s)**
 
-| 比例 | 用在哪 |
+| Ratio | Used for |
 |---|---|
-| 3:4 竖版 | 微博 / 朋友圈 / 公众号内文（**最通用，默认值**） |
-| 1:1 方形 | 小红书 / 视频号封面 / 头像位 |
-| 9:16 竖屏 | 抖音 / 小红书竖版 / 开屏 |
-| 16:9 横屏 | 官网 Hero / YouTube / PPT 封面 |
-| 4:3 横版 | PPT / B站封面 / 横版 banner |
+| 3:4 portrait | Microblog / social feed / newsletter body (**most versatile, the default**) |
+| 1:1 square | Lifestyle-app posts / video covers / avatar slots |
+| 9:16 vertical | Short-video platforms / vertical feed posts / splash screens |
+| 16:9 landscape | Website hero / YouTube / slide covers |
+| 4:3 landscape | Slides / video-site thumbnails / horizontal banners |
 
-比例值得占用这次提问，是因为它**不是缩放而是重新构图**——1:1 要把文案砍到两行且字号反而加大，9:16 要上下留安全区、文案拆成字幕式短句。选错要整套重做，成本远高于问一句。
+Ratio earns its place in this question because it is **a recomposition, not a resize** — 1:1 requires cutting the copy to two lines while *increasing* the type size; 9:16 requires safe zones top and bottom and copy broken into subtitle-length fragments. Getting it wrong means redoing the whole set, which costs far more than asking.
 
-用户已经说了「发小红书」「做抖音封面」这类能唯一推出比例的话时，**不要再问**，直接用，并在交付时写明「按小红书出的 1:1，要别的比例说一声」。
+When the user has already said something that uniquely implies the ratio ("posting to Xiaohongshu", "a short-video cover"), **don't ask** — just use it, and note on delivery: "made at 1:1 for Xiaohongshu; say the word if you want another ratio."
 
-### Step 3 · 出文案
+### Step 3 · Write the copy
 
-**动笔前先扫一遍 `references/diction.md`，定稿后再用它的自检表过一遍。**
-公式（`copy-formulas.md`）决定文案成不成立，措辞（`diction.md`）决定它像不像人写的。
-结构对了但用词是 AI 腔——句子拖长、形容词堆砌、标点没语气、末尾还总结一句自己多妙——一眼就假。
-其中最难戒的是**解释自己**：写完那句就停，不要补一句「这就是……的力量」。
+**Skim `references/diction.md` before you start, and run its checklist over the final draft.**
+The formulas (`copy-formulas.md`) decide whether the copy *works*; the diction (`diction.md`) decides whether it reads like a human wrote it.
+Right structure with AI-voice wording — sentences stretched long, adjectives piled up, punctuation carrying no tone, a closing line summarizing how clever it was — is obvious on sight.
+The hardest habit to break is **explaining yourself**: write the line and stop. Do not add "and that's the power of…"
 
-**默认只出短文案。**
+**Default to short copy only.**
 
-| | 短文案（默认） | 长文案（用户要才出） |
+| | Short copy (default) | Long copy (only when asked) |
 |---|---|---|
-| 长度 | **≤ 12 字**，最好 6–8 字 | 不限，但要有结构 |
-| 用途 | **海报上的主文案** | 正文、详情页、口播稿、朋友圈配文 |
-| 形态 | 一句话 | 诗歌体 / 场景移植 / 小故事 / 造句体 |
+| Length | **≤ 12 Chinese characters** (~6–10 English words), ideally 6–8 characters | Unrestricted, but must have structure |
+| Purpose | **The headline on the poster** | Body text, product pages, read-aloud scripts, post captions |
+| Form | One line | Verse / scene transplant / short story / fill-in-the-blank |
 
-**铁律：海报上永远只放短文案。** 长文案再好也不上图——杜蕾斯经典文案 80% 在 12 字以内（「我就蹭蹭」「安全，第一」「今晚早回家」「上车～」）。长文案配在微博正文里，不进画面。
+**Iron law: only short copy ever goes on the poster.** No matter how good the long copy is, it stays off the image — 80% of the classic Durex lines are under 12 characters (「我就蹭蹭」"just the tip", 「安全，第一」"safety first", 「今晚早回家」"come home early tonight", 「上车～」"get in"). Long copy goes in the post body, not in the frame.
 
-**用户要长文案时的交付节奏**（和 Step 1 呼应，别把它推到最后）：
+**Delivery rhythm when the user wants long copy** (mirrors Step 1 — don't push it to the end):
 
-| 阶段 | 长文案给到什么程度 |
+| Stage | How much long copy to give |
 |---|---|
-| Step 1 给方案时 | **最看好的那一版写全文**，其余只标形态 |
-| Step 3 定稿时 | 把用户选中的那版写全文（若与 Step 1 那版不同），并按渠道调整长度 |
+| Step 1, presenting directions | **Full text for the version you back most**; the rest get form labels only |
+| Step 3, finalizing | Full text for whichever version the user picked (if different from Step 1), adjusted in length for the channel |
 
-用户开口要长文案，就说明长文案是他这次的主交付物之一。**把它一路推到最后才给，等于让他等两轮才拿到最想要的东西。**
+If the user asks for long copy, long copy is one of their main deliverables this round. **Holding it until the very end means making them wait two rounds for the thing they most wanted.**
 
-一套完整交付通常是：
+A complete delivery usually looks like:
 
 ```
-主文案（短，上海报）
-└ 副标（可选，短，字号为主文案 55–65%）
-└ 长文案（可选，发布时配在正文位）
+Headline (short, goes on the poster)
+└ Subhead (optional, short, 55–65% of headline size)
+└ Long copy (optional, sits in the post body at publish time)
 ```
 
-### Step 4 · 出图
+### Step 4 · Make the images
 
-见「视觉」一节与 `references/production.md`，版式骨架库见 `references/ratios.md`。
+See the "Visuals" section and `references/production.md`; the layout-skeleton library is in `references/ratios.md`.
 
-**⚠️ 一次交付多张图时的硬规则：主体类型必须换，不许同一个模板换皮。**
+**⚠️ Hard rule when delivering multiple images at once: the subject type must change. No reskinning one template.**
 
-三张图全做成「左侧文案 + 右侧道具静物」，只换配色和道具——这是把杜蕾斯做窄了。
-它 260 张里产品主体 30%、道具主体 40%、纯字体 30%，版式还有撕历体、宜忌日历、
-造句体、感谢信、界面仿制、书法竖排。**每多出一张，先换骨架和主体类型，再考虑换配色。**
+Three images all built as "copy on the left, prop still-life on the right" with only the palette and prop swapped — that is Durex made narrow. Across its 260 posters, product subjects are 30%, prop subjects 40%, type-only 30%, and the layouts include tear-off calendar pages, almanac do/don't sheets, fill-in-the-blank dictionary pages, thank-you letters, UI mimicry, and vertical calligraphy. **For each additional image, change the skeleton and subject type first; only then think about changing the palette.**
 
-自检：把几张图并排缩略了看，**能不能一眼看出是不同的版式**？看不出就重做。
+Self-check: shrink the images to thumbnails and put them side by side. **Can you tell at a glance that they're different layouts?** If not, redo them.
 
 ---
 
-## 先找连接点，再挑公式 ⭐
+## Find the Connection First, Then Pick the Formula ⭐
 
-**公式是事后分类，不是事前方法。** 知道「这句用了谐音双关」，不等于能想出下一个。
+**Formulas are after-the-fact classification, not a method you apply beforehand.** Knowing "this one used a homophone pun" doesn't help you think of the next one.
 
-面对一个热点或产品，先去 `references/finding-the-hook.md` 走一遍：
+Faced with a trending topic or a product, first walk through `references/finding-the-hook.md`:
 
-1. **判贴不贴**——五类钩子（专有名词 / 核心动作 / 关键属性 / 数字 / 场景）里
-   能对上至少一个才做，一个都对不上就放弃这个热点，别硬蹭
-2. **落点必须是「你」**——主动传播的源动力是与「我」相关。
-   落在产品参数上的文案，双关再工整也没人转
-3. **热点窗口以分钟计**——想不出来就放弃，憋出来的硬蹭比不做更伤品牌
+1. **Judge the fit** — of the five hook types (proper nouns / core action / key attribute / numbers / scene), at least one has to connect. If none do, drop this topic; don't force it
+2. **The landing point has to be "you"** — the fuel for voluntary sharing is relevance to "me".
+   Copy that lands on product specs will not get shared no matter how neat the pun
+3. **The window on a trending topic is measured in minutes** — if it doesn't come, let it go. A forced connection hurts the brand more than silence
 
-找到连接点之后，才轮到下面这些公式决定用什么修辞把它写出来。
+Only once you have the connection do the formulas below decide which rhetorical device writes it out.
 
 ---
 
-## 七种可复用公式
+## Eight Reusable Formulas
 
-完整拆解与迁移示范见 `references/copy-formulas.md`。速查：
+Full breakdowns and transfer demonstrations are in `references/copy-formulas.md`. Quick reference:
 
-| # | 公式 | 例 |
+| # | Formula | Example |
 |---|---|---|
-| 1 | 谐音置换 | 杜/独、湿/十、「杜du饿了」 |
-| 2 | 数字双关 | 69 次 / 419 / 001 / 一日等于 24 小时 |
-| 3 | 词义劫持 | 把正经词拽进你的语境：「深耕细作」「心急口快」 |
-| 4 | 场景移植 | 让无关物件开口：「洗衣机说……」「床头灯说……」 |
-| 5 | 拆字重组 | 「『日』字有多长，从白天到黑夜罢了」 |
-| 6 | 对仗/宜忌 | 「宜 颠三倒四」「堵在路上 不如堵在床上」 |
-| 7 | 诗歌体 | 三段景物 + 一句落点（**长文案专用**） |
-| 8 | 反向克制 | 中元节「今晚早回家」；艾滋日「雨，都是在没带伞的时候下的」 |
+| 1 | Homophone substitution | 杜/独 (Du/alone), 湿/十 (wet/ten), 「杜du饿了」(Baidu + Ele.me) |
+| 2 | Number pun | 69 times / 419 / 001 / one day equals 24 hours |
+| 3 | Sense hijacking | Drag a straight-faced term into your context: 「深耕细作」("deep and careful cultivation"), 「心急口快」("hasty of heart, quick of mouth") |
+| 4 | Scene transplant | Let an unrelated object speak: "the washing machine says…", "the bedside lamp says…" |
+| 5 | Character decomposition | 「『日』字有多长，从白天到黑夜罢了」("How long is the character 日? Just from day to night") — **Chinese-specific** |
+| 6 | Parallelism / almanac do-and-don't | 「宜 颠三倒四」("auspicious: topsy-turvy"), 「堵在路上 不如堵在床上」("better stuck in bed than stuck in traffic") |
+| 7 | Verse | Three stanzas of scenery + one landing line (**long copy only**) |
+| 8 | Inverted restraint | Ghost Festival: 「今晚早回家」("come home early tonight"); World AIDS Day: 「雨，都是在没带伞的时候下的」("it always rains when you didn't bring an umbrella") |
 
-公式 8 最难也最高级：**在所有人都期待你开车的时候不开**。全年用不超过 5 次。
-
----
-
-## 有所为有所不为（硬边界）
-
-杜蕾斯 2017 年「419 联名」翻车、随后失去环时互动，根因就是越了第 3 条。
-
-1. **不碰灾难、事故、死亡、疾病** —— 除非是明确的公益立场
-2. **不物化女性**，不把人当身体部件消费
-3. **不对具体真人做性暗示**，尤其不涉及未成年
-4. **不蹭悲情热点**，不消费他人不幸
-5. **迁移到非成人品类时**：双关的里层应指向**产品价值**，不是荤梗
-
-违反任何一条 → 重写，不是微调。
+Formula 8 is the hardest and the highest-grade: **not driving when everyone expects you to drive.** No more than 5 times a year.
 
 ---
 
-## 视觉
+## What to Do and What Never to Do (hard boundaries)
 
-完整规范见 `references/visual-system.md`，画幅见 `references/ratios.md`，出图管线见 `references/production.md`。
+Durex's 2017 "419 collab" blew up in its face and it subsequently lost Environment Interactive; the root cause was crossing line 3.
 
-### 主体判断树
+1. **Never touch disasters, accidents, death, or illness** — unless it is an explicit public-service stance
+2. **Never objectify women**, never consume people as body parts
+3. **Never make sexual innuendo about identifiable real people**, and absolutely never involving minors
+4. **Never ride on grief**, never profit from someone else's misfortune
+5. **When transferring to non-adult categories**: the inner layer of the pun should point at **product value**, not at a dirty joke
+
+Violating any one of these → rewrite, not tweak.
+
+---
+
+## Visuals
+
+Full spec in `references/visual-system.md`, formats in `references/ratios.md`, image pipeline in `references/production.md`.
+
+### Subject decision tree
 
 ```
-有实体产品吗？
-├─ 有 → 产品本身能成为隐喻吗？
-│   ├─ 能 → 【产品主体】居中/黄金点，占画面 15-35%，纯色背景，强投影
-│   └─ 不能 → 产品退到角标（占 5-10%），画面让给道具
-└─ 没有（课程/知识/服务）→
-    ├─ 【道具主体】← 最高频，也最适合无产品场景
-    │   用 AI 生成**有质感的静物**：钥匙、月亮、开关、耳机、纸箱、咖啡杯…
-    │   ⚠️「没有实体产品」≠「画面要空」。杜蕾斯的道具是实拍静物，不是一根线。
-    └─ 【纯字体主体】大字即画面（书法 / 宋体大标 / 涂鸦 / 造句体）
+Is there a physical product?
+├─ Yes → can the product itself become the metaphor?
+│   ├─ Yes → 【product subject】centered / on a golden point, 15–35% of the frame,
+│   │        solid background, strong drop shadow
+│   └─ No  → demote the product to a corner mark (5–10%); give the frame to a prop
+└─ No (course / knowledge / service) →
+    ├─ 【prop subject】 ← most common, and the best fit when there's no product
+    │   Use AI to generate a **tactile still life**: keys, the moon, a switch,
+    │   headphones, a cardboard box, a coffee cup…
+    │   ⚠️ "No physical product" ≠ "the frame should be empty." Durex's props are
+    │      photographed still lifes, not a single line on a plain background.
+    └─ 【type-only subject】big type IS the image (calligraphy / large serif /
+        graffiti / fill-in-the-blank dictionary page)
 ```
 
-### 六套配色（一张图只用一套）
+### Six palettes (one image uses exactly one)
 
-| 名称 | 主色 | 用于 |
+| Name | Primary | Used for |
 |---|---|---|
-| 品牌红 | `#E2001A` + 纯白 | 节庆、宣言、周年、态度 |
-| 深夜蓝 | `#16233F` `#0E1A2E` | 克制、高级、夜、思考 |
-| 影棚黑 | `#000000` + 单点暖光 | 电影感、悬念、单品特写 |
-| 粉渐变 | `#FCEDF1` → `#E8558F` | 情人节、女性向、年度报告 |
-| 宣纸暖白 | `#F1EBE0` + 朱红 `#C8102E` + 墨 | 静物、节气、中国风、日历 |
-| 借势撞色 | 直接用对方品牌色 | 联名、影视/球队/科技借势 |
+| Brand red | `#E2001A` + pure white | Festivals, statements, anniversaries, attitude |
+| Midnight blue | `#16233F` `#0E1A2E` | Restraint, premium feel, night, reflection |
+| Studio black | `#000000` + single warm light | Cinematic, suspense, single-product close-ups |
+| Pink gradient | `#FCEDF1` → `#E8558F` | Valentine's, women-facing, year-in-review |
+| Rice-paper warm white | `#F1EBE0` + vermilion `#C8102E` + ink | Still life, seasonal markers, Chinese-classical, calendars |
+| Color-jacking | Use the other party's brand colors directly | Collabs; film / sports team / tech newsjacking |
 
-### 排版铁律（实测自 260 张原始海报）
+### Layout iron laws (measured across 260 original posters)
 
-- 文案区在**上 1/3 或左上**，左对齐；下 1/3 留白或放主体
-- 正文 ≈ 画面宽度的 3.5%–4.5%；**关键词放大 1.65–1.75 倍并染品牌色**，其余全部同字号同色
-- 眉题（日期/栏目名）为正文的 0.6 倍，灰色，带字距
-- **Logo 恒定在底部居中，且必须落在空白纸面上**——主体图不许压到它
-- 留白率 ≥ 50%。挤 = 廉价
+- Copy sits in the **top third or upper left**, left-aligned; the bottom third is negative space or holds the subject
+- Body type ≈ 3.5%–4.5% of the frame width; **scale keywords 1.65–1.75× and tint them brand color**, everything else stays one size and one color
+- The eyebrow (date / column name) is 0.6× the body, gray, with letter-spacing
+- **The logo is fixed bottom-center and must land on empty paper** — the subject image may never overlap it
+- Negative space ≥ 50%. Crowded = cheap
 
-### 字体（详见 `references/typography.md`）
+### Type (see `references/typography.md`)
 
-两条最关键的：
+The two that matter most:
 
-1. **借势时字体跟着借势对象走，不跟品牌走。** 仿 iPhone 发布会就用苹方/SF 复刻，仿电影海报就用做旧衬线，仿游戏就嵌进游戏 UI，仿文革宣传画就用老宋竖排。读者对这些视觉语言有肌肉记忆——**字体一出来，表层就已经完成了**，文案只需负责里层。
-2. **⚠️ 中文字体侵权是国内营销物料最高频的法律风险。** 微软雅黑、苹方、方正系列、汉仪系列都需商业授权，「电脑里有」≠「能商用」。拿不准就用**思源黑体 + 思源宋体**（SIL OFL，可商用可修改），标题想要力量感用**得意黑 Smiley Sans**。交付时把用了什么字体写进说明。
-
----
-
-## 迁移到其他场景
-
-见 `references/other-uses.md`。速查：自媒体标题封面 / 知识付费 / B端SaaS / 电商详情页 / 招聘JD / 个人IP / 节气日历型系列资产。
+1. **When newsjacking, the typeface follows the thing you're riding, not your brand.** Mimicking an iPhone keynote means PingFang/SF; mimicking a movie poster means a distressed serif; mimicking a game means embedding into the game's UI; mimicking Cultural-Revolution propaganda means old Song set vertically. Readers have muscle memory for these visual languages — **the moment the typeface appears, the surface layer is already done**, and the copy only has to carry the inner layer.
+2. **⚠️ Chinese font infringement is the single most common legal risk in Chinese marketing collateral.** Microsoft YaHei, PingFang, the Founder (方正) families, and the Hanyi (汉仪) families all require commercial licenses; **"it's on my computer" ≠ "I can use it commercially."** When in doubt use **Source Han Sans + Source Han Serif** (SIL OFL, commercial use and modification permitted); for headline punch use **Smiley Sans (得意黑)**. State which fonts you used when you deliver.
 
 ---
 
-## 参考文件
+## Transferring to Other Contexts
 
-- `references/corpus.md` —— 语料库：借势/节日/节气/诗歌/产品文案（34 个来源、260 张原始海报）
-- `references/finding-the-hook.md` —— **找连接点：五类钩子 + 落点在「你」（出文案第一步必过）**
-- `references/copy-formulas.md` —— 8 个公式的详细拆解与套用模板
-- `references/diction.md` —— 措辞与语感：句长/标点/人称/AI 味对照表（**每次出文案必过**）
-- `references/style-matching.md` —— 品类/提示词 → 骨架·配色·主体 的映射表（**Step 1 必过**）
-- `references/visual-system.md` —— 视觉系统完整规范
-- `references/typography.md` —— 字体选型集：八类字体、免费商用替代、授权红线
-- `references/ratios.md` —— 五种画幅的构图与文案量规范
-- `references/production.md` —— 出图管线：AI 出静物图层 + 代码排版；HTML / Canvas / Satori 选型
-- `references/other-uses.md` —— 迁移场景与实操案例
-- `assets/compose_canvas.js` —— 可直接跑的 Canvas 合成脚本（静物图 + 排版 + 签名避让）
-- `assets/compose_example.py` —— HTML/Playwright 版合成脚本
+See `references/other-uses.md`. Quick list: social media headlines and covers / paid knowledge / B2B SaaS / e-commerce product pages / job descriptions / personal brand / seasonal-calendar series assets.
+
+---
+
+## Reference Files
+
+- `references/corpus.md` — Corpus: newsjacking / holidays / seasonal markers / verse / product copy (34 sources, 260 original posters)
+- `references/finding-the-hook.md` — **Finding the connection: five hook types + landing on "you" (mandatory first pass before writing)**
+- `references/copy-formulas.md` — Detailed breakdown and templates for all 8 formulas
+- `references/diction.md` — Wording and voice: sentence length / punctuation / person / AI-voice comparison table (**mandatory pass every time you write**)
+- `references/style-matching.md` — Category & prompt-adjective → skeleton · palette · subject mapping (**mandatory in Step 1**)
+- `references/visual-system.md` — Full visual system spec
+- `references/typography.md` — Type selection: eight categories, free commercial alternatives, licensing red lines
+- `references/ratios.md` — Composition and copy-volume specs for the five formats
+- `references/production.md` — Image pipeline: AI for still-life layers + code for typesetting; HTML / Canvas / Satori tradeoffs
+- `references/other-uses.md` — Transfer contexts and worked cases
+- `assets/compose_canvas.js` — Runnable Canvas composition script (still life + typesetting + signature clearance)
+- `assets/compose_example.py` — HTML/Playwright composition script

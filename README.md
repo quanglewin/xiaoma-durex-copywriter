@@ -1,247 +1,253 @@
 # xiaoma-durex-copywriter
 
-> 一个 Claude Code / Claude.ai Skill。用杜蕾斯黄金期（2011–2017，环时互动操盘）那套**「双层语义 + 留白」**的方法，产出文案与海报。
+> A Claude Code / Claude.ai Skill. Produces copy and posters using the **"double-layered meaning + negative space"** method from Durex's golden era on Chinese social media (2011–2017, run by the agency Environment Interactive).
 
-这套方法能迁移的东西，是一套制造「我懂了」瞬间的机制。污只是杜蕾斯所在品类的表层材料，把材料换成 AI 课程、职场、理财、健身，机制照样成立。
+What transfers out of this method is a mechanism for manufacturing the "oh, I get it" moment. Dirty was only the surface material of Durex's category — swap the material for an AI course, careers, personal finance, or fitness, and the mechanism still holds.
 
 <p align="center">
   <img src="examples/output/lays_onechip_3x4.jpg" width="300">
   <img src="examples/output/lays_daynight_3x4.jpg" width="300">
 </p>
 
+> **A note on language.** The method was built in Chinese and the corpus is Chinese. Original lines are kept in Chinese with an English gloss, because the pun *is* the artifact — translate it away and there is nothing left to study. Everything explanatory is in English, and the transfer demonstrations are written as English copy that works in English.
+
 ---
 
-## 双层语义
+## Double-Layered Meaning
 
-一句合格的杜蕾斯式文案，必须**同时成立于两个语境**。
+A working Durex-style line must **hold up in two contexts at once**.
 
-| 层 | 内容 |
+| Layer | Content |
 |---|---|
-| **表层** | 热点 / 节日 / 日常场景本身，字面读得通 |
-| **里层** | 品牌 / 产品 / 你要卖的东西 |
+| **Surface** | The trending topic / holiday / everyday scene itself — it reads literally |
+| **Inner** | The brand / product / whatever you're selling |
 
-作者**只写表层**，里层由读者自己跳过去。那一下跳跃产生的快感，就是传播动力。
+The writer **only writes the surface layer**; the reader jumps to the inner layer on their own. The kick from that jump is what drives sharing.
 
-光大银行出乌龙那天，杜蕾斯发的是「光大是不行的」。刘翔摔倒那次，它把「快」和「持久」摆到一起，表层说的是运动员。中元节它只说了四个字，「今晚早回家」。
+The day China Everbright Bank had its trading glitch, Durex posted 「光大是不行的」— "Everbright alone won't do it," where the bank's name literally reads "just big." When the hurdler Liu Xiang fell, it put "fast" and "lasting" side by side and talked, on the surface, only about the athlete. For the Ghost Festival it said five characters: 「今晚早回家」— "come home early tonight."
 
-**点破即死是铁律。** 只要在文案里解释了里层，这条就废了。
+**Explain it and it dies — that's the iron law.** The moment the copy spells out the inner layer, the line is worthless.
 
 ---
 
-## 它会做什么
+## What It Does
 
-Skill 触发后走一条**交互式流程**，不会闷头给你一版就完事。
+Once triggered, the skill runs an **interactive workflow**; it doesn't just hand you one version and call it done.
 
 ```
-Step 0  补槽位 —— 用默认值，不用提问
-        只有「卖什么」完全无法推断时才反问；其余缺失一律写成明示假设
-        「我按『发朋友圈、面向老会员』来做，不对直接说」
+Step 0  Fill the slots — with defaults, not questions
+        Only "what are you selling" justifies a question when it can't be inferred;
+        every other gap becomes a stated assumption
+        "I'm working from 'posting to your own feed, aimed at existing members' — say if that's wrong"
 
-Step 1  给 3–5 个方案让你选 —— 强制走不同公式、不同主体类型、不同配色
-        不允许是同一个想法的三个变体
+Step 1  Offer 3–5 directions — forced to use different formulas, subject types, palettes
+        Three variants of one idea are not allowed
 
-Step 2  唯一一次提问 —— 把「选方案」和「选比例」合并成一轮，都可多选
+Step 2  The single question — "which direction" and "which ratio" merged into one round,
+        both multi-select
 
-Step 3  出文案 —— 默认短文案（≤12 字）；长文案要了才出
-        海报上永远只放短的
+Step 3  Write the copy — short copy by default (≤12 Chinese characters);
+        long copy only on request. Only short copy ever goes on the poster
 
-Step 4  出图 —— AI 出静物主体图层 + 代码排版
+Step 4  Make the images — AI generates the still-life subject layer, code does the typesetting
 ```
 
-> **为什么默认不提问。** 模型天然倾向多问，而每轮提问都在消耗用户耐心。用户找你是要东西的，不是来做问卷的。**一个带明示假设的具体方案，比三个精准的问题更有用**，因为用户看到具体的东西才知道自己想要什么。方案本身就是最好的提问方式。
+> **Why it doesn't ask by default.** Models naturally tend to ask more, and every round of questions spends the user's patience. The user came for output, not to fill in a survey. **One concrete direction with stated assumptions beats three precise questions**, because a user only knows what they want once they see something concrete. The proposal is itself the best way to ask.
 >
-> 这条是跑评测跑出来的。第一轮测试里 Skill 只缺一个槽位也照样停下来提问，还自己发明了四个槽位之外的新问题。详见 [`evals/`](evals/)。
+> This rule came out of running evals. In the first round of testing, the skill would stop and ask even when only one slot was missing, and invented four questions outside the four slots. See [`evals/`](evals/).
 
 ---
 
-## 安装
+## Install
 
 ```bash
 git clone https://github.com/crawfordxx/xiaoma-durex-copywriter.git \
   ~/.claude/skills/xiaoma-durex-copywriter
 ```
 
-Claude Code 下次启动即可用。触发词：「写个文案」「借势热点」「节日海报」「想句 slogan」「课程怎么推」「像杜蕾斯那样写」。
+Available the next time Claude Code starts. Trigger phrases: "write me some copy", "ride this trending topic", "holiday poster", "I need a slogan", "how do I promote my course", "write it like Durex".
 
-出图部分按需安装。
+Install the image-generation parts as needed.
 
 ```bash
-npm i @napi-rs/canvas      # Canvas 排版
-pip install playwright     # HTML 排版（二选一即可）
+npm i @napi-rs/canvas      # Canvas typesetting
+pip install playwright     # HTML typesetting (either one is enough)
 ```
 
 ---
 
-## 八个文案公式
+## Eight Copy Formulas
 
-完整拆解与非成人品类的迁移示范见 [`references/copy-formulas.md`](references/copy-formulas.md)。
+Full breakdowns, plus transfer demonstrations for non-adult categories, in [`references/copy-formulas.md`](references/copy-formulas.md).
 
-| # | 公式 | 杜蕾斯原例 | 迁移到 AI 课程 |
+| # | Formula | Durex original | Transferred to an AI course |
 |---|---|---|---|
-| 1 | 谐音置换 | 「杜 du 饿了」 | 「不 AI 则退」 |
-| 2 | 数字双关 | 「先来 7 次」 | 「3 小时，换回你未来 3 年的加班」 |
-| 3 | 词义劫持 | 「深耕细作」 | 「深度学习，浅度使用」 |
-| 4 | 场景移植 | 「洗衣机说……」 | 「咖啡杯说：以前他一晚续我五次」 |
-| 5 | 拆字重组 | 「『日』字有多长」 | 「智 = 知 + 日」 |
-| 6 | 对仗 / 宜忌 | 「堵在路上 不如堵在床上」 | 「宜 动手实操　忌 收藏吃灰」 |
-| 7 | 诗歌体 | 三段景物 + 一句落点 | （长文案专用） |
-| 8 | **反向克制** | 中元节「今晚早回家」 | 「工具会淘汰工具，不会淘汰想清楚的人」 |
+| 1 | Homophone substitution | 「杜du饿了」(Baidu Waimai × Ele.me) | "Prompt and circumstance" |
+| 2 | Number pun | 「先来 7 次」("let's do it 7 times first") | "3 hours now buys back 3 years of overtime" |
+| 3 | Sense hijacking | 「深耕细作」("deep and careful cultivation") | "Deep learning, shallow usage" |
+| 4 | Scene transplant | "The washing machine says…" | "The coffee cup says: he used to refill me five times a night" |
+| 5 | Character decomposition | 「『日』字有多长」("how long is the character 日") | 智 = 知 + 日 — **Chinese-specific** |
+| 6 | Parallelism / almanac | 「堵在路上 不如堵在床上」("better stuck in bed than stuck in traffic") | "Auspicious: shipping it. Inauspicious: bookmarking it" |
+| 7 | Verse | Three stanzas of scenery + one landing line | (long copy only) |
+| 8 | **Inverted restraint** | Ghost Festival: 「今晚早回家」("come home early tonight") | "Tools replace tools. They don't replace people who thought it through" |
 
-公式 8 最高级，**在所有人都等着你耍花活的时候不耍**。一个一直很皮的品牌突然正经，人格厚度瞬间建立。全年用不超过 5 次。
+Formula 8 is the highest grade: **not doing a trick when everyone is waiting for the trick**. A brand that has been cheeky all year suddenly going straight builds character depth instantly. No more than 5 times a year.
 
 ---
 
-## 视觉系统
+## Visual System
 
-从 **260 张原始海报**实测拆解而来，详见 [`references/visual-system.md`](references/visual-system.md)。
+Reverse-engineered from **260 original posters**; full spec in [`references/visual-system.md`](references/visual-system.md).
 
-### 主体判断树
+### Subject decision tree
 
 ```
-有实体产品吗？
-├─ 有 → 产品能成为隐喻本体吗？
-│   ├─ 能 → 【产品主体】居中，占画面 15–35%，纯色背景，强投影
-│   └─ 不能 → 产品退到角标（5–10%），画面让给道具
-└─ 没有（课程 / 知识 / 服务）→
-    ├─ 【道具主体】← 最高频，也最适合无产品场景
-    │   ⚠️「没有实体产品」≠「画面要空」
-    │      杜蕾斯的道具是有质感的实拍静物，不是一根线
-    └─ 【纯字体主体】大字即画面
+Is there a physical product?
+├─ Yes → can the product be the metaphor itself?
+│   ├─ Yes → 【product subject】centered, 15–35% of the frame,
+│   │        solid background, strong drop shadow
+│   └─ No  → demote it to a corner mark (5–10%); the frame goes to a prop
+└─ No (course / knowledge / service) →
+    ├─ 【prop subject】 ← most common, and the best fit when there's no product
+    │   ⚠️ "No physical product" ≠ "the frame should be empty."
+    │      Durex's props are tactile photographed still lifes, not a single line.
+    └─ 【type-only subject】big type IS the image
 ```
 
-实测占比是产品 ~30% / **道具 ~40%** / 纯字体 ~30%。真人几乎不用，用也只出手、腿、剪影。
+Measured split: product ~30% / **prop ~40%** / type-only ~30%. Real people are almost never used; when they are, only a hand, legs, or a silhouette.
 
-### 六套配色
+### Six palettes
 
-| 名称 | 主色 | 用于 |
+| Name | Primary | Used for |
 |---|---|---|
-| 品牌红 | `#E2001A` + 纯白 | 节庆、宣言、周年、态度 |
-| 深夜蓝 | `#16233F` `#0E1A2E` | 克制、高级、夜、思考 |
-| 影棚黑 | `#000000` + 单点暖光 | 电影感、悬念、单品特写 |
-| 粉渐变 | `#FCEDF1` → `#E8558F` | 情人节、女性向、年度报告 |
-| 宣纸暖白 | `#F1EBE0` + 朱红 `#C8102E` | 静物、节气、中国风、日历 |
-| 借势撞色 | 对方品牌色 | 联名、影视 / 球队 / 科技借势 |
+| Brand red | `#E2001A` + pure white | Festivals, statements, anniversaries, attitude |
+| Midnight blue | `#16233F` `#0E1A2E` | Restraint, premium feel, night, reflection |
+| Studio black | `#000000` + single warm light | Cinematic, suspense, single-product close-ups |
+| Pink gradient | `#FCEDF1` → `#E8558F` | Valentine's, women-facing, year-in-review |
+| Rice-paper warm white | `#F1EBE0` + vermilion `#C8102E` | Still life, seasonal markers, Chinese-classical, calendars |
+| Color-jacking | The other party's brand colors | Collabs; film / sports team / tech newsjacking |
 
-### 排版铁律
+### Layout iron laws
 
-- 文案在**上 1/3 或左上**，左对齐；下 1/3 留白或放主体
-- 正文 ≈ 画面宽度 3.5%–4.5%；**关键词放大 1.65–1.75 倍并染品牌色**，其余全部同字号同色
-- 眉题为正文 0.6 倍，灰色，带字距
-- **Logo 恒定底部居中，且必须落在空白处**，主体图不许压到它
-- 留白率 ≥ 50%。挤 = 廉价
+- Copy sits in the **top third or upper left**, left-aligned; the bottom third is negative space or the subject
+- Body type ≈ 3.5%–4.5% of frame width; **scale keywords 1.65–1.75× and tint them brand color**, everything else one size and one color
+- The eyebrow is 0.6× the body, gray, with letter-spacing
+- **The logo is fixed bottom-center and must land on empty space**; the subject may never overlap it
+- Negative space ≥ 50%. Crowded = cheap
 
-### 字体 → [`references/typography.md`](references/typography.md)
+### Type → [`references/typography.md`](references/typography.md)
 
-**两条最关键的。**
+**The two that matter most.**
 
-**1. 借势时字体跟着借势对象走，不跟品牌走。** 这条在杜蕾斯的字体用法里最容易被忽略。仿 iPhone 发布会就用苹方/SF 复刻，仿电影海报就用做旧衬线加手写 script，仿 CS:GO 就直接嵌进游戏 UI，仿文革宣传画就用老宋竖排。读者对这些视觉语言有肌肉记忆，**字体一出来，双层语义的「表层」就已经完成了**，文案只需负责里层。
+**1. When newsjacking, the typeface follows the thing you're riding, not your brand.** This is the most overlooked part of Durex's type usage. Mimicking an iPhone keynote means PingFang/SF; mimicking a movie poster means a distressed serif plus a handwritten script subhead; mimicking CS:GO means embedding straight into the game UI; mimicking Cultural-Revolution propaganda means old Song set vertically. Readers have muscle memory for these visual languages — **the moment the typeface lands, the surface layer of the double meaning is already complete**, and the copy only has to carry the inner layer.
 
-**2. ⚠️ 中文字体侵权是国内营销物料最高频的法律风险。** 微软雅黑、苹方、方正系列、汉仪系列都需商业授权，**「电脑里有」≠「能商用」**。方正、汉仪都有专门的维权团队，单张海报索赔常在数千到数万元。
+**2. ⚠️ Chinese font infringement is the single most common legal risk in Chinese marketing collateral.** Microsoft YaHei, PingFang, the Founder (方正) families, and the Hanyi (汉仪) families all require commercial licenses. **"It's on my computer" ≠ "I can use it commercially."** Founder and Hanyi both run dedicated enforcement teams, and claims for a single poster commonly run from thousands to tens of thousands of yuan.
 
-参考文件里给了八类字体（黑体/粗黑/宋体/楷书/手写/英文无衬线/Script/数字等宽）的**可免费商用替代**，以及一份授权红线清单。拿不准就用**思源黑体 + 思源宋体**（SIL OFL，可商用可修改），标题要力量感用**得意黑 Smiley Sans**。
+The reference file lists **free commercially usable alternatives** across eight categories (sans / heavy sans / serif / kai / handwriting / Latin sans / script / numeral & mono), plus a licensing red-line list. When in doubt use **Source Han Sans + Source Han Serif** (SIL OFL, commercial use and modification permitted); for headline punch use **Smiley Sans (得意黑)**.
 
 ---
 
-## 为什么不让 AI 把字写进图里
+## Why Not Let AI Write the Text into the Image
 
-AI 生图模型渲染中文仍会**错字、缺笔画、字形崩坏**，而且不可控。这套视觉的命门恰恰是**精确排版**。
+Image models still **mangle Chinese glyphs — wrong characters, missing strokes, broken forms** — and do it unpredictably. The whole point of this visual system is **precise typesetting**.
 
-所以分层。
+So the work is split into layers.
 
 ```
-① AI 图像模型  →  只出【静物道具 / 背景质感】，提示词必写 NO text
-② 代码排版     →  承担全部文字（Canvas 或 HTML/CSS）
-③ 精确输出     →  五种画幅
+① AI image model  →  produces ONLY the still-life prop / background texture;
+                     the prompt must say NO text
+② Code typesetting →  carries all text (Canvas or HTML/CSS)
+③ Precise export   →  five formats
 ```
 
-这样中文永不出错，关键词染色和字号倍率精确可控，**改文案只改一行代码，静物图复用不用重新出图**。
+Chinese never breaks this way, keyword tinting and size multipliers stay exactly controllable, and **changing the copy is a one-line code change — the still-life image is reused, not regenerated**.
 
-排版方案怎么选，详见 [`references/production.md`](references/production.md)。
+How to choose a typesetting approach: [`references/production.md`](references/production.md).
 
-| 方案 | 何时用 |
+| Approach | When to use |
 |---|---|
-| **Canvas**（`@napi-rs/canvas`） | 默认；尤其**图形阵列**（撕历体那种满屏图标矩阵）程序化生成远胜手摆 |
-| **HTML/CSS + Playwright** | 复杂版式、想所见即所得地调 |
-| **Satori + resvg** | 服务端批量、不想装浏览器 |
+| **Canvas** (`@napi-rs/canvas`) | Default; especially **graphic arrays** (the screen-filling icon matrices of the tear-off-calendar layout), where generating programmatically beats placing by hand |
+| **HTML/CSS + Playwright** | Complex layouts; when you want to tune it WYSIWYG |
+| **Satori + resvg** | Server-side batches, when you don't want to install a browser |
 
 ---
 
-## 示例
+## Examples
 
-`examples/output/` 是用本 Skill 给乐事薯片实做的两张海报，同一个品牌，两套完全不同的骨架。
+`examples/output/` holds two posters made with this skill for Lay's — same brand, two completely different skeletons.
 
 | <img src="examples/output/lays_onechip_3x4.jpg" width="240"> | <img src="examples/output/lays_daynight_3x4.jpg" width="240"> |
 |---|---|
-| **「就吃一片。」**<br>眉题「今天第 4 次这么说」 | **「白天数卡路里，晚上数薯片。」**<br>眉题 A.M. 09:30 / P.M. 11:40 |
-| 词义劫持 · 产品主体阵列 | 对仗 · 上下分栏双场景 |
+| **「就吃一片。」** "Just one chip."<br>Eyebrow: "4th time saying that today" | **「白天数卡路里，晚上数薯片。」** "Count calories by day, count chips by night."<br>Eyebrow: A.M. 09:30 / P.M. 11:40 |
+| Sense hijacking · product-subject array | Parallelism · split-frame day/night |
 
-左边那张，文案只是你对自己说的一句话，底下四包从虚到实排开。说了四次，也就开了四包。眉题里的「4」和画面里的四包对得上，读者一跳就到，不用推理。
+On the left, the copy is just something you say to yourself, with four bags fanned out below from faint to solid. Said it four times, opened four bags. The "4" in the eyebrow matches the four bags in the frame — the reader lands in one hop, no reasoning required.
 
-右边那张用了对仗，画面从中间切开。上半冷白是白天，下半暗黄是夜里，薯片压过分界线掉下去，白天那半的努力就是这么没的。
+On the right, parallelism, with the frame cut through the middle. The cold white top half is daytime, the dark amber bottom is night, and a chip falls across the dividing line — that's exactly how the daytime half's effort disappears.
 
-两张遵守同一批硬规矩，文案 ≤ 12 字、关键词放大 1.7 倍染品牌红、留白 ≥ 50%、Logo 恒定底部居中且不被主体压。配色一律走**借势撞色**，直接用乐事自己的黄加红，没有从六套配色里挑。给具体品牌做东西时，借势撞色是第一顺位。
+Both obey the same hard rules: copy ≤ 12 characters, keyword scaled 1.7× and tinted brand red, negative space ≥ 50%, logo fixed bottom-center and never overlapped by the subject. The palette is **color-jacking** in both cases, using Lay's own yellow and red rather than picking from the six schemes. When working for a specific brand, color-jacking is always the first choice.
 
-素材全部是真图。包装是乐事官网的官方 packshot，Logo 取自 Wikimedia Commons，字体用思源黑体（SIL OFL，可商用）。**不要自己捏假包装。**
+All assets are real. The packaging is the official packshot from the Lay's site, the logo is from Wikimedia Commons, and the type is Source Han Sans (SIL OFL, commercially usable). **Do not fabricate fake packaging.**
 
-`examples/durex-reference/` 是 24 张杜蕾斯原始海报的低分辨率样本，供对照学习排版规律用（见下方版权声明）。
+`examples/durex-reference/` holds 24 low-resolution samples of original Durex posters, for studying the layout patterns by comparison (see the copyright notice below).
 
 ---
 
-## 目录结构
+## Directory Structure
 
 ```
 .
-├── SKILL.md                      # 主文件：机制、工作流、公式速查、边界
+├── SKILL.md                      # Main file: mechanism, workflow, formula reference, boundaries
 ├── references/
-│   ├── corpus.md                 # 语料库（34 个来源 / 260 张海报）
-│   ├── copy-formulas.md          # 8 个公式详解 + 迁移模板
-│   ├── visual-system.md          # 视觉系统完整规范
-│   ├── typography.md             # 字体选型集 + 授权红线
-│   ├── ratios.md                 # 五种画幅构图规范
-│   ├── production.md             # 出图管线与方案选型
-│   └── other-uses.md             # 迁移场景
-├── evals/                        # 测试用例与断言（Skill 的行为是被测过的）
+│   ├── corpus.md                 # Corpus (34 sources / 260 posters)
+│   ├── copy-formulas.md          # The 8 formulas in detail + transfer templates
+│   ├── visual-system.md          # Full visual system spec
+│   ├── typography.md             # Type selection + licensing red lines
+│   ├── ratios.md                 # Composition specs for the five formats
+│   ├── production.md             # Image pipeline and approach selection
+│   └── other-uses.md             # Transfer contexts
+├── evals/                        # Test cases and assertions (the skill's behavior is tested)
 ├── assets/
-│   ├── compose_canvas.js         # Canvas 合成（含签名避让）
-│   ├── compose_example.py        # HTML/Playwright 合成
-│   └── gen_hero_example.py       # 静物图生成
+│   ├── compose_canvas.js         # Canvas composition (with signature clearance)
+│   ├── compose_example.py        # HTML/Playwright composition
+│   └── gen_hero_example.py       # Still-life generation
 └── examples/
-    ├── output/                   # 本 Skill 实做的成品
-    └── durex-reference/          # 杜蕾斯原图低分样本
+    ├── output/                   # Finished work made with this skill
+    └── durex-reference/          # Low-res samples of the originals
 ```
 
 ---
 
-## 还能用在哪
+## Where Else It Works
 
-见 [`references/other-uses.md`](references/other-uses.md)，里面列了自媒体标题与封面、知识付费、B 端 SaaS（拿行业黑话做词义劫持）、电商详情页（让商品旁边的物件开口）、招聘 JD、个人 IP、节气日历型系列资产。
+See [`references/other-uses.md`](references/other-uses.md), which covers social media headlines and covers, paid knowledge, B2B SaaS (hijacking industry jargon), e-commerce product pages (letting the objects next to the product speak), job descriptions, personal brand, and seasonal-calendar series assets.
 
-那份文件里也写了**不适合迁移**的场景，包括强合规品类、危机公关、面向低网感人群、B2B 大宗采购。
-
----
-
-## 有所为有所不为
-
-杜蕾斯 2017 年「419 联名」翻车、随后失去环时互动，根因就是越了第 3 条。Skill 里把这五条写成硬边界。
-
-1. 不碰灾难、事故、死亡、疾病，除非是明确的公益立场
-2. 不物化女性
-3. **不对具体真人做性暗示**，尤其不涉及未成年
-4. 不蹭悲情热点
-5. 迁移到非成人品类时，双关的里层应指向**产品价值**，不是荤梗
+That file also lists the contexts **where this doesn't transfer**, including heavily regulated categories, crisis communications, audiences with low internet-culture fluency, and large B2B purchasing.
 
 ---
 
-## 版权与免责
+## What to Do and What Never to Do
 
-- `examples/durex-reference/` 中的海报**版权归杜蕾斯 / 利洁时集团（Reckitt Benckiser）所有**。此处仅收录 24 张、已压至 800px 以内的低分辨率样本，用于广告创意方法的**学习与评论**，不用于任何商业用途。
-- 语料与案例整理自数英网、优设网、广告门、梅花网、知乎等公开来源，**版权归原作者及原发布平台所有**。
-- 本仓库与杜蕾斯 / 利洁时集团**无任何隶属或合作关系**。
-- 如权利人认为不妥，请提 issue，收到后立即移除。
-- 代码部分（`assets/`）以 MIT 协议提供。
+Durex's 2017 "419 collab" blew up in its face and it subsequently lost Environment Interactive; the root cause was crossing line 3. The skill encodes these five as hard boundaries.
+
+1. Never touch disasters, accidents, death, or illness, unless it is an explicit public-service stance
+2. Never objectify women
+3. **Never make sexual innuendo about identifiable real people**, and absolutely never involving minors
+4. Never ride on grief
+5. When transferring to non-adult categories, the inner layer of the pun should point at **product value**, not at a dirty joke
 
 ---
 
-## 致谢
+## Copyright and Disclaimer
 
-方法论源头是**环时互动**与 **金鹏远** 团队 2011–2017 年的作品。6 年 16938 条微博，日均 8 条。公式是从这些产量里长出来的，**先有持续的高质量产出，才有可总结的公式**。
+- The posters in `examples/durex-reference/` are **copyright Durex / Reckitt Benckiser**. Only 24 samples are included here, compressed to under 800px, for **study and commentary** on advertising creative method, not for any commercial use.
+- The corpus and cases were compiled from public sources including Digitaling, Uisdc, Adquan, Meihua, and Zhihu. **Copyright remains with the original authors and publishing platforms.**
+- This repository has **no affiliation or partnership** with Durex / Reckitt Benckiser.
+- If a rights holder objects, please open an issue and it will be removed immediately.
+- The code (`assets/`) is provided under the MIT license.
+
+---
+
+## Acknowledgements
+
+The methodology originates with **Environment Interactive** and **Jin Pengyuan**'s team, 2011–2017. 16,938 posts over 6 years, averaging 8 a day. The formulas grew out of that volume — **sustained high-quality output comes first; only then are there formulas to extract**.

@@ -1,133 +1,133 @@
-# 杜蕾斯海报视觉系统
+# The Durex Poster Visual System
 
-基于 260 张原始海报（2015 数英「史上最全」93 张 + 优设 2017 全年合集 167 张）的实测拆解。
+Reverse-engineered from 260 original posters (93 from Digitaling's 2015 "most complete ever" collection + 167 from Uisdc's full-year 2017 compilation).
 
 ---
 
-## 一、主体判断（先决定画面主角）
+## 1. Choosing the Subject (decide the star of the frame first)
 
-杜蕾斯自己有实体产品，**但超过一半的海报不放产品**。主体只有三类：
+Durex has a physical product, **and yet more than half of its posters don't show it**. There are only three subject types:
 
-### A. 产品主体（约 30%）
+### A. Product subject (~30%)
 
-产品本身能成为隐喻本体时才用。
+Use only when the product itself can be the metaphor.
 
-- 位置：画面**居中偏下**或黄金分割点
-- 占比：**15–35%**，绝不超过一半
-- 背景：纯色 / 单色渐变 / 影棚白，**永远不放杂物**
-- 光：单一主光 + 强投影，营造「悬浮感」
-- 案例：套膜做成满月、套做成 iPhone X 屏幕、震动棒做成闪电、彩虹包装做正义联盟
+- Position: **center, slightly low**, or on a golden-ratio point
+- Size: **15–35%** of the frame, never more than half
+- Background: solid color / single-color gradient / studio white, **never any clutter**
+- Light: one key light + a strong drop shadow, creating the sense of floating
+- Cases: the foil ring as a full moon, a condom as an iPhone X screen, a vibrator as a lightning bolt, rainbow packaging as the Justice League
 
-**当产品无法成为隐喻时，产品必须退位**，缩到右下角或底部当角标（占 5–10%）。
+**When the product can't be the metaphor, it has to step aside** — shrunk to the bottom-right or bottom edge as a corner mark (5–10%).
 
-### B. 道具主体（约 40%，最高频）
+### B. Prop subject (~40%, the most common)
 
-用**一个日常物件**承载全部暗示。这是杜蕾斯最核心的视觉手法，也是**没有实体产品时唯一正解**。
+Let **a single everyday object** carry the entire implication. This is Durex's core visual move, and **the only right answer when there is no physical product**.
 
-实测出现过的道具：月亮、开关、交通锥、耳机、唱片、纸箱/快递、购物车、咖啡杯、日历、验孕棒、床单、沙发、台灯、地铁线路图、Windows 98 弹窗、老式手机、砖墙、体温计、洗衣机。
+Props actually observed: the moon, a light switch, a traffic cone, headphones, a vinyl record, a cardboard box / parcel, a shopping cart, a coffee cup, a calendar, a pregnancy test, bedsheets, a sofa, a desk lamp, a subway map, a Windows 98 dialog box, an old mobile phone, a brick wall, a thermometer, a washing machine.
 
-- 道具必须是**读者生活里天天见**的，越平凡越好
-- 道具的**形状或动作**要和你的诉求同构（月亮↔圆、开关↔开始、交通锥↔安全、纸箱↔包裹）
-- 道具单独占据画面中心，**不做任何解释**
+- The prop must be something **the reader sees every day** — the more ordinary the better
+- The prop's **shape or action** must be isomorphic with your claim (moon ↔ round, switch ↔ starting, traffic cone ↔ safety, box ↔ package)
+- The prop occupies the center of the frame alone, **with no explanation whatsoever**
 
-### C. 纯字体主体（约 30%）
+### C. Type-only subject (~30%)
 
-**大字本身就是画面**，不需要图。
+**Big type is the image.** No picture required.
 
-实测子类：
-| 子类 | 特征 | 案例 |
+Observed sub-types:
+| Sub-type | Characteristics | Case |
 |---|---|---|
-| 书法体 | 毛笔字竖排，宣纸底 | 「完满毕业 愿意为妳」 |
-| 词典/造句体 | 网格纸 + 释义框 + 造句框 | 「深耕细作」「心急口快」 |
-| 涂鸦体 | 砖墙 / 喷漆质感 | 「今亦球精 头头事到」 |
-| 极简英文 | 一个词 + 大量留白 | 「Red now」「Oh!」「WET IS OVER!」 |
-| 重复排版 | 同一字符铺满整屏 | 「12·12 12·12…」「yàoooo…」 |
-| 界面仿制 | 系统弹窗 / 代码 / 短信 | Win98「拒绝传输。」/ Ada Lovelace 代码 |
+| Calligraphy | Brush characters set vertically, rice-paper ground | 「完满毕业 愿意为妳」("a complete graduation; willing, for you") |
+| Dictionary / fill-in-the-blank | Grid paper + definition box + example-sentence box | 「深耕细作」「心急口快」 |
+| Graffiti | Brick wall / spray-paint texture | 「今亦球精 头头事到」 |
+| Minimal English | One word plus a lot of negative space | 「Red now」「Oh!」「WET IS OVER!」 |
+| Repetition | One character tiled across the whole screen | 「12·12 12·12…」「yàoooo…」 |
+| UI mimicry | System dialog / code / SMS | The Win98 「拒绝传输。」("transfer refused.") / the Ada Lovelace code poster |
 
-### D. 人物（< 5%，慎用）
+### D. People (< 5%, use with care)
 
-杜蕾斯**几乎不用完整真人**。用时只出**局部**：一只手、一双腿、剪影、背影。
+Durex **almost never uses a whole real person**. When it does, only a **fragment**: one hand, a pair of legs, a silhouette, a back.
 
-原因有二：规避审查风险；**留白比展示更有想象空间**。
+Two reasons: it avoids censorship risk, and **leaving it out leaves more room to imagine than showing it**.
 
-> 迁移建议：做课程/知识类封面时，**不要放讲师全身照**。局部（手、侧脸、背影）或干脆不放人，转用道具/纯字体。
+> Transfer note: when making covers for courses or knowledge products, **don't use a full-body photo of the instructor**. Use a fragment (hands, profile, back) or no person at all, and switch to a prop or type-only subject.
 
 ---
 
-## 二、六套配色
+## 2. The Six Palettes
 
-**一张图只用一套，不混。**
+**One image uses exactly one. Never mix.**
 
-### 1. 品牌红
+### 1. Brand red
 ```
-主色 #E2001A   辅 #FFFFFF   点缀 #000000
+primary #E2001A   secondary #FFFFFF   accent #000000
 ```
-用于：节庆、周年、宣言、态度表达。红底白字或白底红字，**对比拉满，不用中间调**。
+For: festivals, anniversaries, statements, taking a position. White on red or red on white, **contrast maxed out, no mid-tones**.
 
-### 2. 深夜蓝
+### 2. Midnight blue
 ```
-#16233F  #0E1A2E  #1B2A4A   微冷光 #4A6FA5
+#16233F  #0E1A2E  #1B2A4A   cool highlight #4A6FA5
 ```
-用于：克制、高级感、夜晚、思考类主题。是杜蕾斯「文艺附体」时的默认色。
+For: restraint, premium feel, night, reflective themes. This is Durex's default palette when it goes literary.
 
-### 3. 影棚黑
+### 3. Studio black
 ```
-背景 #000000   主光 #F5C26B（暖）或 #7FB3D5（冷）
+background #000000   key light #F5C26B (warm) or #7FB3D5 (cool)
 ```
-用于：单品特写、悬念、电影感。**只有一个光源**，其余全暗。
+For: single-product close-ups, suspense, cinematic feel. **Exactly one light source**; everything else in darkness.
 
-### 4. 粉渐变
+### 4. Pink gradient
 ```
 #FCEDF1 → #F8BBD0 → #F06292 → #E8558F
 ```
-用于：情人节、女性向、年度报告、轻松话题。渐变方向多为**左上→右下**或**径向**。
+For: Valentine's, women-facing work, year-in-review, light-hearted topics. The gradient usually runs **upper-left → lower-right** or radially.
 
-### 5. 宣纸中国风
+### 5. Rice-paper Chinese classical
 ```
-底 #F2EDE3（做纸纹）  朱红 #C8102E  墨 #1A1A1A
+ground #F2EDE3 (with paper grain)  vermilion #C8102E  ink #1A1A1A
 ```
-用于：节气、春节、日历、书法。必带**纸纹肌理**和**红色边框**。
+For: seasonal markers, Lunar New Year, calendars, calligraphy. Must include **paper texture** and a **red border**.
 
-### 6. 借势撞色
-直接挪用被借势对象的品牌色（湖人紫金、正义联盟彩虹、饿了么蓝、LV 棕）。
-**这套的规则就是没有规则——完全服从对方视觉资产。**
+### 6. Color-jacking
+Take the visual identity of whatever you're riding directly (Lakers purple-and-gold, Justice League rainbow, Ele.me blue, LV brown).
+**The rule for this one is that there is no rule — you defer completely to the other party's visual assets.**
 
 ---
 
-## 三、排版规范
+## 3. Typesetting Spec
 
-### 版式骨架（竖版 3:4，主力画幅）
+### Layout skeleton (3:4 portrait, the workhorse format)
 
 ```
 ┌─────────────────────┐
-│                     │  ← 上边距 8–12%
-│   文案区             │  ← 上 1/3：正文小字，
-│   关键词放大染色      │     关键词 1.8–2.5 倍 + 品牌色
-│                     │
+│                     │  ← top margin 8–12%
+│   copy zone          │  ← top third: body type small,
+│   keyword scaled     │     keywords 1.8–2.5× + brand color
+│   and tinted         │
 ├─────────────────────┤
 │                     │
-│      主体            │  ← 中 1/3：产品 / 道具
-│                     │     大量留白包围
+│      subject         │  ← middle third: product / prop
+│                     │     surrounded by generous negative space
 │                     │
 ├─────────────────────┤
-│                     │  ← 下 1/3：留白
+│                     │  ← bottom third: negative space
 │      love sex       │
-│      ( durex )      │  ← 底部居中，恒定
-│              @官微   │  ← 右下角超小水印
+│      ( durex )      │  ← bottom center, fixed
+│           @handle    │  ← tiny watermark, bottom right
 └─────────────────────┘
 ```
 
-### 铁律
+### Iron laws
 
-1. **留白率 ≥ 50%**。挤 = 廉价。这是杜蕾斯与山寨海报最大的分野
-2. **正文字号 = 画面高度的 2.5%–3.5%**（3:4 的 1200px 图 → 正文约 30–42px）
-3. **一张图只有一个视觉重音**：要么大字，要么主体，不能都抢
-4. **关键词处理**：数字/双关词放大 1.8–2.5 倍，染品牌红，其余全部同字号同色
-5. **Logo 恒定**：底部居中，`love sex` 小字在上，`durex` 椭圆在下，**永不放大、永不移位**
-6. **字体**：中文用**思源黑体 / 苹方**（正文）+ **思源宋体**（文艺）+ **书法体**（中国风）；英文用无衬线（Helvetica/Futura 类）
-7. **行距 1.6–1.8**，中文文案**手动断行**，按语义断，不按宽度断
+1. **Negative space ≥ 50%.** Crowded = cheap. This is the widest gap between Durex and the knockoffs
+2. **Body type = 2.5%–3.5% of frame height** (a 1200px-wide 3:4 image → body around 30–42px)
+3. **One visual accent per image**: either the big type or the subject, not both competing
+4. **Keyword handling**: scale the number or the punning word 1.8–2.5×, tint it brand red; everything else stays one size and one color
+5. **The logo is fixed**: bottom center, small `love sex` above, the `durex` oval below, **never enlarged, never moved**
+6. **Type**: Chinese uses **Source Han Sans / PingFang** (body) + **Source Han Serif** (literary) + **calligraphy** (Chinese classical); Latin uses a sans (Helvetica/Futura family)
+7. **Line height 1.6–1.8**, and Chinese copy is **broken by hand** — by sense, not by width
 
-### 文案断行示例（原例）
+### Line-breaking example (from an original)
 
 ```
 这一年，你有 100 次
@@ -135,35 +135,36 @@
 仍然在听《PAPAPA》
 放低音量，小心扰民
 ```
-每行是一个完整意群，**「100」放大染红**。
+("This year, 100 times you were still playing *PAPAPA* after midnight — turn it down, mind the neighbors.")
+Each line is a complete sense unit, and **「100」 is scaled up and tinted red**.
 
 ---
 
-## 四、常用视觉元素库（非产品）
+## 4. The Non-Product Visual Element Library
 
-供无实体产品时借用：
+To borrow from when there's no physical product:
 
-- **天体**：月亮、地球、星空 —— 用于「圆满/距离/夜」
-- **开关类**：电灯开关、旋钮、插头 —— 用于「开始/连接」
-- **交通类**：交通锥、红绿灯、警戒带、路标 —— 用于「安全/规则/禁止」
-- **容器类**：纸箱、购物车、快递、礼盒 —— 用于「获得/期待」
-- **声音类**：耳机、唱片、音响、麦克风 —— 用于「共鸣/节奏」
-- **时间类**：日历、撕历、时钟、沙漏 —— 用于「进程/仪式感」
-- **界面类**：系统弹窗、聊天气泡、代码、进度条 —— 用于「数字化/共同记忆」
-- **文具类**：宣纸、信笺、格纸、印章 —— 用于「文艺/中国风」
-- **重复阵列**：同一小图标铺满半屏 + 对照的单个图标 —— 用于「多 vs 少」的对比（撕历体核心手法）
+- **Celestial**: moon, Earth, starfield — for "completeness / distance / night"
+- **Switches**: light switch, dial, plug — for "starting / connecting"
+- **Traffic**: cone, traffic light, hazard tape, road sign — for "safety / rules / prohibition"
+- **Containers**: box, shopping cart, parcel, gift box — for "receiving / anticipation"
+- **Sound**: headphones, records, speakers, microphone — for "resonance / rhythm"
+- **Time**: calendar, tear-off calendar, clock, hourglass — for "progress / ritual"
+- **Interface**: system dialog, chat bubble, code, progress bar — for "digital life / shared memory"
+- **Stationery**: rice paper, letterhead, grid paper, seal — for "literary / Chinese classical"
+- **Repeating arrays**: one small icon tiled across half the screen + a single contrasting icon — for "many vs one" comparisons (the core move of the tear-off-calendar format)
 
 ---
 
-## 五、质检清单
+## 5. QA Checklist
 
-出图前逐条过：
+Go through this line by line before exporting:
 
-- [ ] 主体是三类中的哪一类？说得出来吗？
-- [ ] 留白够不够 50%？
-- [ ] 文案和图片**说的是同一件事吗**？（是 → 重做，必须互补不重复）
-- [ ] 关键词有没有被放大染色？其余是不是全部统一？
-- [ ] Logo 位置对不对？有没有被放大？
-- [ ] 配色是不是**只用了一套**？
-- [ ] 有没有出现完整真人正面？（尽量避免）
-- [ ] 里层含义有没有被点破？（点破 → 重写文案）
+- [ ] Which of the three subject types is this? Can you name it?
+- [ ] Is there at least 50% negative space?
+- [ ] Are the copy and the image **saying the same thing**? (If yes → redo; they must complement, not repeat)
+- [ ] Is the keyword scaled and tinted? Is everything else uniform?
+- [ ] Is the logo in the right place? Has it been enlarged?
+- [ ] Is **exactly one** palette in use?
+- [ ] Does a full frontal shot of a real person appear? (Avoid where possible)
+- [ ] Has the inner meaning been spelled out? (If so → rewrite the copy)

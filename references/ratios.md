@@ -1,149 +1,147 @@
-# 五种画幅比例规范
+# The Five Aspect Ratios
 
-同一条文案在不同比例下**不是缩放，是重新构图**。文案量、主体位置、断行方式全都要变。
+The same line in a different ratio is **a recomposition, not a resize**. Copy volume, subject position, and line breaks all change.
 
 ---
 
-## 版式骨架库（先选骨架，再套比例）
+## The Layout-Skeleton Library (pick the skeleton first, then fit the ratio)
 
-⚠️ **下面各比例章节里画的只是该比例最常用的一种骨架，不是唯一解。**
-真正决定一张图长什么样的是骨架，比例只决定它怎么排。
+⚠️ **The diagrams in each ratio section below show only the most common skeleton for that ratio — not the only option.**
+What actually determines how an image looks is the skeleton; the ratio only decides how it's arranged.
 
-| 骨架 | 结构 | 配哪类主体 |
+| Skeleton | Structure | Pairs with |
 |---|---|---|
-| **左文右图** | 左 55–62% 文案，右侧主体 | 道具 / 产品 |
-| **上文下图** | 文案压顶，主体沉底，中间大留白 | 道具 / 产品 |
-| **纯字体居中** | 大字即画面，没有静物，四周留白包围 | 纯字体 |
-| **文字嵌主体** | 文案长在物件身上 | 道具 |
-| **撕历体** | 一侧同款图标铺满，另一侧只剩一个，底部一句宜忌 | 图形阵列 |
-| **仿界面** | 系统弹窗 / 聊天气泡 / 代码 / 日历页 / 字典页 | 纯字体 |
+| **Copy left, image right** | Copy in the left 55–62%, subject on the right | Prop / product |
+| **Copy top, image bottom** | Copy pinned to the top, subject sunk to the bottom, big gap between | Prop / product |
+| **Centered type-only** | Big type is the image, no still life, negative space all around | Type-only |
+| **Type embedded in the subject** | The copy grows out of the object itself | Prop |
+| **Tear-off calendar** | One side tiled with identical icons, the other side down to a single one, one almanac line at the bottom | Graphic array |
+| **UI mimicry** | System dialog / chat bubble / code / calendar page / dictionary page | Type-only |
 
-**「文字嵌主体」最容易被忽略，但双关最强。** 让字直接出现在物件本该显示信息的位置——
-体重秤的表盘、手机屏幕、价签、日历格、快递单、电梯楼层显示。
-物件在说话这件事由位置本身完成，**连「XX 说：」这个引导语都能省掉**——
-而省掉它，正好符合「点破即死」。
+**"Type embedded in the subject" is the most overlooked and has the strongest double meaning.** Put the words exactly where the object would normally display information — the readout on a bathroom scale, a phone screen, a price tag, a calendar cell, a shipping label, an elevator floor indicator.
+The fact that the object is speaking is established by the position alone, **so you can even drop the "X says:" lead-in** — and dropping it is exactly what "explain it and it dies" asks for.
 
-**连续出多张时先换骨架，再换配色。** 同骨架换配色 = 换皮，不算不同版式。
+**When producing several images in a row, change the skeleton before you change the palette.** Same skeleton with a new palette is a reskin, not a different layout.
 
 ---
 
-## 速查表
+## Quick Reference
 
-| 比例 | 主要投放位 | 文案上限 | 主体位置 | 断行 |
+| Ratio | Primary placement | Copy limit | Subject position | Line breaks |
 |---|---|---|---|---|
-| **3:4** | 微博/朋友圈/公众号内文 | 4 行 × 12 字 | 中部偏下 | 按意群 |
-| **1:1** | 小红书/微信视频号封面/头像位 | 2 行 × 10 字 | 正中 | 2 行封顶 |
-| **4:3** | PPT/B站封面/横版 banner | 2 行 × 14 字 | 左文右图 | 左对齐 |
-| **9:16** | 抖音/小红书竖版/开屏 | 3 行 × 10 字 | 上文下图 | 短句堆叠 |
-| **16:9** | YouTube/PPT/官网 Hero | 1 行 × 16 字 | 左文右图 | 单行为佳 |
+| **3:4** | Microblog / social feed / newsletter body | 4 lines × 12 chars | Center, slightly low | By sense unit |
+| **1:1** | Lifestyle-app posts / video-channel covers / avatar slots | 2 lines × 10 chars | Dead center | 2 lines maximum |
+| **4:3** | Slides / video-site thumbnails / horizontal banners | 2 lines × 14 chars | Copy left, image right | Left-aligned |
+| **9:16** | Short video / vertical feed posts / splash screens | 3 lines × 10 chars | Copy top, image bottom | Stacked short lines |
+| **16:9** | YouTube / slides / website hero | 1 line × 16 chars | Copy left, image right | One line preferred |
 
 ---
 
-## 3:4（主力，杜蕾斯的原生画幅）
+## 3:4 (the workhorse — Durex's native format)
 
 ```
 ┌──────────────┐  1200 × 1600
 │  ↕ 130        │
-│  文案 4 行     │  文案区：上 30%，左对齐或居中
-│  关键词放大    │  正文 40px，关键词 88px
+│  copy, 4 lines │  Copy zone: top 30%, left-aligned or centered
+│  keyword scaled│  Body 40px, keyword 88px
 │               │
-│    ┌────┐     │  主体区：中 40%，
-│    │主体│     │  主体宽度 ≤ 画面 45%
+│    ┌────┐     │  Subject zone: middle 40%,
+│    │ subj │    │  subject width ≤ 45% of frame
 │    └────┘     │
 │               │
-│               │  留白区：下 30%
-│   (durex)     │  Logo 距底 8%
+│               │  Negative space: bottom 30%
+│   (durex)     │  Logo 8% up from the bottom
 └──────────────┘
 ```
-- **最宽容的比例**，信息量最大，杜蕾斯 80% 海报是这个
-- 竖排书法/中国风只在这个比例下做
+- **The most forgiving ratio**, carries the most information; 80% of Durex posters are this
+- Vertical calligraphy and Chinese-classical styling are only done in this ratio
 
 ---
 
-## 1:1（小红书/视频号封面）
+## 1:1 (lifestyle-app posts / video-channel covers)
 
 ```
 ┌──────────────┐  1200 × 1200
 │              │
-│   大字 2 行   │  文案压缩到 2 行以内，字号反而要大
-│              │  正文 64px（比 3:4 更大！）
+│  big type,    │  Copy compressed to 2 lines or fewer,
+│  2 lines      │  and the size goes UP: body 64px (bigger than 3:4!)
 │    ┌───┐     │
-│    │主体│    │  主体正中，占 30–40%
+│    │subj│    │  Subject dead center, 30–40%
 │    └───┘     │
 │   (durex)    │
 └──────────────┘
 ```
-- **文案必须砍到 2 行**。1:1 没有纵深，多一行就拥挤
-- 优先用**纯字体主体**或**单一道具**，别用复杂场景
-- 缩略图状态下要能读清 → 关键词字号要比 3:4 大 50%
+- **The copy must be cut to 2 lines.** 1:1 has no depth; one extra line crowds it
+- Prefer a **type-only subject** or a **single prop**; avoid complex scenes
+- It has to be readable as a thumbnail → keywords 50% larger than in 3:4
 
 ---
 
-## 4:3（横版，PPT/B站）
+## 4:3 (landscape — slides / video sites)
 
 ```
 ┌─────────────────────────┐  1600 × 1200
 │                         │
-│  文案 2 行        ┌────┐ │  左 45% 文案，右 55% 主体
-│  关键词放大        │主体│ │  文案左对齐，垂直居中
-│                   └────┘ │
+│  copy, 2 lines   ┌────┐ │  Left 45% copy, right 55% subject
+│  keyword scaled   │subj│ │  Copy left-aligned, vertically centered
+│                  └────┘ │
 │  (durex)                │
 └─────────────────────────┘
 ```
-- **左文右图**是横版默认骨架，反过来（右文左图）也可但要统一
-- 文案垂直居中，不要贴顶
+- **Copy left, image right** is the default landscape skeleton; the reverse works too but be consistent
+- Copy is vertically centered — don't pin it to the top
 
 ---
 
-## 9:16（抖音/开屏/竖版短视频封面）
+## 9:16 (short video / splash screens / vertical video covers)
 
 ```
 ┌────────┐  1080 × 1920
-│        │  ← 顶部 15% 安全区（避开状态栏）
-│ 短句1  │
-│ 短句2  │  文案区：上 30%，短句堆叠
-│ 短句3  │  每行 ≤ 10 字，字号 72px
+│        │  ← top 15% safe zone (clear of the status bar)
+│ line 1 │
+│ line 2 │  Copy zone: top 30%, stacked short lines
+│ line 3 │  ≤ 10 chars per line, 72px
 │        │
 │ ┌────┐ │
-│ │主体│ │  主体区：中 35%
+│ │subj│ │  Subject zone: middle 35%
 │ └────┘ │
 │        │
-│(durex) │  ← 底部 20% 安全区（避开 UI）
+│(durex) │  ← bottom 20% safe zone (clear of platform UI)
 └────────┘
 ```
-- **上下各留安全区**：顶部 15%、底部 20% 不放关键信息（会被平台 UI 遮挡）
-- 文案用**短句堆叠**，每行独立成意，像字幕
-- 这是唯一**允许文案居中对齐**的竖版比例
+- **Safe zones top and bottom**: keep key information out of the top 15% and bottom 20% (platform UI covers them)
+- Copy is **stacked short lines**, each line complete in itself, like subtitles
+- This is the only vertical ratio where **centered copy is allowed**
 
 ---
 
-## 16:9（官网 Hero / YouTube / PPT 封面）
+## 16:9 (website hero / YouTube / slide covers)
 
 ```
 ┌───────────────────────────────┐  1920 × 1080
 │                               │
-│   一句话文案              主体  │  文案单行，左侧 40%
-│   ────────                    │  字号 96px+
+│   one-line copy         subject │  Copy on one line, left 40%
+│   ────────                    │  96px+
 │                               │
 │  (durex)                      │
 └───────────────────────────────┘
 ```
-- **一行搞定**。16:9 是最不适合长文案的比例
-- 主体可以做成**大面积背景图 + 左侧压暗**，文案叠在暗部
-- 副标题最多一行，字号为主标的 40%
+- **One line, done.** 16:9 is the worst ratio for long copy
+- The subject can be a **full-bleed background darkened on the left**, with the copy over the dark area
+- A subhead is one line at most, at 40% of the headline size
 
 ---
 
-## 跨比例改写示例
+## Cross-Ratio Rewrite Example
 
-同一条文案「刷一百条 AI 资讯，不如跑通一个工作流」：
+The same line — "A hundred AI newsletters won't beat one workflow you shipped":
 
-| 比例 | 呈现 |
+| Ratio | Rendering |
 |---|---|
-| 3:4 | 刷一百条 AI 资讯，<br>不如跑通<br>**一个**工作流。<br><sub>（配图：满屏资讯卡片 vs 一个流程节点）</sub> |
-| 1:1 | 刷一百条，<br>不如**跑通一个**。 |
-| 4:3 | 刷一百条 AI 资讯　｜　不如跑通**一个**工作流 |
-| 9:16 | 刷一百条<br>AI 资讯<br>不如跑通**一个** |
-| 16:9 | 刷一百条 AI 资讯，不如跑通**一个**工作流。 |
+| 3:4 | A hundred AI newsletters<br>won't beat<br>**one** workflow you shipped.<br><sub>(image: a screen full of news cards vs a single process node)</sub> |
+| 1:1 | A hundred newsletters.<br>**One** shipped workflow. |
+| 4:3 | A hundred AI newsletters　｜　won't beat **one** you shipped |
+| 9:16 | A hundred<br>AI newsletters<br>won't beat **one** |
+| 16:9 | A hundred AI newsletters won't beat **one** workflow you shipped. |
 
-**规律：比例越方/越窄 → 文案越短；比例越宽 → 越要压成一行。**
+**The pattern: the squarer or narrower the ratio, the shorter the copy; the wider the ratio, the more it has to compress into one line.**

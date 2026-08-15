@@ -1,46 +1,46 @@
-# 可商用字体库
+# Commercially Usable Font Library
 
-本目录只收录**可免费商用**的字体，供本 skill 出图排版时直接引用。
-每套字体都提供原始 `.ttf`（部分含 `.otf`）与 `.woff2`（Web 用，体积约为 ttf 的 40%）。
+This directory holds **only fonts that are free for commercial use**, for direct reference when this skill typesets images.
+Each family ships the original `.ttf` (some also `.otf`) plus a `.woff2` (for web use, roughly 40% the size of the ttf).
 
-带 `[wght]` 的是**可变字体**，一个文件覆盖全字重，CSS 里用 `font-variation-settings` 或 `font-weight: 100~900` 调用。
+Families marked `[wght]` are **variable fonts** — one file covers the full weight range; call them from CSS with `font-variation-settings` or `font-weight: 100~900`.
 
-## 中文（`cjk/`）
+## Chinese (`cjk/`)
 
-| 字体 | 文件 | 授权 | 用途 |
+| Font | File | License | Use |
 |---|---|---|---|
-| 思源黑体 Noto Sans SC | `NotoSansSC[wght].ttf` | SIL OFL 1.1 | 正文、UI 首选，字重 100–900 |
-| 思源宋体 Noto Serif SC | `NotoSerifSC[wght].ttf` | SIL OFL 1.1 | 标题、中国风、静物海报 |
-| 得意黑 Smiley Sans | `SmileySans-Oblique.ttf/.otf` | SIL OFL 1.1 | 标题力量感，自带倾斜，**只用于大字标题** |
-| 霞鹜文楷 LXGW WenKai | `LXGWWenKai-Regular.ttf` | SIL OFL 1.1 | 手写感正文、长文案、书信体 |
-| 站酷快乐体 | `ZCOOLKuaiLe-Regular.ttf` | SIL OFL 1.1 | 活泼、儿童、促销 |
-| 站酷小薇 LOGO 体 | `ZCOOLXiaoWei-Regular.ttf` | SIL OFL 1.1 | 文艺细宋，LOGO/短标题 |
-| 站酷庆科黄油体 | `ZCOOLQingKeHuangYou-Regular.ttf` | SIL OFL 1.1 | 圆润厚重，食品/生活类标题 |
-| 马善政毛笔楷书 | `MaShanZheng-Regular.ttf` | SIL OFL 1.1 | 书法竖排、节气、宣纸暖白配色 |
+| Source Han Sans / Noto Sans SC | `NotoSansSC[wght].ttf` | SIL OFL 1.1 | First choice for body text and UI, weights 100–900 |
+| Source Han Serif / Noto Serif SC | `NotoSerifSC[wght].ttf` | SIL OFL 1.1 | Headlines, Chinese-classical styling, still-life posters |
+| Smiley Sans (得意黑) | `SmileySans-Oblique.ttf/.otf` | SIL OFL 1.1 | Headline punch, oblique by design, **large headlines only** |
+| LXGW WenKai (霞鹜文楷) | `LXGWWenKai-Regular.ttf` | SIL OFL 1.1 | Handwritten-feeling body text, long copy, letter format |
+| ZCOOL KuaiLe (站酷快乐体) | `ZCOOLKuaiLe-Regular.ttf` | SIL OFL 1.1 | Playful, children's, promotional |
+| ZCOOL XiaoWei (站酷小薇 LOGO 体) | `ZCOOLXiaoWei-Regular.ttf` | SIL OFL 1.1 | Literary light Song, for logos and short headlines |
+| ZCOOL QingKe HuangYou (站酷庆科黄油体) | `ZCOOLQingKeHuangYou-Regular.ttf` | SIL OFL 1.1 | Round and heavy, for food and lifestyle headlines |
+| Ma Shan Zheng brush kai (马善政毛笔楷书) | `MaShanZheng-Regular.ttf` | SIL OFL 1.1 | Vertical calligraphy, seasonal markers, the rice-paper warm white palette |
 
-## 西文 / 等宽（`latin/`）
+## Latin / monospace (`latin/`)
 
-| 字体 | 文件 | 授权 |
+| Font | File | License |
 |---|---|---|
 | Inter | `Inter[opsz,wght].ttf` | SIL OFL 1.1 |
 | JetBrains Mono | `JetBrainsMono[wght].ttf` | SIL OFL 1.1 |
 | Playfair Display | `PlayfairDisplay[wght].ttf` | SIL OFL 1.1 |
 | Space Mono | `SpaceMono-Regular/Bold.ttf` | SIL OFL 1.1 |
 
-## ⚠️ 未收录（需手动获取）
+## ⚠️ Not Included (fetch these yourself)
 
-以下字体**免费商用但不允许第三方转载分发**，所以不放进本仓库，需要时去官网自行下载：
+The following are **free for commercial use but do not permit third-party redistribution**, so they aren't vendored here. Download them from the official sites when needed:
 
-- **阿里巴巴普惠体** — https://fonts.alibabagroup.com/
+- **Alibaba PuHuiTi** — https://fonts.alibabagroup.com/
 - **OPPO Sans** — https://open.oppomobile.com/new/developmentDoc/info?id=13223
-- **HarmonyOS Sans** — 华为开发者联盟 HarmonyOS 设计资源
+- **HarmonyOS Sans** — Huawei Developer Alliance, HarmonyOS design resources
 
-## ❌ 绝对不要用的（需付费授权）
+## ❌ Never Use (paid license required)
 
-微软雅黑、苹方 PingFang、方正系列、汉仪系列、华康 / 文鼎系列。
-**「系统里装了」≠「能商用」**，中文字体侵权是国内营销物料最高频的法律风险。
+Microsoft YaHei, PingFang, the Founder (方正) families, the Hanyi (汉仪) families, the Hakka / Arphic families.
+**"It's installed on my system" ≠ "I can use it commercially."** Chinese font infringement is the single most common legal risk in Chinese marketing collateral.
 
-## Web 引用示例
+## Web Usage Example
 
 ```css
 @font-face {
@@ -51,7 +51,7 @@
 }
 ```
 
-## 授权文本
+## License Text
 
-全部字体均为 SIL Open Font License 1.1，完整条款见 https://openfontlicense.org/ 。
-OFL 允许商用、修改、再分发，唯一限制是**不得单独售卖字体本身**，且衍生字体需沿用 OFL。
+All fonts here are under the SIL Open Font License 1.1; full terms at https://openfontlicense.org/ .
+The OFL permits commercial use, modification, and redistribution; the one restriction is that **the fonts may not be sold on their own**, and derivative fonts must stay under the OFL.
