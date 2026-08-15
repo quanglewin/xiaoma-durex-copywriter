@@ -1,5 +1,7 @@
 # Category and Style Matching
 
+**English** · [Tiếng Việt](style-matching.vi.md)
+
 The six palettes in `visual-system.md` are organized by **mood/occasion** (festival, restraint, night, women-facing, Chinese classical, collab).
 But what the user actually arrives with is a **category** ("I sell sparkling water", "we're a SaaS company") and **a few adjectives** ("make it upmarket").
 

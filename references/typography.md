@@ -1,5 +1,7 @@
 # Type Selection
 
+**English** · [Tiếng Việt](typography.vi.md)
+
 Derived from 260 original posters. Three parts: **selection strategy → eight categories and their free alternatives → licensing red lines**.
 
 > ⚠️ **Read the licensing section first.** Chinese font infringement is the single most common legal risk in Chinese marketing collateral — Founder (方正) and Hanyi (汉仪) run large-scale enforcement, and the wrong font on one poster commonly draws claims in the thousands to tens of thousands of yuan. **"It's on my computer" does not mean "I can use it commercially."**

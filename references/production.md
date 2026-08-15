@@ -1,5 +1,7 @@
 # Image Pipeline: AI Makes the Layers, Code Does the Typesetting
 
+**English** · [Tiếng Việt](production.vi.md)
+
 ## Why Not Let AI Write the Text into the Image
 
 Tested conclusion: image models still render Chinese with **wrong characters, missing strokes, broken glyph forms, and garbled punctuation**, and do it unpredictably.

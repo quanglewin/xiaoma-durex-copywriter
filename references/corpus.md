@@ -1,5 +1,7 @@
 # Durex Copy Corpus
 
+**English** · [Tiếng Việt](corpus.vi.md)
+
 Collected from 34 public sources (Digitaling, Uisdc, Adquan, Meihua, Zhihu, Woshipm and others) plus 260 original poster images.
 Spanning 2011–2023, weighted toward the **golden era, 2011–2017 (Environment Interactive / Jin Pengyuan)**.
 

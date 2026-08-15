@@ -1,5 +1,7 @@
 # Transfer Contexts: Where Else This Method Works
 
+**English** · [Tiếng Việt](other-uses.vi.md)
+
 Durex's mechanism is **"double-layered meaning + negative space + persona consistency"**, and it has nothing to do with the category. Below, transfer methods and demonstrations by context.
 
 ---

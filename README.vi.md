@@ -83,7 +83,7 @@ pip install playwright     # dàn chữ bằng HTML (chọn một trong hai là 
 
 ## Tám công thức copy
 
-Phân tích đầy đủ, kèm ví dụ chuyển sang ngành không phải người lớn, nằm ở [`references/copy-formulas.md`](references/copy-formulas.md).
+Phân tích đầy đủ, kèm ví dụ chuyển sang ngành không phải người lớn, nằm ở [`references/copy-formulas.vi.md`](references/copy-formulas.vi.md).
 
 | # | Công thức | Bản gốc Durex | Chuyển sang một khoá học AI |
 |---|---|---|---|
@@ -102,7 +102,7 @@ Công thức 8 là đẳng cấp cao nhất: **không diễn trò đúng lúc ai
 
 ## Hệ thống thị giác
 
-Rút ngược ra từ **260 poster gốc**; quy chuẩn đầy đủ ở [`references/visual-system.md`](references/visual-system.md).
+Rút ngược ra từ **260 poster gốc**; quy chuẩn đầy đủ ở [`references/visual-system.vi.md`](references/visual-system.vi.md).
 
 ### Cây quyết định chủ thể
 
@@ -140,7 +140,7 @@ Tỷ lệ đo được: sản phẩm ~30% / **đạo cụ ~40%** / chữ ~30%. G
 - **Logo cố định ở giữa đáy và phải nằm trên nền trống**; hình chủ thể không được đè lên
 - Khoảng trắng (không gian âm) ≥ 50% khung hình. Chật = rẻ tiền
 
-### Font chữ → [`references/typography.md`](references/typography.md)
+### Font chữ → [`references/typography.vi.md`](references/typography.vi.md)
 
 **Hai điều quan trọng nhất.**
 
@@ -167,7 +167,7 @@ Nên chia thành các lớp.
 
 Cách này khiến chữ không bao giờ hỏng, việc tô màu từ khoá và hệ số phóng cỡ chữ vẫn kiểm soát chính xác, và **sửa copy chỉ là sửa một dòng code — ảnh tĩnh vật tái sử dụng chứ không phải sinh lại**.
 
-Chọn hướng dàn chữ thế nào: [`references/production.md`](references/production.md).
+Chọn hướng dàn chữ thế nào: [`references/production.vi.md`](references/production.vi.md).
 
 | Hướng | Khi nào dùng |
 |---|---|
@@ -225,7 +225,7 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 
 ## Còn dùng được ở đâu nữa
 
-Xem [`references/other-uses.md`](references/other-uses.md), gồm headline và ảnh bìa cho kênh cá nhân trên mạng xã hội, khoá học trả phí, SaaS B2B (bẻ lái nghĩa thuật ngữ ngành), trang chi tiết sản phẩm thương mại điện tử (cho đồ vật cạnh sản phẩm lên tiếng), tin tuyển dụng, thương hiệu cá nhân, và tài sản chuỗi theo lịch tiết khí.
+Xem [`references/other-uses.vi.md`](references/other-uses.vi.md), gồm headline và ảnh bìa cho kênh cá nhân trên mạng xã hội, khoá học trả phí, SaaS B2B (bẻ lái nghĩa thuật ngữ ngành), trang chi tiết sản phẩm thương mại điện tử (cho đồ vật cạnh sản phẩm lên tiếng), tin tuyển dụng, thương hiệu cá nhân, và tài sản chuỗi theo lịch tiết khí.
 
 File đó cũng liệt kê những bối cảnh **không chuyển giao được**, gồm ngành bị quản lý chặt, xử lý khủng hoảng truyền thông, đối tượng ít bắt sóng văn hoá mạng, và mua sắm B2B quy mô lớn.
 

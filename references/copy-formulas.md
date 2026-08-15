@@ -1,5 +1,7 @@
 # The Eight Copy Formulas (with templates)
 
+**English** · [Tiếng Việt](copy-formulas.vi.md)
+
 Each formula gives you: **mechanism → Durex original → template → non-adult demonstration**.
 
 > Originals are kept in Chinese with an English gloss. The pun is the artifact — translated away, there is nothing left to study. The demonstrations, by contrast, are written as copy that works in English.

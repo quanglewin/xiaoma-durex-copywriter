@@ -1,5 +1,7 @@
 # Finding the Connection: How the Copy Actually Gets Thought Up
 
+**English** · [Tiếng Việt](finding-the-hook.vi.md)
+
 `corpus.md` is 260 **results**. `copy-formulas.md` is 8 **after-the-fact classifications** — knowing "this one used a homophone pun" doesn't mean you can produce the next homophone pun.
 
 This file is the method that comes first: **given a trending topic or a product, where do you start looking for the thing that can carry two meanings?**

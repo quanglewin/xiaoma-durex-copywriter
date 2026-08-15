@@ -1,5 +1,7 @@
 # The Five Aspect Ratios
 
+**English** · [Tiếng Việt](ratios.vi.md)
+
 The same line in a different ratio is **a recomposition, not a resize**. Copy volume, subject position, and line breaks all change.
 
 ---

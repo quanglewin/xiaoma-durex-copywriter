@@ -1,5 +1,7 @@
 # Wording and Voice
 
+**English** · [Tiếng Việt](diction.vi.md)
+
 `copy-formulas.md` governs **structure**. This file governs **wording**.
 
 Right structure with AI-voice wording still reads fake on sight. **The formula makes the line work; the diction makes it sound like a person wrote it.**
