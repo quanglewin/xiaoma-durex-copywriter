@@ -1,128 +1,124 @@
-# 找连接点：文案是怎么被想出来的
+# Finding the Connection: How the Copy Actually Gets Thought Up
 
-`corpus.md` 是 260 条**结果**，`copy-formulas.md` 是 8 个**事后分类**——
-知道「这句用了谐音双关」，不等于能想出下一个谐音双关。
+`corpus.md` is 260 **results**. `copy-formulas.md` is 8 **after-the-fact classifications** — knowing "this one used a homophone pun" doesn't mean you can produce the next homophone pun.
 
-这一节讲的是事前方法：**拿到一个热点或一个产品，从哪儿下手找那个能双关的点。**
+This file is the method that comes first: **given a trending topic or a product, where do you start looking for the thing that can carry two meanings?**
 
-出文案前先过这一节，再去 `copy-formulas.md` 挑修辞。
-
----
-
-## 一、先判关联度：贴不贴
-
-> 热点不是说今天明星结婚我发几张明星的照片，然后祝天下有情人终成眷属，那是民政局干的事。
-> 我们应该想的是**这个东西跟自身品牌贴不贴**。
-> ——金鹏远（环时互动，杜蕾斯操盘手）
-
-**不贴就不做。** 硬蹭一个和产品接不上的热点，发出去只是噪音，还稀释品牌。
-
-怎么判断贴不贴？很具体：**能不能在下面五类钩子里对上至少一个**。
-五类都试过还是接不上 → 放弃这个热点，别憋。
+Run through this section before writing, then go to `copy-formulas.md` to pick the rhetorical device.
 
 ---
 
-## 二、五类钩子（逐个试，对上哪个用哪个）
+## 1. Judge the Fit First
 
-热点里能拿来用的东西只有五类。拿到热点后按顺序过一遍。
+> Newsjacking isn't posting a few celebrity photos because a celebrity got married today and wishing all lovers well — that's the marriage registry's job.
+> What we should be asking is **whether this thing fits our own brand at all**.
+> — Jin Pengyuan (Environment Interactive, the man who ran Durex)
 
-### 1. 专有名词 → 谐音改造
+**If it doesn't fit, don't do it.** Forcing a topic that doesn't connect to the product just adds noise and dilutes the brand.
 
-人名、品牌名、地名、片名里的字，替换进**现成的成语或俗语**。
+How do you judge fit? Very concretely: **can you match at least one of the five hook types below?**
+Tried all five and still nothing connects → drop this topic, don't strain.
 
-| 热点 | 钩子 | 文案 |
+---
+
+## 2. The Five Hook Types (try them in order; use whichever connects)
+
+There are only five kinds of usable material in a trending topic. Run through them in order.
+
+### 1. Proper nouns → homophone rework
+
+Characters from a person's name, brand name, place name, or film title, substituted into **an existing idiom or common saying**.
+
+| Topic | Hook | Copy |
 |---|---|---|
-| 范冰冰李晨公布恋情 | 人名「冰冰」「李」 | 冰冰有李（← 冰冰有礼） |
-| FIFA 金球奖梅西 | 人名「梅」 | 梅开五杜（← 梅开二度） |
-| 饿了么 × 百度外卖 | 品牌名 | 杜 du 饿了 |
-| 《一步之遥》 | 片名 | 一杜之遥 |
-| 文章出轨 | 「且行且珍惜」 | 有我，且行且安全 |
+| Fan Bingbing and Li Chen go public | the names 冰冰 and 李 | 冰冰有李 (← 冰冰有礼 "cool and courteous") |
+| Messi wins the Ballon d'Or | the name 梅 | 梅开五杜 (← 梅开二度 "scoring twice") |
+| Ele.me × Baidu Waimai | brand names | 杜 du 饿了 |
+| *Gone with the Bullets* (一步之遥) | film title | 一杜之遥 ("a Durex away") |
+| The Wen Zhang affair | 且行且珍惜 ("cherish it as you go") | 有我，且行且安全 ("with me, go safely as you go") |
 
-**宿主必须是全民熟词，只动 1–2 个字。** 自造一个没人听过的词组必废。
+**The host phrase must be universally known, and you may change only 1–2 characters.** A coinage nobody has heard is guaranteed to fail.
 
-### 2. 核心动作 → 找第二义
+### 2. Core action → find the second meaning
 
-热点里那个显眼的动词，在产品语境里是不是另一个意思。
+That one conspicuous verb in the topic — does it mean something else in the product's context?
 
-| 热点 | 钩子 | 文案 |
+| Topic | Hook | Copy |
 |---|---|---|
-| 世界无车日 | 上车 | 上车～ |
-| 北京申冬奥成功 | 滑 | 滑到家了 |
-| 微博上市 | 上 | 有杜杜，尽情上！ |
-| 骑士夺冠 | 骑 | 骑士，上位 |
+| World Car-Free Day | 上车 ("get in the car") | 上车～ ("get in") |
+| Beijing wins the Winter Olympics bid | 滑 ("ski / slide") | 滑到家了 ("slid all the way home") |
+| Weibo IPO | 上 ("to list / to mount") | 有杜杜，尽情上！ ("with Durex, go all in!") |
+| The Cavaliers win the title | 骑 ("to ride") | 骑士，上位 ("the Cavalier takes the top") |
 
-### 3. 关键属性 → 和产品属性对上（反向更狠）
+### 3. Key attribute → match it against a product attribute (inverting hits harder)
 
-热点主角的显著属性：快、大、久、湿、冷、硬、软、薄。拿去和产品属性比。
+The salient attribute of whoever is trending: fast, big, long-lasting, wet, cold, hard, soft, thin. Hold it up against the product's attributes.
 
-| 热点 | 热点属性 | 产品属性 | 文案 |
+| Topic | Topic's attribute | Product attribute | Copy |
 |---|---|---|---|
-| 刘翔摔倒 | **快** | 持久 | 最快的男人并不是最好的，坚持到底才是真正强大的男人 |
-| 光大银行乌龙 | 名字里的**大** | 尺寸 | 光大是不行的 |
-| 国际左撇子日 | 左 / 右 | — | Left is right. |
-| 世界水日 | 水 | 湿 | 我们也解决水的问题 |
+| Liu Xiang falls | **fast** | lasting | 最快的男人并不是最好的，坚持到底才是真正强大的男人 ("the fastest man isn't the best…") |
+| Everbright Bank glitch | **big**, in the name | size | 光大是不行的 ("Everbright alone won't do it") |
+| International Left-Handers Day | left / right | — | Left is right. |
+| World Water Day | water | wet | 我们也解决水的问题 ("we handle water problems too") |
 
-**反向对上往往比同向更有劲**——快 ↔ 持久，就是靠这个反差成立的。
+**Matching by inversion usually has more force than matching directly** — fast ↔ lasting works precisely on that contrast.
 
-### 4. 数字 → 数字梗
+### 4. Numbers → number gags
 
-日期、比分、纪录、编号、球衣号。
+Dates, scorelines, records, model numbers, shirt numbers.
 
-| 热点 | 数字 | 文案 |
+| Topic | Number | Copy |
 |---|---|---|
-| 科比退役（23 → 24 号） | 23/24 | 一日等于 24 小时 |
-| iPhone 7 发布会邀请函 | 7 | 先来 7 次 |
-| 年度报告 | 69 | 反复听了 69 次 |
+| Kobe retires (23 → 24) | 23/24 | 一日等于 24 小时 ("one day equals 24 hours") |
+| iPhone 7 launch invitation | 7 | 先来 7 次 ("let's do it 7 times first") |
+| Year-in-review | 69 | 反复听了 69 次 ("played it 69 times on repeat") |
 
-数字自己就是载体，**旁边别加「多达」「高达」「整整」**。
+The number is the vehicle by itself. **Don't prop it up with "as many as," "up to," or "a full."**
 
-### 5. 场景 → 把产品放进那个处境
+### 5. Scene → put the product into that situation
 
-热点带来的那个具体处境：下雨、堵车、熬夜、放假、加班。
+The specific situation the topic creates: rain, gridlock, all-nighters, holidays, overtime.
 
-| 热点 | 场景 | 文案 |
+| Topic | Scene | Copy |
 |---|---|---|
-| 北京暴雨 | 鞋要湿了 | 北京今日暴雨，幸亏包里还有两只杜蕾斯（配图：套在鞋上） |
-| 国庆堵车 | 堵在路上 | 堵在路上 不如堵在床上 |
-| 中元节 | 晚上别乱走 | 今晚早回家 |
+| Beijing rainstorm | your shoes are about to get soaked | 北京今日暴雨，幸亏包里还有两只杜蕾斯 ("heavy rain in Beijing today — lucky I had two Durex in my bag"), image: worn over the shoes |
+| National Day traffic | stuck in traffic | 堵在路上 不如堵在床上 ("better stuck in bed than stuck in traffic") |
+| Ghost Festival | don't wander at night | 今晚早回家 ("come home early tonight") |
 
-场景类最好上手，也最容易平庸——**必须让产品在画面里真的出现，并且真的起作用**。
-「幸亏包里还有两只」之所以封神，是因为产品套在鞋上，功能被重新定义了。
+The scene hook is the easiest to start with and the easiest to make mediocre — **the product must genuinely appear in the frame and genuinely do something**. "Lucky I had two in my bag" became legendary because the product was over the shoes; its function had been redefined.
 
 ---
 
-## 三、落点必须是「你」，不是产品
+## 3. The Landing Point Must Be "You," Not the Product
 
-> 主动传播的源动力一定是与「我」相关。 ——金鹏远
+> The fuel for voluntary sharing is always relevance to "me." — Jin Pengyuan
 
-双关成立只是及格线。要让人**主动转发**，文案得落在读者的处境或行为上，
-不是落在产品的参数上——读者转发的是「这说的就是我」，不是「这个产品不错」。
+A working pun is only the passing grade. To get **actively shared**, the line has to land on the reader's situation or behavior, not on the product's specs — what the reader shares is "this is literally me," not "this product seems good."
 
-| 落在产品上（弱） | 落在你身上（强） |
+| Lands on the product (weak) | Lands on you (strong) |
 |---|---|
-| 甜得没有后果（说的是 0 糖） | 喝之前不用做心理建设（说的是你那点犹豫） |
-| 今年不换新（说的是品牌主张） | 买它的时候没想到会穿这么久（说的是你的经历） |
-| 安全性能优异（说的是参数） | 今晚早回家（说的是你今晚干嘛） |
+| Sweet without the consequences (it's about zero sugar) | You don't need to psych yourself up first (it's about your hesitation) |
+| Not replacing it this year (it's about brand positioning) | I didn't expect to still be wearing it this long (it's about your experience) |
+| Outstanding safety performance (it's about specs) | Come home early tonight (it's about what you're doing tonight) |
 
-**自检：把文案念一遍，主语是产品还是读者？**
-
----
-
-## 四、速度：热点的窗口以分钟计
-
-- 范冰冰李晨公布恋情 → **9 分钟**出稿（冰冰有李）
-- 北京申冬奥成功 → **1 分钟**（滑到家了）
-
-热点是有保质期的，晚两小时就没人看了。
-
-**想不出来就放弃，不要憋。** 憋出来的硬蹭比不做更伤品牌——
-这也是为什么第一步就要判贴不贴：判得快，才腾得出时间给真正能做的那些。
+**Self-check: read the line aloud. Is the subject the product or the reader?**
 
 ---
 
-## 五、自检
+## 4. Speed: The Window on a Topic Is Measured in Minutes
 
-- [ ] 这个热点和产品，在五类钩子里对上了哪一类？**说得出来吗？**
-- [ ] 说不出来 → 放弃这个热点，不硬蹭
-- [ ] 文案的落点是读者的处境，还是产品的参数？
-- [ ] 产品在画面里出现了吗？读者从表层到里层需要跳几次？（超过一跳就重写，见 SKILL.md）
+- Fan Bingbing and Li Chen go public → copy out in **9 minutes** (冰冰有李)
+- Beijing wins the Winter Olympics bid → **1 minute** (滑到家了)
+
+Topics have a shelf life. Two hours late and nobody is looking.
+
+**If it doesn't come, let it go. Don't strain for it.** A forced connection hurts the brand more than silence — which is also why judging the fit is step one: judging fast is what frees up time for the ones you can actually do.
+
+---
+
+## 5. Self-check
+
+- [ ] Which of the five hook types connects this topic to the product? **Can you name it out loud?**
+- [ ] Can't name it → drop the topic, don't force it
+- [ ] Does the line land on the reader's situation, or on the product's specs?
+- [ ] Is the product in the frame? How many hops does the reader take from surface to inner layer? (More than one → rewrite; see SKILL.md)

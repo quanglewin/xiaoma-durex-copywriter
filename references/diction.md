@@ -1,155 +1,161 @@
-# 措辞与语感
+# Wording and Voice
 
-`copy-formulas.md` 管**结构**，这份管**用词**。
+`copy-formulas.md` governs **structure**. This file governs **wording**.
 
-结构对了、用词是 AI 腔，照样一眼假。**公式让文案成立，措辞让文案像人写的。**
+Right structure with AI-voice wording still reads fake on sight. **The formula makes the line work; the diction makes it sound like a person wrote it.**
 
-本文所有规律都是从 `corpus.md` 的 260+ 条真实原句反向统计出来的，不是凭感觉。
+Every pattern here was tabulated backwards from the 260+ real lines in `corpus.md`. None of it is by feel.
+
+> **On language**: the length rules were measured in Chinese characters. The English working equivalent is given alongside — roughly one Chinese character ≈ 0.6 English words, so 12 characters ≈ 7–8 words.
 
 ---
 
-## 一、句长：中位数 6 字
+## 1. Sentence Length: Median 6 Characters
 
-实测分布：
+Measured distribution:
 
-| 字数 | 原句 |
+| Characters | Original lines |
 |---|---|
-| 2–4 | 上车～　今晚！　开学日。　且可闹～　今日吉时　预备——　Oh!　Red now |
-| 5–8 | 我就蹭蹭　安全，第一　今晚早回家　你吃了吗？　光大是不行的　一杜之遥　昼伏夜入　别乱跑 |
-| 9–12 | 今晚，好戏上演……　真正的司机，重视每一次安全　堵在路上 不如堵在床上 |
-| 12+ | **少数**，且必为对仗或排比结构 |
+| 2–4 | 上车～ ("get in")　今晚！ ("tonight!")　开学日。 ("back to school.")　且可闹～ ("let's make a racket")　今日吉时 ("today's auspicious hour")　预备—— ("on your marks——")　Oh!　Red now |
+| 5–8 | 我就蹭蹭 ("just the tip")　安全，第一 ("safety, first")　今晚早回家 ("come home early tonight")　你吃了吗？ ("have you eaten?")　光大是不行的 ("Everbright alone won't do it")　一杜之遥 ("a Durex away")　昼伏夜入 ("lie low by day, enter by night")　别乱跑 ("don't wander off") |
+| 9–12 | 今晚，好戏上演…… ("tonight, the real show begins…")　真正的司机，重视每一次安全 ("a real driver takes every safety measure seriously")　堵在路上 不如堵在床上 ("better stuck in bed than in traffic") |
+| 12+ | **Rare**, and always parallel or serial in structure |
 
-**超过 12 字还不是对仗，基本就是写长了。** 砍到 8 字以内再看一眼，通常更好。
+**Past 12 characters (≈8 English words) without parallelism, you've simply written long.** Cut it to under 8 characters and look again — it's usually better.
 
-### ⚠️ 但中位数是统计结果，不是写作目标
+### ⚠️ But the median is a measurement, not a target
 
-杜蕾斯也有「北京今日暴雨，幸亏包里还有两只杜蕾斯」（17 字）、
-「最快的男人并不是最好的，坚持到底才是真正强大的男人」（25 字）——都是它最出名的作品。
+Durex also wrote 「北京今日暴雨，幸亏包里还有两只杜蕾斯」(17 characters) and 「最快的男人并不是最好的，坚持到底才是真正强大的男人」(25 characters) — two of its most famous lines.
 
-**短是「话说清楚之后自然收住」的结果，不是先定长度再往里塞。**
+**Short is what happens once the thing is said and the sentence stops on its own. It is not a length you decide first and then stuff words into.**
 
-为了短而砍掉隐喻，双关就砍成了谜语：读者跳不过去，这条一样废。
-顺序永远是——**先保证一跳可达，再看能不能更短**。
+Cutting the metaphor to hit a length turns the pun into a riddle: the reader can't make the jump, and the line is just as dead. The order is always **guarantee the one-hop jump first, then see whether it can get shorter**.
 
 ---
 
-## 二、标点是语气，不是语法
+## 2. Punctuation Is Tone, Not Grammar
 
-这是最容易被 AI 漏掉、也最容易一眼认出人味的地方。
+This is what AI most often drops, and the fastest tell that a human wrote it.
 
-| 标点 | 作用 | 原句 |
+| Mark | Function | Original lines |
 |---|---|---|
-| `～` | 轻佻、勾一下 | 上车～　且可闹～　十一，放开玩～　两个人 wow～ |
-| `。`（放在短语后） | 斩钉截铁，不容商量 | 开学日。　我们，卧室见。　Good Shot. |
-| `！` | 突然发力 | 今晚！　爱劳动，最光荣！　其实人类早就输给机器了！！ |
-| `——` | 吊着，把话咽回去 | 预备—— |
-| `？` | 明知故问 | 你吃了吗？　小满？小小的就能满足？　结束了吗？ |
-| `……` | 留给你自己想 | 今晚，好戏上演…… |
-| `?!` `:)` | 网感 | This is 7 ?!　拿去骗那些没戴杜蕾斯的吧 :) |
+| `～` | Flippant, a little tug | 上车～　且可闹～　十一，放开玩～　两个人 wow～ |
+| `。` after a fragment | Flat, final, no discussion | 开学日。　我们，卧室见。　Good Shot. |
+| `！` | Sudden force | 今晚！　爱劳动，最光荣！　其实人类早就输给机器了！！ |
+| `——` | Held, the sentence swallowed | 预备—— |
+| `？` | Asking what it already knows | 你吃了吗？　小满？小小的就能满足？　结束了吗？ |
+| `……` | Left for you to finish | 今晚，好戏上演…… |
+| `?!` `:)` | Internet register | This is 7 ?!　拿去骗那些没戴杜蕾斯的吧 :) |
 
-**逗号用来切节奏，不是用来连从句。**「安全，第一」的逗号是停顿，不是并列。
+**Commas cut rhythm; they don't join clauses.** The comma in 「安全，第一」("safety, first") is a beat, not a list.
 
----
-
-## 三、动词优先，形容词接近于零
-
-真实高频动词：**蹭、上、来、进、堵、挤、奔赴、撤出、通行、回家、乱跑、抱、点燃、放开**
-
-全库几乎不出现：极致、深度、全新、专业、优质、卓越、精心、匠心、赋能、打造、助力、开启、共赴
-
-> 「上车～」——一个动词就够了。
-> AI 版本会写成「让我们一起开启这段美好的旅程」。
-
-**看到自己写了形容词，先试试能不能换成动词。**
+In English the same instincts apply: a period after a fragment, an em dash that holds instead of explaining, no semicolons.
 
 ---
 
-## 四、往现成成语里塞字，不发明新词
+## 3. Verbs First, Adjectives Near Zero
 
-| 改造后 | 宿主 |
+High-frequency verbs in the real corpus: **蹭 (rub), 上 (get on/mount), 来 (come), 进 (enter), 堵 (block), 挤 (squeeze), 奔赴 (rush to), 撤出 (withdraw), 通行 (pass through), 回家 (go home), 乱跑 (wander), 抱 (hold), 点燃 (ignite), 放开 (let go)**
+
+Almost never appear anywhere in the corpus: ultimate, deep, all-new, professional, premium, outstanding, meticulous, artisanal, empower, craft, boost, unlock, embark.
+
+> 「上车～」("get in") — one verb is enough.
+> The AI version writes "let us embark together on this beautiful journey."
+
+**When you catch yourself writing an adjective, first try swapping it for a verb.**
+
+---
+
+## 4. Stuff Words into Existing Idioms; Don't Invent New Ones
+
+| Altered | Host phrase |
 |---|---|
-| 震震日上 | 蒸蒸日上 |
-| 万湿如意 | 万事如意 |
-| 梅开五杜 | 梅开二度 |
-| 且行且安全 | 且行且珍惜 |
-| 李所 ying 得 | 理所应得 |
-| 五「次」青年节 | 五四青年节 |
+| 震震日上 | 蒸蒸日上 ("rising steadily") |
+| 万湿如意 | 万事如意 ("may all things go as you wish") |
+| 梅开五杜 | 梅开二度 ("scoring twice") |
+| 且行且安全 | 且行且珍惜 ("cherish it as you go") |
+| 李所 ying 得 | 理所应得 ("only right and proper") |
+| 五「次」青年节 | 五四青年节 ("May Fourth Youth Day") |
 
-两条硬规矩：
+Two hard rules:
 
-1. **宿主必须是全民熟词**——读者要在听见新词的同一秒听见原词，听不见就不成立
-2. **只动 1–2 个字**——动多了就成了另一个词，跳跃感没了
+1. **The host phrase has to be universally known** — the reader must hear the original in the same instant they hear the new one. If they can't hear it, the line doesn't exist
+2. **Change only 1–2 characters** (in English: one or two syllables). Change more and it becomes a different phrase, and the jump is gone
 
-自造一个谁也没听过的词组，是 AI 最典型的失败模式。
+Inventing a coinage nobody has ever heard is the single most typical AI failure mode.
 
----
-
-## 五、人称：你为主，我用来拟人
-
-- **你**（最高频）：你负责横冲直撞　你吃了吗　别乱跑　希望你过得好
-- **我 / 我们**（拟人、贴脸）：我就蹭蹭　我们，卧室见。　我为你保驾护航
-- **物件自称**（场景移植专用）：洗衣机说「爱的激烈程度，比我甩干衣服时还要强烈」
-
-**几乎不用**：用户、大家、各位、朋友们、我们每一个人
-
-「大家」一出现，人味就没了——那是通知的口吻，不是跟你说话的口吻。
+English works the same way — "Prompt and circumstance", "Adapt or AI", "The road not prompted" all lean on a host phrase the reader already carries.
 
 ---
 
-## 六、从不解释自己 ⚠️
+## 5. Person: Mostly "You"; "I" Is for Personification
 
-全库 260+ 条，**零次**出现下列表达：
+- **You** (most frequent): 你负责横冲直撞 ("you charge ahead")　你吃了吗 ("have you eaten")　别乱跑 ("don't wander off")　希望你过得好 ("I hope you do well")
+- **I / we** (personification, close-up): 我就蹭蹭 ("just the tip")　我们，卧室见。 ("see you in the bedroom.")　我为你保驾护航 ("I'll ride escort for you")
+- **The object speaking as itself** (scene transplant only): the washing machine says "the intensity of that love beats anything I manage on spin cycle"
 
-> 这意味着　其实是　换句话说　背后的逻辑是　之所以…是因为　这就是…的力量　那一下就是…
+**Almost never used**: users, everyone, folks, friends, each and every one of us.
 
-「点破即死」不只管里层含义，**也管效果**。杜蕾斯从不告诉你它刚才有多妙。
-
-这是 AI 写文案最难戒的一条：模型天生想把话说完整、想让你确认它懂了。**忍住。写完那句就停。**
+The moment "everyone" appears the human is gone — that's the register of an announcement, not of talking to someone.
 
 ---
 
-## 七、英文：≤4 词，句号收尾
+## 6. Never Explain Yourself ⚠️
+
+Across all 260+ lines, these expressions appear **zero times**:
+
+> which means　what it really is　in other words　the logic behind it is　the reason … is because　that's the power of …　and that right there is …
+
+"Explain it and it dies" governs more than the inner meaning — **it governs the effect too.** Durex never tells you how clever it just was.
+
+This is the hardest habit for a model to break: it wants to complete the thought, wants you to confirm it understood. **Hold it. Write the line and stop.**
+
+---
+
+## 7. English Copy: ≤4 Words, Ending in a Period
 
 Good Shot.　Love And Peace.　Left is right.　Real Men, Real Madrid.　LIGHT OFF SHOW ON　Everybody OK!　Red now
 
-规律：**短、多用句号而非感叹号、首字母大写**。不写整句英语，不写从句。
+The pattern: **short, periods rather than exclamation marks, initial capitals**. No full sentences, no subordinate clauses.
+
+When the whole line is in English, this is the ceiling — not "under 12 characters."
 
 ---
 
-## 八、数字直接当词用，不加量词修饰
+## 8. Numbers Are Used as Words, with No Quantifiers Attached
 
 001 点　先来 7 次　一日等于 24 小时　A.M. 04：00　Happy 1G24 Day　反复听了 69 次　520 小时
 
-数字自己就是双关载体，**不要在旁边加「多达」「高达」「整整」**。
+The number is the pun's vehicle by itself. **Don't prop it up with "as many as," "up to," or "a full."**
 
 ---
 
-## 九、AI 味对照表
+## 9. The AI-Voice Comparison Table
 
-写完拿这张表扫一遍。左边是模型的默认输出，右边是原句。
+Run this over the finished draft. On the left is the model's default output; on the right, the original.
 
-| AI 会写成 | 原句 |
+| AI writes | The original |
 |---|---|
-| 让我们一起开启美好的旅程 | 上车～ |
-| 安全始终是我们的第一要务 | 安全，第一 |
-| 中秋佳节，愿您与家人阖家团圆 | 吃了吗？ |
-| 在这个特殊的日子里，我们想对你说 | 今晚！ |
-| 新学期已经开始，让我们共同努力 | 开学日。 |
-| 这是一款极致轻薄、贴合肌肤的产品 | 见之不显，隐薄于空 |
-| 愿你在忙碌之余，记得早点回家陪伴家人 | 今晚早回家 |
-| 通过深度洞察用户需求，为您赋能全新体验 | （全库无此类句子） |
+| Let us embark together on a beautiful journey | 上车～ ("get in") |
+| Safety has always been our top priority | 安全，第一 ("safety, first") |
+| Wishing you and your family a joyous Mid-Autumn reunion | 吃了吗？ ("eaten yet?") |
+| On this special day, we would like to say to you | 今晚！ ("tonight!") |
+| A new term has begun; let us work hard together | 开学日。 ("back to school.") |
+| An ultra-thin, skin-hugging product experience | 见之不显，隐薄于空 ("seen but not apparent, thin to the point of air") |
+| Amid the busyness, remember to head home and be with family | 今晚早回家 ("come home early tonight") |
+| Through deep insight into user needs, empowering you with an all-new experience | (no sentence of this kind exists anywhere in the corpus) |
 
-**共同病症**：把话说满、把情绪说明、把好处列全。
+**The shared symptom**: saying all of it, naming the emotion, listing every benefit.
 
-杜蕾斯的做法相反——**说一半，剩下一半让读者自己走完**。走完那一步的快感，才是他转发的理由。
+Durex does the opposite — **say half, and let the reader walk the other half.** Finishing that walk is the reason they share it.
 
 ---
 
-## 十、成稿自检（6 条）
+## 10. Final Draft Checklist (6 items)
 
-- [ ] 主文案是不是 12 字以内？超了是不是对仗结构？
-- [ ] 有没有一个标点在承担语气？（全是规规矩矩的句号 = 没语气）
-- [ ] 形容词能不能换成动词？
-- [ ] 有没有解释自己？（出现「其实」「这意味着」「就是…的力量」→ 删）
-- [ ] 人称是「你」还是「大家」？
-- [ ] 念一遍。像不像一个人在跟另一个人说话？不像就重写。
+- [ ] Is the headline within 12 Chinese characters (≈8 English words)? If over, is it parallel in structure?
+- [ ] Is any punctuation mark carrying tone? (All well-behaved periods = no tone)
+- [ ] Can the adjectives become verbs?
+- [ ] Does it explain itself? (If "actually", "which means", "that's the power of" appears → delete)
+- [ ] Is the person "you" or "everyone"?
+- [ ] Read it aloud. Does it sound like one person talking to another? If not, rewrite.

@@ -1,110 +1,110 @@
-# 迁移场景：这套方法还能用在哪
+# Transfer Contexts: Where Else This Method Works
 
-杜蕾斯的机制是**「双层语义 + 留白 + 人格一致性」**，与品类无关。下面按场景给出迁移方式和示范。
+Durex's mechanism is **"double-layered meaning + negative space + persona consistency"**, and it has nothing to do with the category. Below, transfer methods and demonstrations by context.
 
 ---
 
-## 1. 自媒体标题与封面 ★最高价值
+## 1. Social Media Headlines and Covers ★ highest value
 
-**为什么适配**：标题党的本质是制造信息缺口。双层语义是**高级版**——不靠夸张，靠读者自己完成推理。
+**Why it fits**: clickbait works by manufacturing an information gap. Double-layered meaning is **the upmarket version** — it doesn't rely on exaggeration, it relies on the reader completing the inference themselves.
 
-| 低级标题党 | 双层语义版 |
+| Cheap clickbait | Double-layered version |
 |---|---|
-| 震惊！AI 让 90% 的人失业 | 它不会取代你，它会取代「和你一样的人」 |
-| 10 个必备 AI 工具 | 我删掉了 9 个 AI 工具，只留了这一个 |
-| 如何用 AI 写作 | 我让 AI 写了 100 篇，然后学会了不用它 |
+| SHOCKING! AI puts 90% of people out of work | It won't replace you. It'll replace people like you. |
+| 10 must-have AI tools | I deleted 9 AI tools and kept one. |
+| How to write with AI | I had AI write 100 pieces, and then learned to write without it. |
 
-**做法**
-- 标题写表层（信息），封面图给里层（情绪/暗示）
-- 封面用**纯字体主体**或**单一道具**，不要堆元素
-- 固定视觉模板 = 栏目化（杜蕾斯 #杜撰二十四节气# 的逻辑）
+**Method**
+- The headline carries the surface layer (information); the cover image carries the inner layer (emotion/implication)
+- Use a **type-only subject** or a **single prop** on covers; don't pile up elements
+- A fixed visual template = a recurring column (the logic behind Durex's #杜撰二十四节气# seasonal series)
 
-**可直接套的栏目化模板**
-- 宜忌体：`宜 | 动手实操　忌 | 收藏吃灰`
-- 造句体：`【幻觉】释义：… ｜ 造句：…`
-- 撕历体：日期 + 图形阵列 + 一句对比
-
----
-
-## 2. 知识付费 / 课程推广
-
-**核心洞察**：课程卖的不是知识，是**认知差**。里层永远指向「你以为的 vs 实际的」。
-
-- 你以为你在用 AI，其实 AI 在用你
-- 会提问的人，不需要更好的模型
-- 别人在学工具，你该学的是不被工具替代的部分
-
-**忌**：不要写「保姆级」「小白也能懂」——那是功能描述，不是双层语义。
+**Column templates you can use directly**
+- Almanac format: `Auspicious | building it　Inauspicious | bookmarking it`
+- Dictionary format: `[Hallucination] Definition: … ｜ Example sentence: …`
+- Tear-off calendar format: date + graphic array + one comparative line
 
 ---
 
-## 3. B 端 / SaaS / 技术产品
+## 2. Paid Knowledge / Course Promotion
 
-**做法**：拿行业黑话做**词义劫持**（公式 3）。技术词的字面意义往往比本义更有画面。
+**The core insight**: a course doesn't sell knowledge, it sells **the gap in understanding**. The inner layer always points at "what you assumed vs what's actually the case."
 
-- 「幻觉」「上下文」「并发」「回滚」「熔断」「冷启动」「长尾」
-- 例：`回滚：我们让你有后悔的权利。`
-- 例：`冷启动：第一批用户是靠人找来的，不是算法。`
+- You think you're using AI. AI is using you.
+- People who ask well don't need a better model.
+- Everyone else is learning the tool. Learn the part the tool can't replace.
 
----
-
-## 4. 电商详情页 / 商品图
-
-**做法**：场景移植（公式 4）——让商品周围的物件开口，商品本身不说话。
-
-- 卖床垫 → 「闹钟说：我已经很久没被摔过了」
-- 卖降噪耳机 → 「地铁说：他好像已经不认识我了」
-
-比「XX 层记忆棉」有效得多。
+**Avoid**: "beginner-friendly", "even a total novice can follow along" — those are feature descriptions, not double-layered meaning.
 
 ---
 
-## 5. 招聘 JD / 雇主品牌 / 内部沟通
+## 3. B2B / SaaS / Technical Products
 
-**做法**：宜忌体 + 反向克制。
+**Method**: hijack the industry jargon (Formula 3). The literal meaning of a technical term is usually more vivid than its actual meaning.
+
+- "Hallucination", "context", "concurrency", "rollback", "circuit breaker", "cold start", "long tail"
+- e.g. `Rollback: we give you the right to regret it.`
+- e.g. `Cold start: the first users were found by people, not by an algorithm.`
+
+---
+
+## 4. E-commerce Product Pages / Product Imagery
+
+**Method**: scene transplant (Formula 4) — let the objects around the product speak while the product itself says nothing.
+
+- Selling mattresses → "The alarm clock says: it's been a long time since anyone threw me."
+- Selling noise-cancelling headphones → "The subway says: I don't think he recognizes me anymore."
+
+Far more effective than "N layers of memory foam."
+
+---
+
+## 5. Job Descriptions / Employer Brand / Internal Comms
+
+**Method**: the almanac format plus inverted restraint.
 
 ```
-宜 | 把问题说清楚
-忌 | 把方案说漂亮
+Auspicious | stating the problem clearly
+Inauspicious | making the solution sound good
 ```
 
-裁员/变动等敏感沟通 → **公式 8（反向克制）**，一句真话，不修辞。
+Sensitive communications like layoffs or reorganizations → **Formula 8 (inverted restraint)**. One true sentence, no rhetoric.
 
 ---
 
-## 6. 个人 IP / 人格化账号
+## 6. Personal Brand / Persona-Driven Accounts
 
-**这是杜蕾斯最被低估的一课**：它先定人格（「有点坏、懂生活有情趣的老司机式绅士」），**再产内容**。
+**This is Durex's most underrated lesson**: it fixed the persona first ("a slightly wicked gentleman who knows how to live — the experienced-driver type"), **and only then produced content**.
 
-- 人格必须**先写下来**（3–5 个形容词 + 一句自我描述），所有文案对齐它
-- 日均 8 条、连续 6 年 —— **持续性 > 单条爆款**
-- 定期用公式 8「反向克制」兑现人格厚度，全年不超过 5 次
-
----
-
-## 7. 节日/节气日历型内容
-
-任何品牌都能做「一年 24+ 条」的系列化资产：
-- 固定话题标签（#杜撰二十四节气#）
-- 固定视觉模板（宣纸 + 朱红 + 书法）
-- 每条只换一个双关词
-
-**成本极低，复利极高**——这是杜蕾斯最容易被复制、也最值得复制的一招。
+- The persona has to be **written down first** (3–5 adjectives + one sentence of self-description); all copy aligns to it
+- 8 posts a day for 6 straight years — **consistency > any single hit**
+- Cash in the persona's depth periodically with Formula 8 (inverted restraint), no more than 5 times a year
 
 ---
 
-## 8. 不适合迁移的场景
+## 7. Holiday / Seasonal Calendar Content
 
-- **医疗、金融、法律等强合规品类**：双关会带来歧义风险，监管不接受「读者自行理解」
-- **危机公关**：此时任何机巧都会被读成轻慢，只能用公式 8
-- **面向老年/低网感人群**：双层语义依赖共同的网络语境，跳不过去就是无效沟通
-- **B2B 大宗采购决策**：决策链长、理性主导，机巧文案影响不了采购委员会
+Any brand can build a "24+ pieces a year" serialized asset:
+- A fixed hashtag (#杜撰二十四节气#)
+- A fixed visual template (rice paper + vermilion + calligraphy)
+- Each entry swaps out exactly one pun
+
+**Extremely cheap, and it compounds** — the single most copyable, and most worth copying, thing Durex did.
 
 ---
 
-## 迁移时的通用检查
+## 8. Where This Doesn't Transfer
 
-1. 里层指向的是**产品价值**，还是只是个荤梗？（后者 → 重写）
-2. 目标读者**有没有共同语境**跳过去？（没有 → 换梗）
-3. 这条内容**符合我设定的人格**吗？（不符 → 丢掉，哪怕它很妙）
-4. 过 `SKILL.md` 的「有所为有所不为」五条边界
+- **Heavily regulated categories such as healthcare, finance, and law**: puns introduce ambiguity risk, and regulators don't accept "the reader works it out"
+- **Crisis communications**: any cleverness reads as contempt at that moment; only Formula 8 applies
+- **Older audiences / audiences with low internet-culture fluency**: double-layered meaning depends on a shared online context; if the jump doesn't happen, the communication failed
+- **Large B2B purchasing decisions**: long decision chains, rationality dominates, and clever copy doesn't move a procurement committee
+
+---
+
+## General Checks When Transferring
+
+1. Does the inner layer point at **product value**, or is it just a dirty joke? (The latter → rewrite)
+2. Does the target reader **share the context** needed to make the jump? (No → change the reference)
+3. Does this piece **fit the persona I defined**? (No → drop it, however clever it is)
+4. Run the five hard boundaries in `SKILL.md`'s "what to do and what never to do"

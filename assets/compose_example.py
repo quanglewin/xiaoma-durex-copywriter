@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""杜蕾斯式海报合成器：AI 出背景层，HTML/CSS 排版文字，无头浏览器截图。"""
+"""Durex-style poster compositor: AI makes the background layer, HTML/CSS sets the type,
+a headless browser screenshots the result."""
 import os, base64, pathlib
 from playwright.sync_api import sync_playwright
 
@@ -14,7 +15,7 @@ def plate(tag):
     b = (HERE / "plates" / f"{tag}.png").read_bytes()
     return "data:image/png;base64," + base64.b64encode(b).decode()
 
-# (tag, 宽, 高, 正文px, 强调px, 版式)
+# (tag, width, height, body px, highlight px, layout)
 SPECS = [
     ("3x4",  1200, 1600, 44,  92,  "vertical"),
     ("1x1",  1200, 1200, 74,  118, "square"),
@@ -35,7 +36,7 @@ body{
 .wrap{position:absolute;inset:0;display:flex}
 .copy{line-height:1.62;letter-spacing:.02em;font-weight:400}
 .hl{color:%(red)s;font-weight:600;letter-spacing:0}
-/* 主体：文本光标（道具主体，纯 CSS，像素精确） */
+/* Subject: a text caret (prop subject, pure CSS, pixel-exact) */
 .caret{
   width:%(cw)spx;height:%(ch)spx;background:%(red)s;border-radius:1px;
   box-shadow:0 0 %(cg)spx rgba(226,0,26,.45), 0 0 %(cg2)spx rgba(226,0,26,.18);
@@ -54,29 +55,29 @@ def build(tag, w, h, body, hl, layout):
                           cw=cw, ch=ch, cg=round(w*0.02), cg2=round(w*0.06),
                           sig=round(w*0.0115), sub=round(body*0.52))
 
-    if layout == "vertical":      # 3:4 主视觉：上文 / 中主体 / 下留白
+    if layout == "vertical":      # 3:4 key visual: copy on top / subject in the middle / space below
         css += f"""
         .wrap{{flex-direction:column;padding:{round(h*0.105)}px {round(w*0.115)}px}}
         .copy{{font-size:{body}px}} .hl{{font-size:{hl}px}}
         .mid{{flex:1;display:flex;align-items:center;justify-content:center;padding-bottom:{round(h*0.10)}px}}
         .sig{{bottom:{round(h*0.058)}px;left:0;right:0;text-align:center}}"""
         html = f"""<div class="wrap">
-          <div class="copy"><span class="hl">会提问</span>的人，<br>不需要更好的模型。</div>
+          <div class="copy"><span class="hl">Ask well</span> and you<br>don't need a better model.</div>
           <div class="mid"><div class="caret"></div></div>
         </div><div class="sig">AI COURSE</div>"""
 
-    elif layout == "square":      # 1:1 封面：大字为主体，文案砍到 2 行
+    elif layout == "square":      # 1:1 cover: big type is the subject, copy cut to 2 lines
         css += f"""
         .wrap{{flex-direction:column;align-items:center;justify-content:center;padding:0 {round(w*0.085)}px}}
         .copy{{font-size:{body}px;text-align:center;line-height:1.5}} .hl{{font-size:{hl}px}}
         .caret{{margin-top:{round(h*0.085)}px}}
         .sig{{bottom:{round(h*0.062)}px;left:0;right:0;text-align:center}}"""
         html = f"""<div class="wrap">
-          <div class="copy"><span class="hl">会提问</span>的人<br>不需要更好的模型</div>
+          <div class="copy"><span class="hl">Ask well</span><br>and the model is enough</div>
           <div class="caret"></div>
         </div><div class="sig">AI COURSE</div>"""
 
-    elif layout == "split":       # 4:3 横版：左文右图
+    elif layout == "split":       # 4:3 landscape: copy left, image right
         css += f"""
         .wrap{{align-items:center}}
         .L{{width:46%;padding-left:{round(w*0.085)}px}}
@@ -84,11 +85,11 @@ def build(tag, w, h, body, hl, layout):
         .copy{{font-size:{body}px}} .hl{{font-size:{hl}px}}
         .sig{{bottom:{round(h*0.072)}px;left:{round(w*0.085)}px}}"""
         html = f"""<div class="wrap">
-          <div class="L"><div class="copy"><span class="hl">会提问</span>的人，<br>不需要更好的模型。</div></div>
+          <div class="L"><div class="copy"><span class="hl">Ask well</span> and you<br>don't need a better model.</div></div>
           <div class="R"><div class="caret"></div></div>
         </div><div class="sig">AI COURSE</div>"""
 
-    elif layout == "stack":       # 9:16 竖屏：短句堆叠 + 上下安全区
+    elif layout == "stack":       # 9:16 vertical: stacked short lines + safe zones top and bottom
         css += f"""
         .wrap{{flex-direction:column;align-items:center;
                padding:{round(h*0.20)}px {round(w*0.09)}px {round(h*0.20)}px}}
@@ -96,11 +97,11 @@ def build(tag, w, h, body, hl, layout):
         .mid{{flex:1;display:flex;align-items:center;justify-content:center}}
         .sig{{bottom:{round(h*0.093)}px;left:0;right:0;text-align:center}}"""
         html = f"""<div class="wrap">
-          <div class="copy"><span class="hl">会提问</span>的人<br>不需要<br>更好的模型</div>
+          <div class="copy"><span class="hl">Ask well</span><br>and you don't need<br>a better model</div>
           <div class="mid"><div class="caret"></div></div>
         </div><div class="sig">AI COURSE</div>"""
 
-    else:                          # 16:9 Hero：单行标题 + 副标 + 右侧主体
+    else:                          # 16:9 hero: one-line headline + subhead + subject on the right
         css += f"""
         .wrap{{align-items:center}}
         .L{{width:62%;padding-left:{round(w*0.072)}px}}
@@ -110,8 +111,8 @@ def build(tag, w, h, body, hl, layout):
         .sig{{bottom:{round(h*0.082)}px;left:{round(w*0.072)}px}}"""
         html = f"""<div class="wrap">
           <div class="L">
-            <div class="copy"><span class="hl">会提问</span>的人，不需要更好的模型。</div>
-            <div class="sub">三小时，换回你未来三年的加班。</div>
+            <div class="copy"><span class="hl">Ask well</span> and you don't need a better model.</div>
+            <div class="sub">Three hours now. Three years of overtime back.</div>
           </div>
           <div class="R"><div class="caret"></div></div>
         </div><div class="sig">AI COURSE</div>"""

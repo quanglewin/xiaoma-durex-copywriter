@@ -1,82 +1,78 @@
-# 品类与风格匹配
+# Category and Style Matching
 
-`visual-system.md` 的六套配色是按**情绪/场合**分的（节庆、克制、夜、女性向、中国风、联名）。
-但用户来的时候给的是**品类**（"我卖气泡水""我们是做 SaaS 的"）和**几个形容词**（"要高级点"）。
+The six palettes in `visual-system.md` are organized by **mood/occasion** (festival, restraint, night, women-facing, Chinese classical, collab).
+But what the user actually arrives with is a **category** ("I sell sparkling water", "we're a SaaS company") and **a few adjectives** ("make it upmarket").
 
-中间缺一张映射表，模型就只能套默认模板——于是不管卖什么，出来的都是同一张左文右图。
+Without a mapping layer in between, the model can only fall back on the default template — and everything comes out as the same copy-left/image-right layout no matter what's being sold.
 
-**Step 1 写方案卡之前先过这一节。**
-
----
-
-## 一、先看有没有品牌色
-
-**给具体品牌做 → 一律先走「借势撞色」，挪用该品牌自己的视觉资产。**
-
-元气森林的白+气泡蓝、优衣库的红+白、蒂芙尼蓝、可口可乐红、美团黄、拼多多红。
-这比从六套配色里挑一套贴得多——读者对品牌色有肌肉记忆，颜色一出来就知道是谁。
-
-**没有品牌色可依**（新品牌、个人 IP、泛品类选题）→ 走下面的品类表。
+**Run through this section before writing the direction cards in Step 1.**
 
 ---
 
-## 二、品类 → 骨架 / 配色 / 主体
+## 1. First, Check Whether There Are Brand Colors
 
-⚠️ **下表的「主体」列是产品扛不住隐喻时的退路，不是默认值。先过主体判断树。**
+**Working for a specific brand → always start with color-jacking, borrowing that brand's own visual assets.**
 
-**有实体产品的品类**（饮料、食品、服饰、3C、美妆、汽车…），
-第一顺位永远是【产品主体】——**把产品拍进画面，让它自己充当第二层**。
-读者看文案 + 看产品，一跳就到，不用推理。杜蕾斯最出名的那批海报全是这么做的。
+Genki Forest's white + bubble blue, Uniqlo's red + white, Tiffany blue, Coca-Cola red, Meituan yellow, Pinduoduo red.
+This fits far better than picking one of the six palettes — readers have muscle memory for brand colors and know who it is the moment the color appears.
 
-只有当产品本身实在无法承载隐喻时（服务、课程、B 端软件、观点），
-才退到道具主体或纯字体主体。
+**No brand colors to work from** (a new brand, a personal brand, a general-interest topic) → use the category table below.
 
-**别因为怕做品牌 logo 就把产品拿掉**——用真实产品照片，不要自己捏一个假包装。
+---
 
-| 品类 | 骨架 | 配色 | 主体类型 | 字体倾向 |
+## 2. Category → Skeleton / Palette / Subject
+
+⚠️ **The "subject" column below is the fallback for when the product can't carry the metaphor — not the default. Run the subject decision tree first.**
+
+**For categories with a physical product** (drinks, food, apparel, consumer electronics, beauty, cars…), the first choice is always the **product subject** — **put the product in the frame and let it be the second layer itself**.
+The reader sees the copy, sees the product, lands in one hop, no reasoning required. The most famous Durex posters all work this way.
+
+Only when the product genuinely cannot carry the metaphor (services, courses, B2B software, points of view) do you fall back to a prop subject or a type-only subject.
+
+**Don't drop the product just because you're nervous about brand logos** — use a real product photograph; don't fabricate packaging.
+
+| Category | Skeleton | Palette | Subject type | Type leaning |
 |---|---|---|---|---|
-| 饮料 / 零食（年轻向） | 左文右图、上文下图 | 品牌色撞色，高明度 | **产品主体**（退路：道具） | 圆润无衬线 |
-| 服饰（基础款 / 日系） | 左文右图、上文下图 | 白 + 单点强调 | **产品主体**（退路：纯字体） | 极简黑体，字重拉开 |
-| 服饰（潮牌 / 联名） | 撕历体、仿界面 | 撞色 | 图形阵列 | 粗黑 / 涂鸦 |
-| 美妆护肤 | 左文右图 | 粉渐变、影棚黑 | 产品主体 | 细衬线 |
-| 白酒 / 茶 / 中式滋补 | 上文下图、竖排 | 宣纸中国风 | 纯字体（书法） | 宋体 / 楷书 |
-| 3C / 科技硬件 | 左文右图、仿界面 | 影棚黑、深夜蓝 | 产品主体 | 几何黑体 |
-| 金融 / 保险 / B 端 SaaS | 上文下图 | 深夜蓝 | 道具（抽象物件） | 思源黑 Medium |
-| 汽车 | 左文右图（大图压暗，文案叠暗部） | 影棚黑 | 产品主体 | 宽体黑 |
-| 母婴 / 家居 | 纯字体居中 | 暖白、浅木色 | 道具 | 圆体 |
-| 游戏 / 动漫 / 二次元 | 仿界面、撕历体 | 借势撞色 | 图形阵列 | 游戏 UI 字体 |
-| 知识付费 / 课程 | 上文下图、撕历体 | 深夜蓝、品牌红 | 道具 | 思源黑 |
-| 餐饮 / 生鲜 | 文字嵌主体 | 暖色、影棚黑单点光 | 产品主体 | 手写 / 粗黑 |
-| 医疗 / 公益 | 上文下图，大留白 | 深夜蓝、纯白 | 纯字体 | 思源宋 |
+| Drinks / snacks (youth-facing) | Copy left-image right, copy top-image bottom | Brand color-jacking, high brightness | **Product subject** (fallback: prop) | Rounded sans |
+| Apparel (basics / Japanese-minimal) | Copy left-image right, copy top-image bottom | White + a single accent | **Product subject** (fallback: type-only) | Minimal sans, wide weight contrast |
+| Apparel (streetwear / collab) | Tear-off calendar, UI mimicry | Color-jacking | Graphic array | Heavy sans / graffiti |
+| Beauty / skincare | Copy left-image right | Pink gradient, studio black | Product subject | Light serif |
+| Baijiu / tea / Chinese wellness | Copy top-image bottom, vertical setting | Rice-paper Chinese classical | Type-only (calligraphy) | Song / kai |
+| Consumer electronics / hardware | Copy left-image right, UI mimicry | Studio black, midnight blue | Product subject | Geometric sans |
+| Finance / insurance / B2B SaaS | Copy top-image bottom | Midnight blue | Prop (abstract object) | Source Han Sans Medium |
+| Automotive | Copy left-image right (large image darkened, copy over the dark area) | Studio black | Product subject | Wide sans |
+| Baby & maternity / home | Centered type-only | Warm white, pale wood | Prop | Rounded |
+| Games / anime | UI mimicry, tear-off calendar | Color-jacking | Graphic array | Game UI typefaces |
+| Paid knowledge / courses | Copy top-image bottom, tear-off calendar | Midnight blue, brand red | Prop | Source Han Sans |
+| Food service / fresh groceries | Type embedded in the subject | Warm tones, studio black with a single light | Product subject | Handwriting / heavy sans |
+| Healthcare / public interest | Copy top-image bottom, large negative space | Midnight blue, pure white | Type-only | Source Han Serif |
 
-**这张表给的是默认值，不是铁律。** 有更贴的想法就用更贴的——
-但**别在没想法的时候默认套左文右图**，那是偷懒不是选择。
+**This table gives defaults, not laws.** If you have a better-fitting idea, use it — **but don't default to copy-left/image-right just because you don't have an idea.** That's laziness, not a choice.
 
 ---
 
-## 三、用户提示词 → 往哪调
+## 3. The User's Adjectives → Which Way to Push
 
-用户随口给的形容词是强信号，别忽略。
+The adjectives a user tosses off are strong signals. Don't ignore them.
 
-| 用户说 | 怎么调 |
+| The user says | How to adjust |
 |---|---|
-| 高级 / 质感 / 高端 / 奢侈 | 影棚黑或深夜蓝；留白拉到 60%+；**字号反而收小**；去掉一切装饰 |
-| 活泼 / 年轻 / Z 世代 / 有梗 | 撞色；字号放大；标点带语气（`～` `！` `?!`） |
-| 中国风 / 国潮 / 节气 / 传统 | 宣纸 + 朱红 + 墨；竖排；纸纹肌理必须有 |
-| 简约 / 极简 / 性冷淡 | **纯字体居中**；白底单色；主体一律不放 |
-| 有冲击力 / 爆款 / 要出圈 | 大字即画面；关键词放大倍率拉到 1.75 上限 |
-| 温暖 / 治愈 / 走心 | 暖白 + 柔光静物；避免纯黑和高饱和 |
-| 专业 / 可信 / 严肃 | 深夜蓝；字距放宽；不用感叹号 |
+| Upmarket / premium / high-end / luxury | Studio black or midnight blue; negative space up to 60%+; **type size goes down, not up**; strip every ornament |
+| Playful / young / Gen Z / memey | Color-jacking; type size up; punctuation carrying tone (`～` `!` `?!`) |
+| Chinese classical / guochao / seasonal / traditional | Rice paper + vermilion + ink; vertical setting; paper texture is mandatory |
+| Simple / minimal / stark | **Centered type-only**; white ground, single color; no subject at all |
+| Punchy / viral / needs to break out | Big type is the image; push the keyword multiplier to the 1.75 ceiling |
+| Warm / comforting / heartfelt | Warm white + soft-lit still life; avoid pure black and high saturation |
+| Professional / credible / serious | Midnight blue; wider tracking; no exclamation marks |
 
-形容词之间冲突时（"高级又活泼"），**以品类为准，形容词做微调**——
-品类决定骨架，形容词决定配色明度和字号。
+When the adjectives conflict ("upmarket but playful"), **let the category decide and use the adjectives for fine-tuning** — the category sets the skeleton, the adjectives set the brightness of the palette and the type size.
 
 ---
 
-## 四、自检
+## 4. Self-check
 
-出方案卡前问自己三句：
+Ask yourself three things before writing the direction cards:
 
-- [ ] 这个品类的目标读者，平时看到的广告长什么样？我这张像不像那个世界的东西？
-- [ ] 如果把文案换成同品类另一个品牌，这张图还成立吗？**成立说明没做匹配**，只是套了模板
-- [ ] 用户给的形容词，在图上哪个具体决定里体现了？说不出来就是没听进去
+- [ ] What do the ads this category's readers normally see look like? Does mine look like it belongs to that world?
+- [ ] If I swapped the copy for another brand in the same category, would this image still work? **If yes, no matching happened** — I just applied a template
+- [ ] Which specific decision in the image reflects the adjectives the user gave me? If I can't name it, I wasn't listening
