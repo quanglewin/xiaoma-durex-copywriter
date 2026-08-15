@@ -2,9 +2,9 @@
 
 **Tiếng Việt** · [English](README.md)
 
-> Một Skill cho Claude Code / Claude.ai. Sản xuất copy và poster theo phương pháp **"nghĩa hai tầng + khoảng trắng"** của Durex thời hoàng kim trên mạng xã hội Trung Quốc (2011–2017, do agency Environment Interactive điều hành).
+> Một Skill cho Claude Code / Claude.ai. Sản xuất copy và poster theo phương pháp **"hai tầng nghĩa + khoảng trắng"** của Durex thời hoàng kim trên mạng xã hội Trung Quốc (2011–2017, do agency Environment Interactive điều hành).
 
-Thứ chuyển giao được từ phương pháp này là một cơ chế tạo ra khoảnh khắc "à, hiểu rồi". Chuyện tục chỉ là chất liệu bề mặt của ngành hàng Durex — đổi chất liệu sang khoá học AI, chuyện công sở, tài chính cá nhân hay gym, cơ chế vẫn chạy y nguyên.
+Thứ chuyển giao được từ phương pháp này là một cơ chế tạo ra khoảnh khắc "à, hiểu rồi". Chuyện tục chỉ là chất liệu bề mặt của ngành hàng Durex — đổi chất liệu sang khoá học AI, chuyện công sở, tài chính cá nhân hay gym, cơ chế vẫn chạy y nguyên. Đây cũng chính là bộ công thức đứng sau danh xưng mà dân marketing Việt vẫn gọi Durex: **"thánh bắt trend"**.
 
 <p align="center">
   <img src="examples/output/lays_onechip_3x4.jpg" width="300">
@@ -15,11 +15,11 @@ Thứ chuyển giao được từ phương pháp này là một cơ chế tạo 
 
 ---
 
-## Nghĩa hai tầng
+## Hai tầng nghĩa
 
 Một câu copy kiểu Durex đạt chuẩn phải **đứng vững đồng thời trong hai ngữ cảnh**.
 
-| Tầng | Nội dung |
+| Tầng nghĩa | Nội dung |
 |---|---|
 | **Tầng nổi** | Bản thân trend / ngày lễ / cảnh đời thường — đọc theo nghĩa đen vẫn thông |
 | **Tầng chìm** | Thương hiệu / sản phẩm / thứ bạn đang bán |
@@ -27,6 +27,8 @@ Một câu copy kiểu Durex đạt chuẩn phải **đứng vững đồng th�
 Người viết **chỉ viết tầng nổi**; tầng chìm để độc giả tự nhảy sang. Cú nhảy đó tạo ra khoái cảm, và khoái cảm đó chính là động lực lan truyền.
 
 Ngày Ngân hàng Everbright Trung Quốc bị lỗi giao dịch, Durex đăng 「光大是不行的」— "chỉ mỗi Everbright thì không ăn thua", trong đó tên ngân hàng đọc theo nghĩa đen là "chỉ to". Khi vận động viên rào Lưu Tường ngã, Durex đặt "nhanh" cạnh "bền" và trên bề mặt chỉ nói về vận động viên. Dịp lễ Vu Lan, hãng chỉ viết năm chữ: 「今晚早回家」— "tối nay về nhà sớm".
+
+Toàn bộ tinh thần gói trong bốn chữ: **gợi mà không phô**.
 
 **Nói toạc ra là chết — đó là luật sắt.** Chỉ cần câu copy giải thích tầng chìm, câu đó vứt đi.
 
@@ -45,11 +47,12 @@ Bước 0  Điền các ô thông tin — bằng giá trị mặc định, khôn
 Bước 1  Đưa 3–5 phương án để chọn — bắt buộc khác công thức, khác loại chủ thể, khác bảng màu
         Không được phép là ba biến thể của cùng một ý
 
-Bước 2  Câu hỏi duy nhất — gộp "chọn phương án" và "chọn tỉ lệ" vào một lượt,
+Bước 2  Câu hỏi duy nhất — gộp "chọn phương án" và "chọn tỷ lệ" vào một lượt,
         cả hai đều cho chọn nhiều
 
-Bước 3  Viết copy — mặc định copy ngắn (≤12 ký tự Hán, ~8 từ tiếng Anh);
-        copy dài chỉ khi được yêu cầu. Trên poster luôn chỉ đặt copy ngắn
+Bước 3  Viết copy — mặc định copy ngắn, tức headline trên poster
+        (≤12 ký tự Hán, ~8 từ tiếng Anh); copy dài (body copy) chỉ khi
+        được yêu cầu. Trên poster luôn chỉ đặt copy ngắn
 
 Bước 4  Ra hình — AI dựng lớp chủ thể tĩnh vật, code lo phần dàn chữ
 ```
@@ -84,12 +87,12 @@ Phân tích đầy đủ, kèm ví dụ chuyển sang ngành không phải ngư�
 
 | # | Công thức | Bản gốc Durex | Chuyển sang một khoá học AI |
 |---|---|---|---|
-| 1 | Thay chữ đồng âm | 「杜du饿了」(Baidu Waimai × Ele.me) | "Prompt and circumstance" |
+| 1 | Chơi chữ đồng âm | 「杜du饿了」(Baidu Waimai × Ele.me) | "Prompt and circumstance" |
 | 2 | Chơi chữ bằng số | 「先来 7 次」("làm 7 lần trước đã") | "3 giờ bây giờ đổi lại 3 năm tăng ca" |
-| 3 | Cướp nghĩa | 「深耕细作」("thâm canh tỉ mỉ") | "Deep learning, shallow usage" |
-| 4 | Cấy cảnh (cho đồ vật lên tiếng) | "Máy giặt nói rằng…" | "Cái cốc cà phê nói: hồi trước mỗi đêm anh ấy rót đầy tôi năm lần" |
-| 5 | Tách chữ ghép lại | 「『日』字有多长」("chữ 日 dài bao nhiêu") | 智 = 知 + 日 — **chỉ dùng được trong tiếng Trung** |
-| 6 | Đối xứng / lịch nên-kiêng | 「堵在路上 不如堵在床上」("kẹt trên giường còn hơn kẹt ngoài đường") | "Nên: bắt tay làm. Kiêng: lưu về để đó" |
+| 3 | Bẻ lái nghĩa | 「深耕细作」("thâm canh tỉ mỉ") | "Deep learning, shallow usage" |
+| 4 | Cho đồ vật lên tiếng | "Máy giặt nói rằng…" | "Cái cốc cà phê nói: hồi trước mỗi đêm anh ấy rót đầy tôi năm lần" |
+| 5 | Chiết tự | 「『日』字有多长」("chữ 日 dài bao nhiêu") | 智 = 知 + 日 — **chỉ dùng được trong tiếng Trung** |
+| 6 | Câu đối / nên–kiêng | 「堵在路上 不如堵在床上」("kẹt trên giường còn hơn kẹt ngoài đường") | "Nên: bắt tay làm. Kiêng: lưu về để đó" |
 | 7 | Thể thơ | Ba khổ tả cảnh + một câu hạ cánh | (chỉ dùng cho copy dài) |
 | 8 | **Kiềm chế ngược** | Lễ Vu Lan: 「今晚早回家」("tối nay về nhà sớm") | "Công cụ thay thế công cụ. Nó không thay thế người đã nghĩ thông" |
 
@@ -116,7 +119,7 @@ Có sản phẩm vật lý không?
     └─ 【chủ thể là chữ】chữ lớn chính là hình
 ```
 
-Tỉ lệ đo được: sản phẩm ~30% / **đạo cụ ~40%** / chữ ~30%. Gần như không dùng người thật; nếu có thì chỉ một bàn tay, đôi chân, hoặc bóng đổ.
+Tỷ lệ đo được: sản phẩm ~30% / **đạo cụ ~40%** / chữ ~30%. Gần như không dùng người thật; nếu có thì chỉ một bàn tay, đôi chân, hoặc bóng đổ.
 
 ### Sáu bảng màu
 
@@ -135,13 +138,13 @@ Tỉ lệ đo được: sản phẩm ~30% / **đạo cụ ~40%** / chữ ~30%. G
 - Cỡ chữ nội dung ≈ 3,5%–4,5% chiều rộng khung; **từ khoá phóng to 1,65–1,75 lần và tô màu thương hiệu**, phần còn lại đồng cỡ đồng màu
 - Dòng eyebrow bằng 0,6 lần cỡ nội dung, màu xám, có giãn chữ
 - **Logo cố định ở giữa đáy và phải nằm trên nền trống**; hình chủ thể không được đè lên
-- Tỉ lệ khoảng trắng ≥ 50%. Chật = rẻ tiền
+- Khoảng trắng (không gian âm) ≥ 50% khung hình. Chật = rẻ tiền
 
 ### Font chữ → [`references/typography.md`](references/typography.md)
 
 **Hai điều quan trọng nhất.**
 
-**1. Khi bắt trend, font chạy theo đối tượng bị bắt trend, không chạy theo thương hiệu.** Đây là phần hay bị bỏ sót nhất trong cách Durex dùng font. Nhái sự kiện iPhone thì dùng PingFang/SF; nhái poster phim thì dùng serif làm cũ kèm phụ đề viết tay; nhái CS:GO thì nhúng thẳng vào giao diện game; nhái tranh cổ động Cách mạng Văn hoá thì dùng Tống thể cũ xếp dọc. Độc giả có trí nhớ cơ bắp với những ngôn ngữ thị giác này — **font vừa hiện lên là tầng nổi đã xong**, câu copy chỉ còn lo tầng chìm.
+**1. Khi bắt trend (newsjacking), font chạy theo đối tượng bị bắt trend, không chạy theo thương hiệu.** Đây là phần hay bị bỏ sót nhất trong cách Durex dùng font. Nhái sự kiện iPhone thì dùng PingFang/SF; nhái poster phim thì dùng serif làm cũ kèm phụ đề viết tay; nhái CS:GO thì nhúng thẳng vào giao diện game; nhái tranh cổ động Cách mạng Văn hoá thì dùng Tống thể cũ xếp dọc. Độc giả có trí nhớ cơ bắp với những ngôn ngữ thị giác này — **font vừa hiện lên là tầng nổi đã xong**, câu copy chỉ còn lo tầng chìm.
 
 **2. ⚠️ Vi phạm bản quyền font tiếng Trung là rủi ro pháp lý phổ biến nhất trong ấn phẩm marketing tại Trung Quốc.** Microsoft YaHei, PingFang, các bộ Founder (方正) và Hanyi (汉仪) đều cần giấy phép thương mại. **"Máy tôi có sẵn" ≠ "được dùng thương mại".** Founder và Hanyi đều có đội chuyên đi kiện, và mức đòi bồi thường cho một tấm poster thường từ vài nghìn tới vài chục nghìn tệ.
 
@@ -159,7 +162,7 @@ Nên chia thành các lớp.
 ① Mô hình sinh ảnh  →  CHỈ tạo lớp tĩnh vật / chất nền;
                        prompt bắt buộc ghi NO text
 ② Code dàn chữ      →  gánh toàn bộ phần chữ (Canvas hoặc HTML/CSS)
-③ Xuất chính xác    →  năm tỉ lệ khung hình
+③ Xuất chính xác    →  năm tỷ lệ khung hình
 ```
 
 Cách này khiến chữ không bao giờ hỏng, việc tô màu từ khoá và hệ số phóng cỡ chữ vẫn kiểm soát chính xác, và **sửa copy chỉ là sửa một dòng code — ảnh tĩnh vật tái sử dụng chứ không phải sinh lại**.
@@ -181,7 +184,7 @@ Chọn hướng dàn chữ thế nào: [`references/production.md`](references/p
 | <img src="examples/output/lays_onechip_3x4.jpg" width="240"> | <img src="examples/output/lays_daynight_3x4.jpg" width="240"> |
 |---|---|
 | **「就吃一片。」** "Ăn đúng một miếng thôi."<br>Eyebrow: "lần thứ 4 nói câu này hôm nay" | **「白天数卡路里，晚上数薯片。」** "Ban ngày đếm calo, ban đêm đếm khoai tây chiên."<br>Eyebrow: A.M. 09:30 / P.M. 11:40 |
-| Cướp nghĩa · mảng chủ thể sản phẩm | Đối xứng · chia khung ngày/đêm |
+| Bẻ lái nghĩa · mảng chủ thể sản phẩm | Câu đối · chia khung ngày/đêm |
 
 Tấm bên trái, câu copy chỉ là điều bạn tự nói với mình, bên dưới là bốn gói xếp dần từ mờ tới rõ. Nói bốn lần, tức là đã bóc bốn gói. Con "4" ở dòng eyebrow khớp với bốn gói trong hình — độc giả nhảy một cú là tới, không phải suy luận.
 
@@ -205,7 +208,7 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 │   ├── copy-formulas.md          # 8 công thức chi tiết + mẫu chuyển ngành
 │   ├── visual-system.md          # Quy chuẩn hệ thống thị giác đầy đủ
 │   ├── typography.md             # Chọn font + lằn ranh bản quyền
-│   ├── ratios.md                 # Quy chuẩn bố cục cho năm tỉ lệ
+│   ├── ratios.md                 # Quy chuẩn bố cục cho năm tỷ lệ
 │   ├── production.md             # Pipeline ra hình và cách chọn công cụ
 │   └── other-uses.md             # Các bối cảnh chuyển giao
 ├── evals/                        # Test case và tiêu chí (hành vi của skill đã được kiểm thử)
@@ -222,7 +225,7 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 
 ## Còn dùng được ở đâu nữa
 
-Xem [`references/other-uses.md`](references/other-uses.md), gồm tiêu đề và ảnh bìa cho kênh tự truyền thông, khoá học trả phí, SaaS B2B (cướp nghĩa thuật ngữ ngành), trang chi tiết sản phẩm thương mại điện tử (cho đồ vật cạnh sản phẩm lên tiếng), tin tuyển dụng, thương hiệu cá nhân, và tài sản chuỗi theo lịch tiết khí.
+Xem [`references/other-uses.md`](references/other-uses.md), gồm headline và ảnh bìa cho kênh cá nhân trên mạng xã hội, khoá học trả phí, SaaS B2B (bẻ lái nghĩa thuật ngữ ngành), trang chi tiết sản phẩm thương mại điện tử (cho đồ vật cạnh sản phẩm lên tiếng), tin tuyển dụng, thương hiệu cá nhân, và tài sản chuỗi theo lịch tiết khí.
 
 File đó cũng liệt kê những bối cảnh **không chuyển giao được**, gồm ngành bị quản lý chặt, xử lý khủng hoảng truyền thông, đối tượng ít bắt sóng văn hoá mạng, và mua sắm B2B quy mô lớn.
 
