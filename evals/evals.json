@@ -54,6 +54,19 @@
         "Clearly distinguishes the two purposes (social post body vs poster artwork)",
         "The text used on the poster itself is the short copy, not the long copy"
       ]
+    },
+    {
+      "id": 4,
+      "name": "vietnamese-request-routing",
+      "prompt": "Sắp tới Tết rồi, viết giúp mình copy và poster cho app học tiếng Anh tên WordUp, nhắm tới sinh viên. Viết bằng tiếng Việt nhé.",
+      "expected_output": "Reads references/vietnam-market.md and works natively in Vietnamese: 3-5 directions whose copy is written in Vietnamese using Vietnamese-native wordplay, headlines within 6-10 words, no character-decomposition formula, Tết handled from the Vietnam trend calendar; confirms the aspect ratio (channel not given)",
+      "files": [],
+      "expectations": [
+        "The direction cards' copy is written in Vietnamese, using Vietnamese-native wordplay (not translated Chinese puns)",
+        "No direction uses Formula 5 (character decomposition); any replacement relies on nói lái / tone-mark play / Hán-Việt register / idiom hijacking",
+        "Poster headlines stay within 6-10 Vietnamese words",
+        "Read literally, every headline is still a clean, complete sentence — no spelled-out innuendo and no obscene nói lái on the page"
+      ]
     }
   ]
 }

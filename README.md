@@ -202,6 +202,7 @@ All assets are real. The packaging is the official packshot from the Lay's site,
 ├── SKILL.md                      # Main file: mechanism, workflow, formula reference, boundaries
 ├── references/
 │   ├── corpus.md                 # Corpus (34 sources / 260 posters)
+│   ├── vietnam-market.md         # Vietnam market pack: Vietnamese corpus, Formula-5 replacements, trend calendar, red lines, type
 │   ├── copy-formulas.md          # The 8 formulas in detail + transfer templates
 │   ├── visual-system.md          # Full visual system spec
 │   ├── typography.md             # Type selection + licensing red lines

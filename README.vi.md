@@ -218,13 +218,7 @@ Năm lằn ranh cứng ở cuối tài liệu vẫn giữ nguyên. Thị trườ
 
 ### Dùng phần này với skill như thế nào
 
-Khi làm việc bằng tiếng Việt, nói thẳng với skill:
-
-```
-Viết bằng tiếng Việt, dùng kho ngữ liệu và lịch trend Việt Nam trong README.vi.md.
-Công thức 5 (chiết tự) đổi sang nói lái / dấu thanh / Hán–Việt.
-Headline 6–10 từ, không phải ≤12 ký tự Hán.
-```
+**Không cần dặn gì thêm — kiến thức này đã được đóng gói vào skill.** Khi yêu cầu hoặc ngôn ngữ đầu ra là tiếng Việt, skill tự nạp [`references/vietnam-market.md`](references/vietnam-market.md): công thức 5 tự đổi sang nói lái / dấu thanh / Hán–Việt, headline theo ngưỡng 6–10 từ, lịch trend và lằn ranh dùng bản Việt Nam, font được kiểm tra dấu tiếng Việt trước khi chọn. Phần trong README này là bản đọc cho người; file reference kia là bản máy đọc khi chạy.
 
 Và giữ nguyên bài kiểm tra cũ: **đọc câu copy theo đúng nghĩa đen — nếu nó vẫn là một câu hoàn chỉnh và hợp lý về sự kiện đang nói tới, câu đó đạt. Nếu phải giải thích, câu đó hỏng.**
 
@@ -351,6 +345,7 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 ├── SKILL.md                      # File chính: cơ chế, quy trình, tra nhanh công thức, lằn ranh
 ├── references/
 │   ├── corpus.md                 # Kho ngữ liệu (34 nguồn / 260 poster)
+│   ├── vietnam-market.md         # Gói thị trường Việt Nam: ngữ liệu Việt, thay thế công thức 5, lịch trend, lằn ranh, font
 │   ├── copy-formulas.md          # 8 công thức chi tiết + mẫu chuyển ngành
 │   ├── visual-system.md          # Quy chuẩn hệ thống thị giác đầy đủ
 │   ├── typography.md             # Chọn font + lằn ranh bản quyền
