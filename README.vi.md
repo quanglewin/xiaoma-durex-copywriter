@@ -12,6 +12,8 @@ Thứ chuyển giao được từ phương pháp này là một cơ chế tạo 
 </p>
 
 > **Về ngôn ngữ.** Phương pháp này được xây dựng bằng tiếng Trung và kho ngữ liệu cũng là tiếng Trung. Các câu gốc được giữ nguyên tiếng Trung kèm phần diễn giải tiếng Việt, bởi vì **cái chơi chữ chính là hiện vật** — dịch nó đi thì chẳng còn gì để học. Phần giải thích viết bằng tiếng Việt, còn các ví dụ chuyển ngành được viết lại thành copy chạy được trong ngôn ngữ đích, chứ không dịch từng chữ.
+>
+> **Bản tiếng Việt có thêm một phần riêng.** [Durex tại thị trường Việt Nam](#durex-tại-thị-trường-việt-nam) — kho ngữ liệu tiếng Việt có thật, cách chuyển tám công thức sang tiếng Việt, lịch trend Việt Nam và các lằn ranh riêng của thị trường này. Phần đó không có trong bản tiếng Anh.
 
 ---
 
@@ -97,6 +99,150 @@ Phân tích đầy đủ, kèm ví dụ chuyển sang ngành không phải ngư�
 | 8 | **Kiềm chế ngược** | Lễ Vu Lan: 「今晚早回家」("tối nay về nhà sớm") | "Công cụ thay thế công cụ. Nó không thay thế người đã nghĩ thông" |
 
 Công thức 8 là đẳng cấp cao nhất: **không diễn trò đúng lúc ai cũng chờ bạn diễn trò**. Một thương hiệu bỡn cợt suốt năm bỗng nghiêm túc thì chiều sâu nhân cách được dựng lên lập tức. Không quá 5 lần mỗi năm.
+
+---
+
+## Durex tại thị trường Việt Nam
+
+Phương pháp ở trên được đúc từ ngữ liệu tiếng Trung. Nhưng **chính cơ chế đó đã chạy bằng tiếng Việt suốt hơn một thập kỷ** — và chạy tốt tới mức dân marketing Việt đặt cho Durex biệt danh "thánh bắt trend". Phần này là kho ngữ liệu và bối cảnh thị trường Việt Nam, để bạn đối chiếu khi làm việc bằng tiếng Việt.
+
+> **Về độ chính xác.** Các câu copy dưới đây được trích từ báo chí và các bài phân tích marketing tiếng Việt (nguồn liệt kê ở cuối phần). Bài đăng gốc trên fanpage có thể khác đôi chút về dấu câu hoặc cách xuống dòng. Dùng chúng để học **cơ chế**, đừng chép lại.
+
+---
+
+### Vì sao hai tầng nghĩa ở Việt Nam là điều kiện sống còn, không phải lựa chọn phong cách
+
+Ở Trung Quốc, hai tầng nghĩa là một chiến thuật hay. Ở Việt Nam, nó gần như là **cách duy nhất còn lại**.
+
+- **Kênh truyền thống gần như đóng.** Quảng cáo bao cao su rất khó lên TV, báo in hay OOH đại chúng. Toàn bộ sức nặng truyền thông dồn vào social — nơi thương hiệu tự làm chủ nội dung.
+- **"Thuần phong mỹ tục" là một điều khoản pháp lý thật**, không chỉ là chuyện gu thẩm mỹ. Nội dung tục lộ liễu không chỉ bị chê — nó bị gỡ và bị phạt. Nên **tầng chìm bắt buộc phải nằm trong đầu người đọc, không được nằm trên mặt giấy**.
+- **Rào cản là ngượng, không phải giá.** Tỷ lệ thâm nhập của bao cao su tại Việt Nam được ghi nhận ở mức rất thấp — quanh 19%. Vấn đề không nằm ở chỗ người ta không mua nổi, mà ở chỗ người ta ngại nhắc tới. Tiếng cười là cách rẻ nhất để tháo cái ngượng đó.
+
+Ba ràng buộc này ép ra đúng cái công thức trong SKILL.md: **viết tầng nổi thật sạch, để tầng chìm cho người đọc tự nhảy sang.**
+
+### Ai đứng sau
+
+| | |
+|---|---|
+| Chủ thương hiệu | Reckitt Benckiser (mua lại Durex năm 2010) — Durex là một trong các Powerbrand của tập đoàn |
+| Phía client tại VN | Đội Digital Marketing của Reckitt Benckiser Health Vietnam |
+| Agency | **Isobar Vietnam** (Dentsu Aegis Network) — ASIAD 2018, U23 Việt Nam · **MSL Group** — World Cup 2018 · **Vietcetera** — chuỗi nội dung "Cởi Mở" |
+| Vị thế thị trường | Dẫn đầu thị phần bao cao su tại Việt Nam, trên Sagami và OK, trong một thị trường có hơn 100 nhãn |
+
+Thông điệp toàn cầu *Love Sex Confidently* được nội địa hoá thành **hai trục**:
+
+- **"Yêu Vô Lo"** — trục bắt trend trên Facebook/TikTok, nhiệm vụ là *xoá cái ngượng*.
+- **"Cởi Mở"** — trục kiến thức: podcast/talkshow giáo dục giới tính làm cùng Vietcetera từ 2020, đã qua mùa 3, có bản Unitour đi các trường đại học, cùng dàn KOL Huỳnh Lập, Trang Chuối, Tạ Quốc Kỳ Nam, Thùy Minh. Phim ngắn **"Chạm Không Đỉnh"** vượt 1 triệu view.
+
+Ngoài ra còn có **(DUREX)RED** — chiến dịch phòng chống HIV/AIDS, phát 10.000 bao cao su ra cộng đồng; và **Durex Jeans**, đạt hơn 80% SOV cùng độ phủ trên 70% hệ thống bán lẻ chỉ sau 2 tháng ra mắt.
+
+> **Đọc kỹ cấu trúc này.** Trục đùa và trục nghiêm túc **tách bạch**, và trục nghiêm túc mới là trục dựng nhân cách thương hiệu. Đây chính là công thức 8 (kiềm chế ngược) được tổ chức thành cả một tuyến nội dung, chứ không chỉ là vài bài đăng lẻ trong năm.
+
+---
+
+### Kho ngữ liệu Việt Nam
+
+| Bối cảnh | Câu copy | Cơ chế |
+|---|---|---|
+| Vòng loại World Cup 2022, Việt Nam dẫn đầu bảng G; thủ môn Đặng Văn Lâm cản phạt đền của Thái Lan | **「Độc chiếm đỉnh G!」** kèm **「Cản phá như Lâm」** | Công thức 1 + 3. "Bảng G" đọc theo nghĩa đen là bảng đấu; "cản phá" là thuật ngữ bóng đá chuẩn. **Cả hai tầng nổi đều đúng 100% về mặt thể thao** — không một chữ nào phải giải thích |
+| World Cup 2018, Croatia lần đầu vào chung kết (poster ra trong 24 giờ) | **「Lần đầu vào sâu」** | Công thức 3 — bẻ lái nghĩa. "Vào sâu" là cách nói giải đấu hoàn toàn bình thường |
+| World Cup 2018, Anh thắng Panama 6–1 (poster ra sau 1 tiếng) | **「Cứu triệu bàn thua trông thấy, mỗi ngày」** | Bẻ lái thành ngữ "cứu một bàn thua trông thấy" + công thức 2 (đổi *một* thành *triệu*) |
+| World Cup 2018, nói về diễn tiến trận đấu | **「1 hiệp vào sâu + 1 hiệp nảy lửa」**, **「càng vào sâu, càng gay cấn」** | Công thức 2 + 3, đóng gói theo kiểu "combo" |
+| ASIAD 2018, Olympic Việt Nam thua trận tranh huy chương đồng | **「Đồng nào bằng đồng ngẩng cao đầu」** | Công thức 8 — **không đùa đúng lúc ai cũng chờ đùa**. Đây là bài an ủi, tầng chìm gần như bằng không. Cũng là bài dựng nhân cách thương hiệu mạnh nhất trong cả loạt |
+| Tết Nguyên đán, tục khai bút đầu năm | **「Nắp đậy vừa vặn, mực căng không tràn」** | Công thức 4 — cho đồ vật lên tiếng. Bút và mực gánh toàn bộ ẩn dụ; sản phẩm không xuất hiện một chữ |
+| Trend nhạc "Mang tiền về cho mẹ" (Đen Vâu, 1/2022 — gần 35 triệu view YouTube trong 2 tuần) | **「Mang bao sung sướng về cho em hưởng」** | Nhại cấu trúc lời hát + đồng âm **"bao"** (bao nhiêu / bao cao su). Bắt đúng cửa sổ trend đang nóng nhất |
+| Valentine | **「Valenthai」** đặt cạnh que thử thai hai vạch — thông điệp "vui 2 người, đừng hối hận 2 vạch" | Ghép từ (Valentine + thai) + công thức 2 (hai vạch). Tầng nổi là ngày lễ, tầng chìm là hậu quả |
+| Tàu Ever Given kẹt kênh đào Suez, 3/2021 | **「Hãy luôn bảo vệ hàng của bạn」** | Đồng âm/đa nghĩa **"hàng"** (hàng hoá / tiếng lóng). Sự kiện toàn cầu, câu chữ thuần Việt |
+| Hội nghị thượng đỉnh Mỹ – Triều tại Hà Nội, 2/2019 | Hình hai chiếc bao bọc nòng súng — **「Chặn đứng đạn lạc, vì hoà bình」** | Ẩn dụ thị giác gánh tầng chìm, câu chữ ở lại hoàn toàn trong tầng nổi chính luận. Bài liều nhất trong loạt, và cũng là bài cho thấy lằn ranh nằm ở đâu |
+
+**Đọc ngang bảng này sẽ thấy một điều.** Không một câu nào trong số đó nhắc tới sản phẩm. Không một câu nào cần chú thích. Và mọi câu đều **đứng vững nếu đọc theo nghĩa đen** — đó chính là bài kiểm tra ở đầu tài liệu này, được vượt qua bằng tiếng Việt.
+
+**Về tốc độ.** Croatia vào chung kết: 24 giờ. Anh thắng Panama: 1 tiếng. Đây là cùng một kỷ luật sản lượng như 8 bài/ngày ở giai đoạn hoàng kim — **cửa sổ trend ở Việt Nam thường chỉ tính bằng giờ**, và một câu hay đăng muộn hai ngày thì bằng không.
+
+---
+
+### Chuyển tám công thức sang tiếng Việt
+
+| # | Công thức | Trạng thái trong tiếng Việt | Ví dụ đã chạy thật |
+|---|---|---|---|
+| 1 | Chơi chữ đồng âm | ★ **Mạnh hơn cả tiếng Trung.** Tiếng Việt đơn âm tiết, kho từ đa nghĩa dày: *bao, hàng, vào, sâu, đỉnh, chất, căng, nước, mềm, cứng* | "Hãy luôn bảo vệ **hàng** của bạn" |
+| 2 | Chơi chữ bằng số | ★ Chạy y nguyên | "**2 vạch**", "**1 hiệp** vào sâu", "cứu **triệu** bàn thua" |
+| 3 | Bẻ lái nghĩa | ★★ **Lợi thế lớn nhất.** Kho thành ngữ – tục ngữ – ca dao Việt cực dày, ai cũng thuộc, nên bẻ một chữ là cả câu bật lên | "Cứu **triệu** bàn thua trông thấy" |
+| 4 | Cho đồ vật lên tiếng | ★ Chạy y nguyên | "Nắp đậy vừa vặn, mực căng không tràn" |
+| 5 | Chiết tự | ✗ **Không dùng được** — chữ Quốc ngữ không có bộ thủ. Xem ba cơ chế thay thế bên dưới | — |
+| 6 | Câu đối / nên–kiêng | ★★ **Vốn là format bản địa.** Câu đối Tết, lịch vạn niên, "tuổi hợp – tuổi khắc", "nên làm – kiêng làm" đều là thứ người Việt đọc từ bé | — |
+| 7 | Thể thơ | ★★ **Lục bát, vè, rap.** Việt Nam có lợi thế hơn: rap Việt là nguồn trend chảy liên tục, và lục bát thì ai cũng bắt được nhịp | Nhại lời "Mang tiền về cho mẹ" |
+| 8 | Kiềm chế ngược | ★ Chạy y nguyên, và **quan trọng hơn** ở Việt Nam vì lịch có nhiều ngày trang nghiêm | "Đồng nào bằng đồng ngẩng cao đầu" |
+
+#### Ba cơ chế bản địa thay cho chiết tự
+
+**a. Nói lái.** Đây là đặc sản chơi chữ của tiếng Việt, mạnh ngang chiết tự trong tiếng Trung. ⚠️ **Nhưng đây cũng là cái bẫy lớn nhất.** Nói lái rơi vào tục tĩu trắng trợn chỉ trong một bước, và lúc đó là vi phạm thẳng luật "gợi mà không phô" — chưa kể rủi ro bị gỡ bài. **Luật dùng: để người đọc tự lái, đừng lái sẵn cho họ.** Nếu câu copy đã lái xong nghĩa tục ra mặt chữ thì vứt đi.
+
+**b. Dấu thanh.** Thêm, bớt hoặc đổi dấu tạo ra nghĩa thứ hai. Viết không dấu vốn là văn hoá chat bản địa, nên trò này đọc rất tự nhiên chứ không có vẻ cố tình.
+
+**c. Hán–Việt đối lại thuần Việt.** Cùng một khái niệm có hai tầng đăng ký ngôn ngữ — một trang trọng, một đời thường. Đặt tầng trang trọng lên mặt chữ, người đọc tự dịch ngược về tầng đời thường. Đây là phiên bản tiếng Việt của **giọng kiềm chế**: chữ càng nghiêm, cú nhảy càng mạnh.
+
+#### Một chỉnh sửa về độ dài
+
+Luật gốc là **≤12 ký tự Hán**. Tiếng Việt loãng hơn: **6–10 từ, tương đương 25–40 ký tự** cho headline trên poster. Quá ngưỡng đó là chữ trên poster bắt đầu nhỏ lại, và luật "từ khoá phóng 1,65–1,75 lần" sẽ hỏng.
+
+---
+
+### Lịch trend Việt Nam
+
+Lịch của thị trường Trung Quốc trong `references/corpus.md` **không dùng lại được**. Đây là lịch cần thay vào.
+
+| Nhóm | Các mốc |
+|---|---|
+| **Tết và lịch âm** | Tết Nguyên đán (khai bút, lì xì, mùng 1 – mùng 3), Rằm tháng Giêng, Tết Hàn thực, Tết Đoan Ngọ, Vu Lan, Trung thu, ông Công ông Táo |
+| **Ngày lễ dương lịch** | Valentine 14/2, 8/3, 30/4 – 1/5, 1/6, 20/10, Halloween, 20/11, Black Friday, Giáng sinh, Tết dương lịch |
+| **Ngày trang nghiêm — vùng của công thức 8** | Giỗ tổ Hùng Vương (10/3 âm), 27/7, Vu Lan, quốc tang, mùa bão lũ miền Trung |
+| **Thể thao — nguồn trend mạnh nhất** | SEA Games, AFF Cup, vòng loại World Cup, U23 châu Á. **Bóng đá ở Việt Nam là sự kiện toàn dân**, cường độ vượt xa mọi hạng mục khác |
+| **Giải trí** | Rap Việt và các show âm nhạc truyền hình, MV của các nghệ sĩ lớn (Đen Vâu, Sơn Tùng), phim Việt chiếu Tết, phim bộ đang hot |
+| **Trend mạng** | Trend TikTok, meme, câu nói viral — vòng đời ngắn, thường **dưới 72 giờ** |
+
+---
+
+### Lằn ranh riêng của thị trường Việt
+
+Năm lằn ranh cứng ở cuối tài liệu vẫn giữ nguyên. Thị trường Việt Nam **cộng thêm** các điều sau.
+
+1. **"Thuần phong mỹ tục" là rủi ro pháp lý, không phải chuyện gu.** Nội dung tục lộ liễu bị gỡ và bị xử phạt. Đây là lý do kỹ thuật khiến tầng chìm phải nằm trong đầu người đọc.
+2. **Không đụng vào chính trị, lãnh đạo, tôn giáo, chủ quyền.** Không có phiên bản "khéo" nào của việc này cả.
+3. **Không đùa trong quốc tang, thiên tai, bão lũ, tai nạn.** Đây là lúc dùng công thức 8, hoặc im lặng.
+4. **Nói lái tục là biên giới đỏ**, kể cả khi câu chữ trên mặt giấy vẫn "sạch".
+5. **Với người thật — kể cả cầu thủ đang được cả nước tung hô — chỉ được ở tầng khen ngợi thành tích.** "Cản phá như Lâm" khen một pha cứu thua có thật; nó không ám chỉ tình dục vào cá nhân Đặng Văn Lâm. Khoảng cách giữa hai thứ đó rất hẹp, và vượt qua là mất thương hiệu.
+6. **Bóng đá: khen, đừng giễu.** Đội thắng thì mừng, đội thua thì an ủi. Giễu đối thủ nước ngoài là con đường ngắn nhất tới một cuộc khủng hoảng ngoại giao trên mạng.
+
+---
+
+### Dùng phần này với skill như thế nào
+
+Khi làm việc bằng tiếng Việt, nói thẳng với skill:
+
+```
+Viết bằng tiếng Việt, dùng kho ngữ liệu và lịch trend Việt Nam trong README.vi.md.
+Công thức 5 (chiết tự) đổi sang nói lái / dấu thanh / Hán–Việt.
+Headline 6–10 từ, không phải ≤12 ký tự Hán.
+```
+
+Và giữ nguyên bài kiểm tra cũ: **đọc câu copy theo đúng nghĩa đen — nếu nó vẫn là một câu hoàn chỉnh và hợp lý về sự kiện đang nói tới, câu đó đạt. Nếu phải giải thích, câu đó hỏng.**
+
+### Nguồn tham khảo cho phần này
+
+- [Những gương mặt đứng sau các bài viết "vạn người mê" trên Facebook của Durex Việt Nam](https://cafebiz.vn/nhung-guong-mat-dung-sau-cac-bai-viet-van-nguoi-me-tren-facebook-cua-durex-viet-nam-20191201094700625.chn) — CafeBiz
+- [Durex Việt Nam: "Quảng cáo của chúng tôi khiêu khích, tinh nghịch nhưng vẫn trong khuôn khổ văn hóa Việt"](https://advertisingvietnam.com/article/durex-viet-nam-quang-cao-cua-chung-toi-khieu-khich-tinh-nghich-nhung-van-trong-khuon-kho-van-hoa-viet-l17340) — Advertising Vietnam
+- [Nhìn lại 10 năm Durex mở khóa chuyện "yêu" tại Việt Nam](https://www.brandsvietnam.com/congdong/topic/336895-nhin-lai-10-nam-durex-mo-khoa-chuyen-yeu-tai-viet-nam) — Brands Vietnam
+- [#Casestudy: Durex và hành trình "cởi mở" nội dung 18+ tại Việt Nam](https://theinfluencer.vn/casestudy-durex-va-hanh-trinh-coi-mo-noi-dung-18-tai-viet-nam) — The Influencer
+- [Đến hẹn lại lên: Durex bắt trend "Mang tiền về cho mẹ"](https://cafef.vn/den-hen-lai-len-durex-bat-trend-mang-tien-ve-cho-me-choi-chu-chat-nhu-nuoc-cat-man-so-2-kho-ai-so-1-20220113142332687.chn) — CafeF
+- [Chiêu marketing "đu trend" đỉnh cao của Durex: "Hãy luôn bảo vệ hàng của bạn" sau sự cố tàu Ever Given](https://cafebiz.vn/chieu-marketing-du-trend-dinh-cao-cua-durex-tung-thong-diep-hay-luon-bao-ve-hang-cua-ban-sau-su-co-tau-ever-given-20210329142703176.chn) — CafeBiz
+- [Những chiêu quảng cáo "bắt trend" đỉnh cao của hãng sản xuất bao cao su Durex](https://24hmoney.vn/news/nhung-chieu-quang-cao-bat-trend-dinh-cao-cua-hang-san-xuat-bao-cao-su-durex-c2a884754.html) — 24hMoney
+- [Những mẫu quảng cáo Durex độc đáo mùa World Cup 2018](https://adsplus.vn/blog/nhung-mau-quang-cao-durex-doc-dao-trong-world-cup-2018) — Adsplus
+- [Bí kíp nhà vô địch World Social Media Cup — Durex](https://blog.tomorrowmarketers.org/bi-kip-nha-vo-dich-world-social-media-cup-durex/) — Tomorrow Marketers
+- [Tại sao content Durex luôn đột phá & thu hút số đông khách hàng](https://ngaocontent.com/content-durex/) — Ngáo Content
+- [Phân tích chiến lược Marketing của Durex tại Việt Nam](https://miccreative.vn/chien-luoc-marketing-cua-durex/) — MIC Creative
+- [Vietcetera và Durex khởi động "Cởi Mở Đi Unitour"](https://www.brandsvietnam.com/congdong/topic/324592-vietcetera-va-durex-khoi-dong-coi-mo-di-unitour) — Brands Vietnam
+- [Nóng bỏng thị trường bao cao su](https://m.nhipcaudautu.vn/kinh-doanh/nong-bong-thi-truong-bao-cao-su-3330115) — Nhịp cầu Đầu tư
 
 ---
 
@@ -247,6 +393,7 @@ Vụ "419 collab" năm 2017 của Durex phản tác dụng và sau đó hãng m�
 
 - Các poster trong `examples/durex-reference/` **thuộc bản quyền Durex / Reckitt Benckiser**. Ở đây chỉ có 24 mẫu, nén xuống dưới 800px, phục vụ **học tập và bình luận** về phương pháp sáng tạo quảng cáo, không dùng cho bất kỳ mục đích thương mại nào.
 - Kho ngữ liệu và các case được tổng hợp từ các nguồn công khai gồm Digitaling, Uisdc, Adquan, Meihua, Zhihu. **Bản quyền thuộc về tác giả gốc và nền tảng đăng tải gốc.**
+- Phần **Durex tại thị trường Việt Nam** được tổng hợp từ báo chí và các bài phân tích marketing công khai tiếng Việt (Brands Vietnam, Advertising Vietnam, CafeF/CafeBiz, The Influencer, Tomorrow Marketers và các nguồn khác, liệt kê đầy đủ ở cuối phần đó). Các câu copy được trích dẫn để **bình luận và phân tích phương pháp**; bản quyền thuộc về Durex / Reckitt Benckiser và các agency thực hiện.
 - Kho mã này **không có quan hệ liên kết hay hợp tác nào** với Durex / Reckitt Benckiser.
 - Nếu chủ sở hữu quyền thấy không ổn, vui lòng mở issue, nội dung sẽ được gỡ ngay.
 - Phần mã nguồn (`assets/`) phát hành theo giấy phép MIT.
