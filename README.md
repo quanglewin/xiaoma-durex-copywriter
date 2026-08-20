@@ -63,7 +63,7 @@ Step 4  Make the images — AI generates the still-life subject layer, code does
 ## Install
 
 ```bash
-git clone https://github.com/crawfordxx/xiaoma-durex-copywriter.git \
+git clone https://github.com/quanglewin/xiaoma-durex-copywriter.git \
   ~/.claude/skills/xiaoma-durex-copywriter
 ```
 
