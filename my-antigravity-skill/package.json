@@ -1,0 +1,19 @@
+{
+  "name": "my-antigravity-skill",
+  "version": "1.0.0",
+  "description": "A template for creating Antigravity skills that can be installed via npx",
+  "main": "install.js",
+  "bin": {
+    "my-antigravity-skill": "./install.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antigravity",
+    "skill",
+    "agent"
+  ],
+  "author": "",
+  "license": "ISC"
+}

@@ -7,8 +7,8 @@
 Durex ghi điểm không phải vì dám "mặn" — mặn chỉ là chất liệu của ngành hàng. Cái thật sự đáng học, và là cái skill này đóng gói lại, là **cơ chế tạo ra khoảnh khắc "à, hiểu rồi!"** khiến người xem tự tay bấm share. Đổi chất liệu sang khoá học AI, chuyện công sở, tài chính cá nhân hay phòng gym — cơ chế vẫn chạy mượt. Và đây cũng chính là bộ công thức đứng sau cái danh mà dân marketing Việt đặt cho Durex: **"thánh bắt trend"**.
 
 <p align="center">
-  <img src="examples/output/lays_onechip_3x4.jpg" width="300">
-  <img src="examples/output/lays_daynight_3x4.jpg" width="300">
+  <img src="examples/durex-vietnam-reference/vn-01.jpg" width="300">
+  <img src="examples/durex-vietnam-reference/vn-08.jpg" width="300">
 </p>
 
 > **Về ngôn ngữ.** Phương pháp gốc sinh ra bằng tiếng Trung, kho ngữ liệu cũng là tiếng Trung. Các câu gốc được giữ nguyên kèm phần diễn giải tiếng Việt — vì **cái chơi chữ chính là hiện vật**, dịch xong là mất sạch cái đáng học. Phần phân tích viết bằng tiếng Việt; còn ví dụ chuyển ngành thì viết lại hẳn thành copy chạy được trong ngôn ngữ đích, không dịch word-by-word.
@@ -142,20 +142,20 @@ Ngoài ra còn có **(DUREX)RED** — chiến dịch phòng chống HIV/AIDS, ph
 
 ### Kho ngữ liệu Việt Nam
 
-> Tư liệu hình đối chiếu cho từng mẫu dưới đây — kèm nguồn và hướng dẫn tải ảnh — nằm ở [`examples/durex-vietnam-reference/`](examples/durex-vietnam-reference/).
+> Tư liệu hình đối chiếu và nguồn cho từng mẫu dưới đây nằm ở [`examples/durex-vietnam-reference/`](examples/durex-vietnam-reference/).
 
-| Bối cảnh | Câu copy | Cơ chế |
-|---|---|---|
-| Vòng loại World Cup 2022, Việt Nam dẫn đầu bảng G; thủ môn Đặng Văn Lâm cản phạt đền của Thái Lan | **「Độc chiếm đỉnh G!」** kèm **「Cản phá như Lâm」** | Công thức 1 + 3. "Bảng G" đọc theo nghĩa đen là bảng đấu; "cản phá" là thuật ngữ bóng đá chuẩn. **Cả hai tầng nổi đều đúng 100% về mặt thể thao** — không một chữ nào phải giải thích |
-| World Cup 2018, Croatia lần đầu vào chung kết (poster ra trong 24 giờ) | **「Lần đầu vào sâu」** | Công thức 3 — bẻ lái nghĩa. "Vào sâu" là cách nói giải đấu hoàn toàn bình thường |
-| World Cup 2018, Anh thắng Panama 6–1 (poster ra sau 1 tiếng) | **「Cứu triệu bàn thua trông thấy, mỗi ngày」** | Bẻ lái thành ngữ "cứu một bàn thua trông thấy" + công thức 2 (đổi *một* thành *triệu*) |
-| World Cup 2018, nói về diễn tiến trận đấu | **「1 hiệp vào sâu + 1 hiệp nảy lửa」**, **「càng vào sâu, càng gay cấn」** | Công thức 2 + 3, đóng gói theo kiểu "combo" |
-| ASIAD 2018, Olympic Việt Nam thua trận tranh huy chương đồng | **「Đồng nào bằng đồng ngẩng cao đầu」** | Công thức 8 — **không đùa đúng lúc ai cũng chờ đùa**. Đây là bài an ủi, tầng chìm gần như bằng không. Cũng là bài dựng nhân cách thương hiệu mạnh nhất trong cả loạt |
-| Tết Nguyên đán, tục khai bút đầu năm | **「Nắp đậy vừa vặn, mực căng không tràn」** | Công thức 4 — cho đồ vật lên tiếng. Bút và mực gánh toàn bộ ẩn dụ; sản phẩm không xuất hiện một chữ |
-| Trend nhạc "Mang tiền về cho mẹ" (Đen Vâu, 1/2022 — gần 35 triệu view YouTube trong 2 tuần) | **「Mang bao sung sướng về cho em hưởng」** | Nhại cấu trúc lời hát + đồng âm **"bao"** (bao nhiêu / bao cao su). Bắt đúng cửa sổ trend đang nóng nhất |
-| Valentine | **「Valenthai」** đặt cạnh que thử thai hai vạch — thông điệp "vui 2 người, đừng hối hận 2 vạch" | Ghép từ (Valentine + thai) + công thức 2 (hai vạch). Tầng nổi là ngày lễ, tầng chìm là hậu quả |
-| Tàu Ever Given kẹt kênh đào Suez, 3/2021 | **「Hãy luôn bảo vệ hàng của bạn」** | Đồng âm/đa nghĩa **"hàng"** (hàng hoá / tiếng lóng). Sự kiện toàn cầu, câu chữ thuần Việt |
-| Hội nghị thượng đỉnh Mỹ – Triều tại Hà Nội, 2/2019 | Hình hai chiếc bao bọc nòng súng — **「Chặn đứng đạn lạc, vì hoà bình」** | Ẩn dụ thị giác gánh tầng chìm, câu chữ ở lại hoàn toàn trong tầng nổi chính luận. Bài liều nhất trong loạt, và cũng là bài cho thấy lằn ranh nằm ở đâu |
+| Hình ảnh | Bối cảnh | Câu copy | Cơ chế |
+|---|---|---|---|
+| <img src="examples/durex-vietnam-reference/vn-01.jpg" width="150"> | Vòng loại World Cup 2022, Việt Nam dẫn đầu bảng G; thủ môn Đặng Văn Lâm cản phạt đền của Thái Lan | **「Độc chiếm đỉnh G!」** kèm **「Cản phá như Lâm」** | Công thức 1 + 3. "Bảng G" đọc theo nghĩa đen là bảng đấu; "cản phá" là thuật ngữ bóng đá chuẩn. **Cả hai tầng nổi đều đúng 100% về mặt thể thao** — không một chữ nào phải giải thích |
+| <img src="examples/durex-vietnam-reference/vn-02.jpg" width="150"> | World Cup 2018, Croatia lần đầu vào chung kết (poster ra trong 24 giờ) | **「Lần đầu vào sâu」** | Công thức 3 — bẻ lái nghĩa. "Vào sâu" là cách nói giải đấu hoàn toàn bình thường |
+| <img src="examples/durex-vietnam-reference/vn-03.jpg" width="150"> | World Cup 2018, Anh thắng Panama 6–1 (poster ra sau 1 tiếng) | **「Cứu triệu bàn thua trông thấy, mỗi ngày」** | Bẻ lái thành ngữ "cứu một bàn thua trông thấy" + công thức 2 (đổi *một* thành *triệu*) |
+| <img src="examples/durex-vietnam-reference/vn-04.jpg" width="150"> | World Cup 2018, nói về diễn tiến trận đấu | **「1 hiệp vào sâu + 1 hiệp nảy lửa」**, **「càng vào sâu, càng gay cấn」** | Công thức 2 + 3, đóng gói theo kiểu "combo" |
+| <img src="examples/durex-vietnam-reference/vn-05.jpg" width="150"> | ASIAD 2018, Olympic Việt Nam thua trận tranh huy chương đồng | **「Đồng nào bằng đồng ngẩng cao đầu」** | Công thức 8 — **không đùa đúng lúc ai cũng chờ đùa**. Đây là bài an ủi, tầng chìm gần như bằng không. Cũng là bài dựng nhân cách thương hiệu mạnh nhất trong cả loạt |
+| <img src="examples/durex-vietnam-reference/vn-06.jpg" width="150"> | Tết Nguyên đán, tục khai bút đầu năm | **「Nắp đậy vừa vặn, mực căng không tràn」** | Công thức 4 — cho đồ vật lên tiếng. Bút và mực gánh toàn bộ ẩn dụ; sản phẩm không xuất hiện một chữ |
+| <img src="examples/durex-vietnam-reference/vn-07.jpg" width="150"> | Trend nhạc "Mang tiền về cho mẹ" (Đen Vâu, 1/2022 — gần 35 triệu view YouTube trong 2 tuần) | **「Mang bao sung sướng về cho em hưởng」** | Nhại cấu trúc lời hát + đồng âm **"bao"** (bao nhiêu / bao cao su). Bắt đúng cửa sổ trend đang nóng nhất |
+| <img src="examples/durex-vietnam-reference/vn-08.jpg" width="150"> | Valentine | **「Valenthai」** đặt cạnh que thử thai hai vạch — thông điệp "vui 2 người, đừng hối hận 2 vạch" | Ghép từ (Valentine + thai) + công thức 2 (hai vạch). Tầng nổi là ngày lễ, tầng chìm là hậu quả |
+| <img src="examples/durex-vietnam-reference/vn-09.jpg" width="150"> | Tàu Ever Given kẹt kênh đào Suez, 3/2021 | **「Hãy luôn bảo vệ hàng của bạn」** | Đồng âm/đa nghĩa **"hàng"** (hàng hoá / tiếng lóng). Sự kiện toàn cầu, câu chữ thuần Việt |
+| <img src="examples/durex-vietnam-reference/vn-10.jpg" width="150"> | Hội nghị thượng đỉnh Mỹ – Triều tại Hà Nội, 2/2019 | Hình hai chiếc bao bọc nòng súng — **「Chặn đứng đạn lạc, vì hoà bình」** | Ẩn dụ thị giác gánh tầng chìm, câu chữ ở lại hoàn toàn trong tầng nổi chính luận. Bài liều nhất trong loạt, và cũng là bài cho thấy lằn ranh nằm ở đâu |
 
 **Đọc ngang bảng này sẽ thấy một điều.** Không một câu nào trong số đó nhắc tới sản phẩm. Không một câu nào cần chú thích. Và mọi câu đều **đứng vững nếu đọc theo nghĩa đen** — đó chính là bài kiểm tra ở đầu tài liệu này, được vượt qua bằng tiếng Việt.
 
@@ -321,20 +321,18 @@ Chọn hướng dàn chữ thế nào: [`references/production.md`](references/p
 
 ## Ví dụ
 
-`examples/output/` là hai poster làm bằng skill này cho Lay's — cùng một thương hiệu, hai khung bố cục hoàn toàn khác nhau.
+Dưới đây là hai poster quảng cáo Durex tại Việt Nam — cùng một thương hiệu, hai cách tiếp cận hoàn toàn khác nhau.
 
-| <img src="examples/output/lays_onechip_3x4.jpg" width="240"> | <img src="examples/output/lays_daynight_3x4.jpg" width="240"> |
+| <img src="examples/durex-vietnam-reference/vn-06.jpg" width="240"> | <img src="examples/durex-vietnam-reference/vn-08.jpg" width="240"> |
 |---|---|
-| **「就吃一片。」** "Ăn đúng một miếng thôi."<br>Eyebrow: "lần thứ 4 nói câu này hôm nay" | **「白天数卡路里，晚上数薯片。」** "Ban ngày đếm calo, ban đêm đếm khoai tây chiên."<br>Eyebrow: A.M. 09:30 / P.M. 11:40 |
-| Bẻ lái nghĩa · mảng chủ thể sản phẩm | Câu đối · chia khung ngày/đêm |
+| **「Nắp đậy vừa vặn, mực căng không tràn」** | **「Valenthai」** |
+| Cho đồ vật lên tiếng · mảng chủ thể đạo cụ | Ghép từ · mảng chủ thể sản phẩm |
 
-Tấm bên trái, câu copy chỉ là điều bạn tự nói với mình, bên dưới là bốn gói xếp dần từ mờ tới rõ. Nói bốn lần, tức là đã bóc bốn gói. Con "4" ở dòng eyebrow khớp với bốn gói trong hình — độc giả nhảy một cú là tới, không phải suy luận.
+Tấm bên trái (Tết Nguyên đán), sản phẩm không hề xuất hiện. Bút và mực gánh toàn bộ ẩn dụ. Câu copy mang phong vị thư pháp, đọc theo nghĩa đen là tả việc khai bút đầu năm, nhưng tầng chìm lại nói về công dụng cốt lõi của sản phẩm. Người đọc tự nhảy từ lớp nghĩa này sang lớp nghĩa kia.
 
-Tấm bên phải dùng phép đối, khung hình cắt đôi ở giữa. Nửa trên trắng lạnh là ban ngày, nửa dưới vàng tối là ban đêm, một miếng khoai rơi xuyên qua đường ranh giới — công sức của nửa ban ngày biến mất đúng theo cách đó.
+Tấm bên phải (Valentine), ghép chữ "Valentine" và "Thai" kết hợp với que thử thai hai vạch. Tầng nổi là ngày lễ tình nhân, tầng chìm là hậu quả của việc "vui 2 người, hối hận 2 vạch" nếu không dùng sản phẩm. Độc giả chỉ cần nhìn là hiểu ngay, không cần giải thích dòng nào.
 
-Cả hai tuân thủ cùng một bộ luật cứng: copy ≤ 12 ký tự, từ khoá phóng 1,7 lần và tô đỏ thương hiệu, khoảng trắng ≥ 50%, logo cố định giữa đáy và không bị chủ thể đè. Bảng màu đều đi theo hướng **mượn màu đối tượng**, dùng chính vàng và đỏ của Lay's chứ không chọn từ sáu bảng màu. Khi làm cho một thương hiệu cụ thể, mượn màu thương hiệu luôn là lựa chọn đầu tiên.
-
-Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính thức từ trang của Lay's, logo lấy từ Wikimedia Commons, font dùng Source Han Sans (SIL OFL, được dùng thương mại). **Đừng tự bịa bao bì giả.**
+Cả hai tuân thủ cùng một bộ luật cứng: copy ngắn gọn, từ khoá có thể được nhấn mạnh, khoảng trắng (không gian âm) rộng rãi, logo cố định và không bị chủ thể đè lên. Khi bắt trend, font chữ và màu sắc có thể mượn từ chủ đề đang nói tới (ví dụ thư pháp ngày Tết).
 
 `examples/durex-reference/` chứa 24 mẫu poster gốc của Durex ở độ phân giải thấp, dùng để đối chiếu học quy luật dàn trang (xem phần bản quyền bên dưới).
 
