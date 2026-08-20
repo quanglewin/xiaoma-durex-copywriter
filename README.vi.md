@@ -66,7 +66,7 @@ Bước 4  Ra hình — AI dựng lớp chủ thể tĩnh vật, code lo phần 
 ## Cài đặt
 
 ```bash
-git clone https://github.com/crawfordxx/xiaoma-durex-copywriter.git \
+git clone https://github.com/quanglewin/xiaoma-durex-copywriter.git \
   ~/.claude/skills/xiaoma-durex-copywriter
 ```
 
