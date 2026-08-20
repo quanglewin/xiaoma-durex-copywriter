@@ -2,18 +2,18 @@
 
 **Tiếng Việt** · [English](README.md)
 
-> Một Skill cho Claude Code / Claude.ai. Sản xuất copy và poster theo phương pháp **"hai tầng nghĩa + khoảng trắng"** của Durex thời hoàng kim trên mạng xã hội Trung Quốc (2011–2017, do agency Environment Interactive điều hành).
+> Skill cho Claude Code / Claude.ai: viết copy và dựng poster theo công thức **"hai tầng nghĩa + khoảng trắng"** — bộ công thức làm nên thời hoàng kim của Durex trên mạng xã hội Trung Quốc (2011–2017, dưới bàn tay agency Environment Interactive).
 
-Thứ chuyển giao được từ phương pháp này là một cơ chế tạo ra khoảnh khắc "à, hiểu rồi". Chuyện tục chỉ là chất liệu bề mặt của ngành hàng Durex — đổi chất liệu sang khoá học AI, chuyện công sở, tài chính cá nhân hay gym, cơ chế vẫn chạy y nguyên. Đây cũng chính là bộ công thức đứng sau danh xưng mà dân marketing Việt vẫn gọi Durex: **"thánh bắt trend"**.
+Durex ghi điểm không phải vì dám "mặn" — mặn chỉ là chất liệu của ngành hàng. Cái thật sự đáng học, và là cái skill này đóng gói lại, là **cơ chế tạo ra khoảnh khắc "à, hiểu rồi!"** khiến người xem tự tay bấm share. Đổi chất liệu sang khoá học AI, chuyện công sở, tài chính cá nhân hay phòng gym — cơ chế vẫn chạy mượt. Và đây cũng chính là bộ công thức đứng sau cái danh mà dân marketing Việt đặt cho Durex: **"thánh bắt trend"**.
 
 <p align="center">
   <img src="examples/output/lays_onechip_3x4.jpg" width="300">
   <img src="examples/output/lays_daynight_3x4.jpg" width="300">
 </p>
 
-> **Về ngôn ngữ.** Phương pháp này được xây dựng bằng tiếng Trung và kho ngữ liệu cũng là tiếng Trung. Các câu gốc được giữ nguyên tiếng Trung kèm phần diễn giải tiếng Việt, bởi vì **cái chơi chữ chính là hiện vật** — dịch nó đi thì chẳng còn gì để học. Phần giải thích viết bằng tiếng Việt, còn các ví dụ chuyển ngành được viết lại thành copy chạy được trong ngôn ngữ đích, chứ không dịch từng chữ.
+> **Về ngôn ngữ.** Phương pháp gốc sinh ra bằng tiếng Trung, kho ngữ liệu cũng là tiếng Trung. Các câu gốc được giữ nguyên kèm phần diễn giải tiếng Việt — vì **cái chơi chữ chính là hiện vật**, dịch xong là mất sạch cái đáng học. Phần phân tích viết bằng tiếng Việt; còn ví dụ chuyển ngành thì viết lại hẳn thành copy chạy được trong ngôn ngữ đích, không dịch word-by-word.
 >
-> **Bản tiếng Việt có thêm một phần riêng.** [Durex tại thị trường Việt Nam](#durex-tại-thị-trường-việt-nam) — kho ngữ liệu tiếng Việt có thật, cách chuyển tám công thức sang tiếng Việt, lịch trend Việt Nam và các lằn ranh riêng của thị trường này. Phần đó không có trong bản tiếng Anh.
+> **Riêng bản tiếng Việt có thêm một phần độc quyền:** [Durex tại thị trường Việt Nam](#durex-tại-thị-trường-việt-nam) — kho câu copy tiếng Việt có thật ngoài đời, cách chuyển tám công thức sang tiếng Việt, lịch bắt trend thị trường Việt và những lằn ranh riêng phải nhớ. Bản tiếng Anh không có phần này.
 
 ---
 
