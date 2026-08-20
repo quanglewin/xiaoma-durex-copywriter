@@ -1,6 +1,6 @@
 ---
 name: xiaoma-durex-copywriter
-description: Produce copy and posters using the "double-layered meaning + negative space" method from Durex's golden era (2011-2017, run by Hylink/Environment Interactive). First read the user's intent and offer 3-5 directions to choose from, then deliver short copy (long copy optional) plus artwork in five aspect ratios. Works for newsjacking, holidays and seasonal markers, product benefits, course and paid-knowledge promotion, social media headlines and cover images, and brand persona operations. Use when the user says "write me some copy", "ride this trending topic", "holiday poster", "I need a slogan", "how do I promote my course", "cover image for my newsletter/social post", "write it like Durex", or "make it a double entendre".
+description: Produce copy and posters using the "double-layered meaning + negative space" method from Durex's golden era (2011-2017, run by Hylink/Environment Interactive). First read the user's intent and offer 3-5 directions to choose from, then deliver short copy (long copy optional) plus artwork in five aspect ratios. Works for newsjacking, holidays and seasonal markers, product benefits, course and paid-knowledge promotion, social media headlines and cover images, and brand persona operations. Use when the user says "write me some copy", "ride this trending topic", "holiday poster", "I need a slogan", "how do I promote my course", "cover image for my newsletter/social post", "write it like Durex", or "make it a double entendre". Works in Chinese, English, and Vietnamese — Vietnamese triggers include "viết copy", "bắt trend này", "poster Tết", "viết kiểu Durex".
 ---
 
 # Durex-Style Copy and Visuals
@@ -121,7 +121,7 @@ The hardest habit to break is **explaining yourself**: write the line and stop. 
 
 | | Short copy (default) | Long copy (only when asked) |
 |---|---|---|
-| Length | **≤ 12 Chinese characters** (~6–10 English words), ideally 6–8 characters | Unrestricted, but must have structure |
+| Length | **≤ 12 Chinese characters** (~6–10 English words; Vietnamese: 6–10 words, ~25–40 characters), ideally 6–8 characters | Unrestricted, but must have structure |
 | Purpose | **The headline on the poster** | Body text, product pages, read-aloud scripts, post captions |
 | Form | One line | Verse / scene transplant / short story / fill-in-the-blank |
 
@@ -181,12 +181,23 @@ Full breakdowns and transfer demonstrations are in `references/copy-formulas.md`
 | 2 | Number pun | 69 times / 419 / 001 / one day equals 24 hours |
 | 3 | Sense hijacking | Drag a straight-faced term into your context: 「深耕细作」("deep and careful cultivation"), 「心急口快」("hasty of heart, quick of mouth") |
 | 4 | Scene transplant | Let an unrelated object speak: "the washing machine says…", "the bedside lamp says…" |
-| 5 | Character decomposition | 「『日』字有多长，从白天到黑夜罢了」("How long is the character 日? Just from day to night") — **Chinese-specific** |
+| 5 | Character decomposition | 「『日』字有多长，从白天到黑夜罢了」("How long is the character 日? Just from day to night") — **Chinese-specific**; in Vietnamese swap for nói lái / tone-mark play / Hán–Việt register (`references/vietnam-market.md`) |
 | 6 | Parallelism / almanac do-and-don't | 「宜 颠三倒四」("auspicious: topsy-turvy"), 「堵在路上 不如堵在床上」("better stuck in bed than stuck in traffic") |
 | 7 | Verse | Three stanzas of scenery + one landing line (**long copy only**) |
 | 8 | Inverted restraint | Ghost Festival: 「今晚早回家」("come home early tonight"); World AIDS Day: 「雨，都是在没带伞的时候下的」("it always rains when you didn't bring an umbrella") |
 
 Formula 8 is the hardest and the highest-grade: **not driving when everyone expects you to drive.** No more than 5 times a year.
+
+---
+
+## Working in Vietnamese
+
+If the request or the output language is Vietnamese, **read `references/vietnam-market.md` before Step 1.** The mechanism is unchanged — Durex Vietnam ran it for over a decade under the nickname "thánh bắt trend" — but four things swap out:
+
+- **Formula 5 does not exist** in Vietnamese → replace with **nói lái / tone-mark play / Hán–Việt register** (the nói lái trap is documented there: let the reader do the flipping, never flip it for them)
+- **Short-copy budget: 6–10 words** (~25–40 characters), not ≤12 characters
+- **Corpus and trend calendar**: use the Vietnamese ones in that file, not `corpus.md`'s Chinese calendar
+- **Red lines**: Vietnam adds six of its own on top of the five below (public-decency law, politics, national mourning, obscene nói lái, real-person praise-only, football praise-never-mock)
 
 ---
 
@@ -263,6 +274,7 @@ See `references/other-uses.md`. Quick list: social media headlines and covers / 
 ## Reference Files
 
 - `references/corpus.md` — Corpus: newsjacking / holidays / seasonal markers / verse / product copy (34 sources, 260 original posters)
+- `references/vietnam-market.md` — **Vietnam market pack** (mandatory when working in Vietnamese): Vietnamese corpus, formula mapping incl. Formula 5 replacements, length budget, trend calendar, red lines, Vietnamese type & diacritics
 - `references/finding-the-hook.md` — **Finding the connection: five hook types + landing on "you" (mandatory first pass before writing)**
 - `references/copy-formulas.md` — Detailed breakdown and templates for all 8 formulas
 - `references/diction.md` — Wording and voice: sentence length / punctuation / person / AI-voice comparison table (**mandatory pass every time you write**)
