@@ -142,6 +142,8 @@ Ngoài ra còn có **(DUREX)RED** — chiến dịch phòng chống HIV/AIDS, ph
 
 ### Kho ngữ liệu Việt Nam
 
+> Tư liệu hình đối chiếu cho từng mẫu dưới đây — kèm nguồn và hướng dẫn tải ảnh — nằm ở [`examples/durex-vietnam-reference/`](examples/durex-vietnam-reference/).
+
 | Bối cảnh | Câu copy | Cơ chế |
 |---|---|---|
 | Vòng loại World Cup 2022, Việt Nam dẫn đầu bảng G; thủ môn Đặng Văn Lâm cản phạt đền của Thái Lan | **「Độc chiếm đỉnh G!」** kèm **「Cản phá như Lâm」** | Công thức 1 + 3. "Bảng G" đọc theo nghĩa đen là bảng đấu; "cản phá" là thuật ngữ bóng đá chuẩn. **Cả hai tầng nổi đều đúng 100% về mặt thể thao** — không một chữ nào phải giải thích |
@@ -336,6 +338,8 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 
 `examples/durex-reference/` chứa 24 mẫu poster gốc của Durex ở độ phân giải thấp, dùng để đối chiếu học quy luật dàn trang (xem phần bản quyền bên dưới).
 
+[`examples/durex-vietnam-reference/`](examples/durex-vietnam-reference/) là bộ tư liệu **thị trường Việt Nam**: catalog 12 mẫu quảng cáo Durex VN có thật (caption nguyên văn, bối cảnh, cơ chế, nguồn báo chí cho từng mẫu) kèm script `fetch_images.py` để tải và nén ảnh về đúng chuẩn ≤800px.
+
 ---
 
 ## Cấu trúc thư mục
@@ -359,7 +363,8 @@ Toàn bộ chất liệu đều là hàng thật. Bao bì là packshot chính th
 │   └── gen_hero_example.py       # Sinh ảnh tĩnh vật
 └── examples/
     ├── output/                   # Thành phẩm làm bằng skill này
-    └── durex-reference/          # Mẫu độ phân giải thấp của bản gốc
+    ├── durex-reference/          # Mẫu độ phân giải thấp của bản gốc (Trung Quốc)
+    └── durex-vietnam-reference/  # Tư liệu quảng cáo Durex VN: catalog 12 mẫu + script tải ảnh
 ```
 
 ---
@@ -388,6 +393,7 @@ Vụ "419 collab" năm 2017 của Durex phản tác dụng và sau đó hãng m�
 
 - Các poster trong `examples/durex-reference/` **thuộc bản quyền Durex / Reckitt Benckiser**. Ở đây chỉ có 24 mẫu, nén xuống dưới 800px, phục vụ **học tập và bình luận** về phương pháp sáng tạo quảng cáo, không dùng cho bất kỳ mục đích thương mại nào.
 - Kho ngữ liệu và các case được tổng hợp từ các nguồn công khai gồm Digitaling, Uisdc, Adquan, Meihua, Zhihu. **Bản quyền thuộc về tác giả gốc và nền tảng đăng tải gốc.**
+- Các hình trong `examples/durex-vietnam-reference/` (khi được bổ sung) **thuộc bản quyền Durex / Reckitt Benckiser** và các agency thực hiện — cùng quy chế với mục trên: độ phân giải thấp, chỉ phục vụ học tập và bình luận.
 - Phần **Durex tại thị trường Việt Nam** được tổng hợp từ báo chí và các bài phân tích marketing công khai tiếng Việt (Brands Vietnam, Advertising Vietnam, CafeF/CafeBiz, The Influencer, Tomorrow Marketers và các nguồn khác, liệt kê đầy đủ ở cuối phần đó). Các câu copy được trích dẫn để **bình luận và phân tích phương pháp**; bản quyền thuộc về Durex / Reckitt Benckiser và các agency thực hiện.
 - Kho mã này **không có quan hệ liên kết hay hợp tác nào** với Durex / Reckitt Benckiser.
 - Nếu chủ sở hữu quyền thấy không ổn, vui lòng mở issue, nội dung sẽ được gỡ ngay.

@@ -216,7 +216,8 @@ All assets are real. The packaging is the official packshot from the Lay's site,
 │   └── gen_hero_example.py       # Still-life generation
 └── examples/
     ├── output/                   # Finished work made with this skill
-    └── durex-reference/          # Low-res samples of the originals
+    ├── durex-reference/          # Low-res samples of the originals (China)
+    └── durex-vietnam-reference/  # Vietnam-market ad catalog (12 documented samples + image fetch script)
 ```
 
 ---

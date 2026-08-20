@@ -29,6 +29,8 @@ In China the double layer is a good tactic. In Vietnam it is close to **the only
 | Ever Given blocks the Suez Canal, Mar 2021 | 「Hãy luôn bảo vệ hàng của bạn」 ("Always protect your hàng/cargo") | Polysemous **"hàng"** (cargo / slang). Global event, fully local wordplay |
 | US–North Korea summit, Hanoi, Feb 2019 | Two condoms sheathing gun barrels — 「Chặn đứng đạn lạc, vì hoà bình」 ("Stop stray bullets, for peace") | The visual carries the inner layer; the copy stays entirely in the solemn surface register. The riskiest post in the set — and the one that marks where the line sits |
 
+Visual reference for each entry — sources and an image-fetch script — lives in `examples/durex-vietnam-reference/`.
+
 Read across the table: **no line names the product, no line needs a footnote, and every line survives a literal reading.** That is SKILL.md's core test, passing in Vietnamese.
 
 **Speed discipline**: England–Panama took 1 hour; Croatia's final took 24. Trend windows in Vietnam are measured in hours; a great line posted two days late is worth zero.

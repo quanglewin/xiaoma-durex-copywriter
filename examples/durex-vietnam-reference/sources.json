@@ -1,0 +1,23 @@
+{
+  "comment": "Article sources for Durex Vietnam ad images. fetch_images.py downloads every content image from each URL into _candidates/<id>/ for manual curation.",
+  "sources": [
+    {"id": "24hmoney-bat-trend", "items": ["vn-01", "vn-05", "vn-10"], "url": "https://24hmoney.vn/news/nhung-chieu-quang-cao-bat-trend-dinh-cao-cua-hang-san-xuat-bao-cao-su-durex-c2a884754.html"},
+    {"id": "ngaocontent", "items": ["vn-01", "vn-06"], "url": "https://ngaocontent.com/content-durex/"},
+    {"id": "adsplus-worldcup-2018", "items": ["vn-02", "vn-03", "vn-04"], "url": "https://adsplus.vn/blog/nhung-mau-quang-cao-durex-doc-dao-trong-world-cup-2018"},
+    {"id": "lostbird-worldcup", "items": ["vn-02", "vn-04"], "url": "https://lostbird.vn/giai-tri-cung-lac/giai-tri/durex-viet-nam-quang-cao-an-theo-mua-world-cup-thien-ha-nga-mu-bai-phuc-281269.html"},
+    {"id": "iptime-worldcup", "items": ["vn-02", "vn-04"], "url": "https://iptime.com.vn/durex-viet-nam-quang-cao-an-theo-mua-world-cup-thien-ha-nga-mu-bai-phuc/"},
+    {"id": "vietnammoi-worldcup", "items": ["vn-03"], "url": "https://vietnammoi.vn/bat-trend-world-cup-bao-cao-su-durex-tung-quang-cao-nghi-the-nao-cung-dung-117466.htm"},
+    {"id": "tomorrowmarketers-worldcup", "items": ["vn-02", "vn-03"], "url": "https://blog.tomorrowmarketers.org/bi-kip-nha-vo-dich-world-social-media-cup-durex/"},
+    {"id": "quantrimang-tong-hop", "items": ["vn-05", "vn-08"], "url": "https://quantrimang.com/cuoc-song/bat-cuoi-voi-nhung-hinh-anh-quang-cao-cuc-dinh-cua-bao-cao-su-durex-166399"},
+    {"id": "cafef-mang-tien-ve-cho-me", "items": ["vn-07"], "url": "https://cafef.vn/den-hen-lai-len-durex-bat-trend-mang-tien-ve-cho-me-choi-chu-chat-nhu-nuoc-cat-man-so-2-kho-ai-so-1-20220113142332687.chn"},
+    {"id": "vietgiaitri-mang-tien", "items": ["vn-07"], "url": "https://vietgiaitri.com/den-hen-lai-len-durex-bat-trend-mang-tien-ve-cho-me-choi-chu-chat-nhu-nuoc-cat-man-so-2-kho-ai-so-1-20220113i6266508/"},
+    {"id": "bloganchoi-thanh-content", "items": ["vn-08"], "url": "https://bloganchoi.com/durex-thanh-content-va-nhung-quang-cao-khong-bao-gio-lam-ban-that-vong/"},
+    {"id": "kootoro", "items": ["vn-08"], "url": "https://www.kootoro.com/news/quang-cao-durex"},
+    {"id": "cafebiz-ever-given", "items": ["vn-09"], "url": "https://cafebiz.vn/chieu-marketing-du-trend-dinh-cao-cua-durex-tung-thong-diep-hay-luon-bao-ve-hang-cua-ban-sau-su-co-tau-ever-given-20210329142703176.chn"},
+    {"id": "vietnambiz-ever-given-origin", "items": ["vn-09"], "url": "https://vietnambiz.vn/nguon-goc-buc-hinh-durex-bat-trend-tau-cho-hang-mac-ket-tai-kenh-suez-20210329173202718.htm"},
+    {"id": "2dep-thoi-su", "items": ["vn-10"], "url": "https://2dep.vn/durex-va-pha-bat-trend-quang-cao-theo-dong-thoi-su-cuc-dinh-cao-01107575.html"},
+    {"id": "cafebiz-doi-ngu-content", "items": ["vn-11"], "url": "https://cafebiz.vn/nhung-guong-mat-dung-sau-cac-bai-viet-van-nguoi-me-tren-facebook-cua-durex-viet-nam-20191201094700625.chn"},
+    {"id": "afamily-doi-ngu-content", "items": ["vn-11"], "url": "https://afamily.vn/nhung-guong-mat-dung-sau-cac-bai-viet-van-nguoi-me-tren-facebook-cua-durex-viet-nam-20191201124641042.chn"},
+    {"id": "vietads-halloween", "items": ["vn-12"], "url": "https://vietads.net.vn/goc-nhin-marketing/cac-man-bat-trend-dinh-cao-cua-cac-thuong-hieu-dinh-dam-durex-grab-hay-the-coffee-house-358.html"}
+  ]
+}
