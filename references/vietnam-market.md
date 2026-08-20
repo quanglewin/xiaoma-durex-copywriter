@@ -2,7 +2,7 @@
 
 **Read this file whenever the request or the output language is Vietnamese**, or the brief targets the Vietnamese market. The mechanism in SKILL.md is unchanged — Durex Vietnam ran the same playbook for over a decade, well enough that Vietnamese marketers nicknamed the brand **"thánh bắt trend"** ("the trend-jacking saint"). What changes is the material: which formulas exist in Vietnamese, the length budget, the calendar, the red lines, and the type.
 
-> **On accuracy**: the corpus lines below are quoted from Vietnamese press and marketing-analysis coverage (source list at the end of README.vi.md's Vietnam section). Original fanpage posts may differ slightly in punctuation or line breaks. Study the **mechanism**; don't recycle the lines.
+> **On accuracy**: the corpus lines below are quoted from Vietnamese press and marketing-analysis coverage (source list at the end of README.md's Vietnam section). Original fanpage posts may differ slightly in punctuation or line breaks. Study the **mechanism**; don't recycle the lines.
 
 ---
 
